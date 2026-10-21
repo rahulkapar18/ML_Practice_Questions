@@ -1,0 +1,1001 @@
+order_id,order_date,customer_id,customer_segment,region,sales_channel,product_category,product_name,quantity,currency,unit_price,discount_pct,gross_sales,discount_amount,net_sales,unit_cost,cost_of_goods_sold,shipping_cost,gross_profit,contribution_profit,contribution_margin_pct,delivery_days,customer_satisfaction_1_to_5
+ORD-00001,2025-01-01,CUS-0001,Small Business,North,Direct Sales,Accessories,Backpack,4,USD,59,5,236,11.8,224.2,25,100,10.44,124.2,113.76,50.74,8,3
+ORD-00002,2025-01-02,CUS-0164,Corporate,South,Online,Technology,Laptop,18,USD,899,0,16182,0,16182,610,10980,31.94,5202,5170.06,31.95,9,3
+ORD-00003,2025-01-02,CUS-0238,Consumer,East,Direct Sales,Technology,Keyboard,5,USD,65,0,325,0,325,28,140,12.86,185,172.14,52.97,6,5
+ORD-00004,2025-01-02,CUS-0010,Consumer,East,Online,Accessories,Desk Lamp,1,USD,39,10,39,3.9,35.1,16,16,7.71,19.1,11.39,32.45,7,3
+ORD-00005,2025-01-05,CUS-0049,Small Business,West,Direct Sales,Office Supplies,Notebook Set,1,USD,18,10,18,1.8,16.2,7,7,8.31,9.2,0.89,5.49,8,4
+ORD-00006,2025-01-05,CUS-0089,Consumer,West,Online,Accessories,Desk Lamp,4,USD,39,20,156,31.2,124.8,16,64,13.79,60.8,47.01,37.67,6,3
+ORD-00007,2025-01-05,CUS-0249,Small Business,East,Direct Sales,Furniture,Office Chair,5,USD,195,5,975,48.75,926.25,105,525,12.53,401.25,388.72,41.97,4,4
+ORD-00008,2025-01-05,CUS-0241,Small Business,East,Direct Sales,Technology,Laptop,8,USD,899,10,7192,719.2,6472.8,610,4880,18.2,1592.8,1574.6,24.33,1,5
+ORD-00009,2025-01-05,CUS-0123,Corporate,East,Online,Furniture,Desk,6,USD,350,10,2100,210,1890,210,1260,15.87,630,614.13,32.49,6,4
+ORD-00010,2025-01-06,CUS-0069,Small Business,West,Direct Sales,Office Supplies,Printer Ink,4,USD,49,15,196,29.4,166.6,24,96,12.29,70.6,58.31,35,6,4
+ORD-00011,2025-01-07,CUS-0221,Corporate,West,Direct Sales,Office Supplies,Paper Pack,18,USD,12,0,216,0,216,5,90,33.29,126,92.71,42.92,3,5
+ORD-00012,2025-01-07,CUS-0053,Consumer,West,Retail,Office Supplies,Notebook Set,3,USD,18,0,54,0,54,7,21,0,33,33,61.11,0,4
+ORD-00013,2025-01-07,CUS-0051,Small Business,West,Retail,Office Supplies,Printer Ink,7,USD,49,0,343,0,343,24,168,0,175,175,51.02,0,5
+ORD-00014,2025-01-07,CUS-0162,Small Business,South,Direct Sales,Office Supplies,Printer Ink,1,USD,49,0,49,0,49,24,24,5.91,25,19.09,38.96,5,5
+ORD-00015,2025-01-08,CUS-0153,Consumer,West,Direct Sales,Office Supplies,Printer Ink,4,USD,49,15,196,29.4,166.6,24,96,9.58,70.6,61.02,36.63,3,4
+ORD-00016,2025-01-08,CUS-0249,Small Business,East,Direct Sales,Technology,Laptop,3,USD,899,0,2697,0,2697,610,1830,9.91,867,857.09,31.78,9,3
+ORD-00017,2025-01-09,CUS-0002,Corporate,South,Online,Technology,Laptop,9,USD,899,5,8091,404.55,7686.45,610,5490,22.09,2196.45,2174.36,28.29,7,3
+ORD-00018,2025-01-09,CUS-0016,Small Business,North,Online,Office Supplies,Notebook Set,5,USD,18,10,90,9,81,7,35,14.66,46,31.34,38.69,4,4
+ORD-00019,2025-01-09,CUS-0057,Consumer,East,Online,Furniture,Office Chair,1,USD,195,0,195,0,195,105,105,11.42,90,78.58,40.3,6,4
+ORD-00020,2025-01-09,CUS-0077,Consumer,South,Direct Sales,Technology,Monitor,1,USD,249,10,249,24.9,224.1,155,155,6.22,69.1,62.88,28.06,7,3
+ORD-00021,2025-01-10,CUS-0242,Corporate,South,Retail,Accessories,Desk Lamp,11,USD,39,10,429,42.9,386.1,16,176,0,210.1,210.1,54.42,0,4
+ORD-00022,2025-01-11,CUS-0127,Small Business,West,Direct Sales,Furniture,Office Chair,6,USD,195,0,1170,0,1170,105,630,14.19,540,525.81,44.94,8,3
+ORD-00023,2025-01-11,CUS-0161,Small Business,South,Direct Sales,Furniture,Desk,7,USD,350,0,2450,0,2450,210,1470,20.08,980,959.92,39.18,7,4
+ORD-00024,2025-01-11,CUS-0002,Corporate,South,Direct Sales,Furniture,Desk,17,USD,350,0,5950,0,5950,210,3570,26.04,2380,2353.96,39.56,5,4
+ORD-00025,2025-01-11,CUS-0013,Consumer,South,Online,Technology,Monitor,1,USD,249,15,249,37.35,211.65,155,155,10.66,56.65,45.99,21.73,6,4
+ORD-00026,2025-01-11,CUS-0189,Small Business,North,Direct Sales,Furniture,Desk,6,USD,350,10,2100,210,1890,210,1260,12.94,630,617.06,32.65,7,4
+ORD-00027,2025-01-11,CUS-0207,Corporate,South,Online,Technology,Keyboard,20,USD,65,10,1300,130,1170,28,560,28.85,610,581.15,49.67,2,5
+ORD-00028,2025-01-13,CUS-0189,Small Business,North,Direct Sales,Technology,Monitor,4,USD,249,0,996,0,996,155,620,13.91,376,362.09,36.35,2,4
+ORD-00029,2025-01-13,CUS-0220,Consumer,West,Direct Sales,Office Supplies,Notebook Set,4,USD,18,15,72,10.8,61.2,7,28,17.7,33.2,15.5,25.33,9,3
+ORD-00030,2025-01-13,CUS-0232,Consumer,North,Online,Office Supplies,Notebook Set,4,USD,18,0,72,0,72,7,28,13.22,44,30.78,42.75,3,5
+ORD-00031,2025-01-13,CUS-0063,Small Business,South,Direct Sales,Technology,Monitor,10,USD,249,0,2490,0,2490,155,1550,20.86,940,919.14,36.91,4,4
+ORD-00032,2025-01-14,CUS-0217,Consumer,East,Online,Furniture,Office Chair,1,USD,195,15,195,29.25,165.75,105,105,7.66,60.75,53.09,32.03,1,5
+ORD-00033,2025-01-14,CUS-0058,Small Business,South,Retail,Technology,Keyboard,7,USD,65,15,455,68.25,386.75,28,196,0,190.75,190.75,49.32,0,5
+ORD-00034,2025-01-15,CUS-0205,Small Business,West,Retail,Furniture,Desk,4,USD,350,0,1400,0,1400,210,840,0,560,560,40,0,5
+ORD-00035,2025-01-15,CUS-0021,Small Business,North,Online,Office Supplies,Paper Pack,12,USD,12,20,144,28.8,115.2,5,60,19.51,55.2,35.69,30.98,4,5
+ORD-00036,2025-01-15,CUS-0037,Consumer,South,Online,Furniture,Desk,4,USD,350,0,1400,0,1400,210,840,12.75,560,547.25,39.09,2,5
+ORD-00037,2025-01-15,CUS-0204,Small Business,North,Retail,Furniture,Office Chair,6,USD,195,10,1170,117,1053,105,630,0,423,423,40.17,0,5
+ORD-00038,2025-01-15,CUS-0107,Small Business,East,Direct Sales,Furniture,Office Chair,11,USD,195,0,2145,0,2145,105,1155,21.45,990,968.55,45.15,8,4
+ORD-00039,2025-01-15,CUS-0113,Consumer,East,Retail,Furniture,Office Chair,3,USD,195,0,585,0,585,105,315,0,270,270,46.15,0,5
+ORD-00040,2025-01-16,CUS-0140,Consumer,South,Retail,Technology,Keyboard,4,USD,65,20,260,52,208,28,112,0,96,96,46.15,0,5
+ORD-00041,2025-01-16,CUS-0201,Small Business,South,Retail,Accessories,Desk Lamp,1,USD,39,0,39,0,39,16,16,0,23,23,58.97,0,5
+ORD-00042,2025-01-16,CUS-0053,Consumer,West,Online,Accessories,Desk Lamp,2,USD,39,15,78,11.7,66.3,16,32,11.42,34.3,22.88,34.51,1,5
+ORD-00043,2025-01-16,CUS-0058,Small Business,South,Direct Sales,Office Supplies,Paper Pack,11,USD,12,0,132,0,132,5,55,22.85,77,54.15,41.02,3,4
+ORD-00044,2025-01-16,CUS-0202,Small Business,East,Direct Sales,Accessories,Desk Lamp,8,USD,39,20,312,62.4,249.6,16,128,14.88,121.6,106.72,42.76,8,3
+ORD-00045,2025-01-16,CUS-0108,Consumer,South,Retail,Furniture,Office Chair,2,USD,195,0,390,0,390,105,210,0,180,180,46.15,0,5
+ORD-00046,2025-01-17,CUS-0092,Consumer,North,Online,Technology,Laptop,5,USD,899,15,4495,674.25,3820.75,610,3050,18.12,770.75,752.63,19.7,8,4
+ORD-00047,2025-01-17,CUS-0150,Corporate,South,Retail,Technology,Keyboard,18,USD,65,15,1170,175.5,994.5,28,504,0,490.5,490.5,49.32,0,4
+ORD-00048,2025-01-17,CUS-0134,Small Business,South,Retail,Technology,Monitor,2,USD,249,15,498,74.7,423.3,155,310,0,113.3,113.3,26.77,0,5
+ORD-00049,2025-01-18,CUS-0135,Small Business,East,Direct Sales,Furniture,Office Chair,10,USD,195,20,1950,390,1560,105,1050,17.1,510,492.9,31.6,3,5
+ORD-00050,2025-01-18,CUS-0177,Consumer,West,Direct Sales,Office Supplies,Paper Pack,1,USD,12,0,12,0,12,5,5,13.95,7,-6.95,-57.92,3,5
+ORD-00051,2025-01-18,CUS-0029,Consumer,East,Retail,Office Supplies,Printer Ink,2,USD,49,10,98,9.8,88.2,24,48,0,40.2,40.2,45.58,0,5
+ORD-00052,2025-01-19,CUS-0231,Corporate,South,Direct Sales,Furniture,Desk,15,USD,350,15,5250,787.5,4462.5,210,3150,24.92,1312.5,1287.58,28.85,7,3
+ORD-00053,2025-01-19,CUS-0100,Small Business,West,Direct Sales,Furniture,Desk,10,USD,350,0,3500,0,3500,210,2100,21.07,1400,1378.93,39.4,7,5
+ORD-00054,2025-01-19,CUS-0030,Small Business,West,Retail,Accessories,Backpack,2,USD,59,5,118,5.9,112.1,25,50,0,62.1,62.1,55.4,0,5
+ORD-00055,2025-01-20,CUS-0184,Corporate,East,Retail,Furniture,Desk,10,USD,350,15,3500,525,2975,210,2100,0,875,875,29.41,0,5
+ORD-00056,2025-01-20,CUS-0084,Corporate,East,Retail,Technology,Keyboard,8,USD,65,5,520,26,494,28,224,0,270,270,54.66,0,5
+ORD-00057,2025-01-20,CUS-0096,Corporate,East,Direct Sales,Technology,Keyboard,25,USD,65,0,1625,0,1625,28,700,37.82,925,887.18,54.6,3,5
+ORD-00058,2025-01-21,CUS-0247,Small Business,East,Retail,Office Supplies,Printer Ink,4,USD,49,15,196,29.4,166.6,24,96,0,70.6,70.6,42.38,0,4
+ORD-00059,2025-01-21,CUS-0004,Corporate,North,Retail,Technology,Keyboard,17,USD,65,20,1105,221,884,28,476,0,408,408,46.15,0,5
+ORD-00060,2025-01-22,CUS-0005,Consumer,East,Retail,Office Supplies,Notebook Set,5,USD,18,5,90,4.5,85.5,7,35,0,50.5,50.5,59.06,0,5
+ORD-00061,2025-01-22,CUS-0160,Small Business,East,Online,Office Supplies,Notebook Set,3,USD,18,0,54,0,54,7,21,15.82,33,17.18,31.81,9,4
+ORD-00062,2025-01-22,CUS-0089,Consumer,West,Retail,Accessories,Backpack,5,USD,59,0,295,0,295,25,125,0,170,170,57.63,0,5
+ORD-00063,2025-01-22,CUS-0237,Corporate,West,Retail,Accessories,Desk Lamp,21,USD,39,0,819,0,819,16,336,0,483,483,58.97,0,5
+ORD-00064,2025-01-22,CUS-0147,Consumer,West,Online,Technology,Laptop,5,USD,899,10,4495,449.5,4045.5,610,3050,18.01,995.5,977.49,24.16,5,4
+ORD-00065,2025-01-23,CUS-0066,Consumer,West,Online,Office Supplies,Printer Ink,2,USD,49,0,98,0,98,24,48,9.84,50,40.16,40.98,5,4
+ORD-00066,2025-01-23,CUS-0024,Small Business,East,Retail,Office Supplies,Printer Ink,11,USD,49,5,539,26.95,512.05,24,264,0,248.05,248.05,48.44,0,4
+ORD-00067,2025-01-23,CUS-0180,Corporate,South,Retail,Office Supplies,Printer Ink,16,USD,49,15,784,117.6,666.4,24,384,0,282.4,282.4,42.38,0,5
+ORD-00068,2025-01-24,CUS-0140,Consumer,South,Direct Sales,Office Supplies,Notebook Set,2,USD,18,10,36,3.6,32.4,7,14,9.52,18.4,8.88,27.41,5,3
+ORD-00069,2025-01-24,CUS-0193,Corporate,West,Retail,Technology,Keyboard,7,USD,65,5,455,22.75,432.25,28,196,0,236.25,236.25,54.66,0,4
+ORD-00070,2025-01-24,CUS-0184,Corporate,East,Direct Sales,Office Supplies,Notebook Set,10,USD,18,20,180,36,144,7,70,21.48,74,52.52,36.47,9,4
+ORD-00071,2025-01-25,CUS-0029,Consumer,East,Online,Furniture,Office Chair,1,USD,195,20,195,39,156,105,105,6.58,51,44.42,28.47,7,4
+ORD-00072,2025-01-25,CUS-0021,Small Business,North,Retail,Technology,Monitor,7,USD,249,5,1743,87.15,1655.85,155,1085,0,570.85,570.85,34.47,0,5
+ORD-00073,2025-01-26,CUS-0075,Small Business,South,Retail,Technology,Keyboard,7,USD,65,20,455,91,364,28,196,0,168,168,46.15,0,4
+ORD-00074,2025-01-26,CUS-0190,Consumer,West,Online,Technology,Monitor,2,USD,249,10,498,49.8,448.2,155,310,15.2,138.2,123,27.44,6,4
+ORD-00075,2025-01-27,CUS-0099,Small Business,North,Online,Furniture,Desk,2,USD,350,20,700,140,560,210,420,11.77,140,128.23,22.9,5,3
+ORD-00076,2025-01-27,CUS-0118,Small Business,South,Direct Sales,Office Supplies,Printer Ink,6,USD,49,0,294,0,294,24,144,16.33,150,133.67,45.47,7,5
+ORD-00077,2025-01-28,CUS-0132,Small Business,South,Direct Sales,Office Supplies,Notebook Set,12,USD,18,0,216,0,216,7,84,22.83,132,109.17,50.54,9,3
+ORD-00078,2025-01-28,CUS-0197,Small Business,North,Direct Sales,Furniture,Desk,5,USD,350,0,1750,0,1750,210,1050,10.99,700,689.01,39.37,7,5
+ORD-00079,2025-01-28,CUS-0233,Small Business,South,Direct Sales,Accessories,Desk Lamp,12,USD,39,0,468,0,468,16,192,22.33,276,253.67,54.2,2,4
+ORD-00080,2025-01-29,CUS-0047,Consumer,North,Direct Sales,Office Supplies,Notebook Set,5,USD,18,0,90,0,90,7,35,12.43,55,42.57,47.3,9,4
+ORD-00081,2025-01-29,CUS-0154,Consumer,South,Direct Sales,Furniture,Desk,3,USD,350,20,1050,210,840,210,630,11.09,210,198.91,23.68,8,5
+ORD-00082,2025-01-29,CUS-0073,Corporate,East,Retail,Accessories,Backpack,19,USD,59,10,1121,112.1,1008.9,25,475,0,533.9,533.9,52.92,0,4
+ORD-00083,2025-01-30,CUS-0221,Corporate,West,Retail,Accessories,Desk Lamp,20,USD,39,5,780,39,741,16,320,0,421,421,56.82,0,5
+ORD-00084,2025-01-30,CUS-0062,Consumer,East,Retail,Accessories,Backpack,3,USD,59,20,177,35.4,141.6,25,75,0,66.6,66.6,47.03,0,5
+ORD-00085,2025-01-30,CUS-0033,Corporate,West,Retail,Technology,Keyboard,18,USD,65,15,1170,175.5,994.5,28,504,0,490.5,490.5,49.32,0,5
+ORD-00086,2025-02-01,CUS-0012,Consumer,North,Online,Office Supplies,Notebook Set,3,USD,18,20,54,10.8,43.2,7,21,10.98,22.2,11.22,25.97,3,5
+ORD-00087,2025-02-01,CUS-0053,Consumer,West,Direct Sales,Furniture,Office Chair,3,USD,195,0,585,0,585,105,315,11.62,270,258.38,44.17,4,5
+ORD-00088,2025-02-01,CUS-0035,Consumer,East,Retail,Furniture,Desk,1,USD,350,15,350,52.5,297.5,210,210,0,87.5,87.5,29.41,0,5
+ORD-00089,2025-02-01,CUS-0049,Small Business,West,Online,Office Supplies,Paper Pack,8,USD,12,10,96,9.6,86.4,5,40,15.66,46.4,30.74,35.58,7,3
+ORD-00090,2025-02-02,CUS-0170,Corporate,East,Direct Sales,Technology,Keyboard,14,USD,65,0,910,0,910,28,392,24.54,518,493.46,54.23,5,4
+ORD-00091,2025-02-03,CUS-0228,Small Business,West,Direct Sales,Technology,Laptop,9,USD,899,20,8091,1618.2,6472.8,610,5490,18.19,982.8,964.61,14.9,4,4
+ORD-00092,2025-02-03,CUS-0165,Corporate,South,Direct Sales,Furniture,Desk,14,USD,350,20,4900,980,3920,210,2940,22.5,980,957.5,24.43,4,5
+ORD-00093,2025-02-03,CUS-0220,Consumer,West,Retail,Technology,Monitor,5,USD,249,20,1245,249,996,155,775,0,221,221,22.19,0,4
+ORD-00094,2025-02-04,CUS-0174,Corporate,East,Retail,Technology,Monitor,1,USD,249,20,249,49.8,199.2,155,155,0,44.2,44.2,22.19,0,5
+ORD-00095,2025-02-04,CUS-0169,Consumer,West,Direct Sales,Office Supplies,Notebook Set,5,USD,18,0,90,0,90,7,35,10.94,55,44.06,48.96,2,4
+ORD-00096,2025-02-05,CUS-0183,Consumer,West,Direct Sales,Accessories,Desk Lamp,3,USD,39,0,117,0,117,16,48,15.15,69,53.85,46.03,4,5
+ORD-00097,2025-02-05,CUS-0001,Small Business,North,Retail,Technology,Keyboard,12,USD,65,0,780,0,780,28,336,0,444,444,56.92,0,5
+ORD-00098,2025-02-05,CUS-0192,Corporate,West,Online,Furniture,Office Chair,3,USD,195,0,585,0,585,105,315,8.64,270,261.36,44.68,6,4
+ORD-00099,2025-02-06,CUS-0011,Consumer,South,Retail,Office Supplies,Notebook Set,4,USD,18,0,72,0,72,7,28,0,44,44,61.11,0,5
+ORD-00100,2025-02-06,CUS-0138,Small Business,North,Direct Sales,Accessories,Desk Lamp,4,USD,39,15,156,23.4,132.6,16,64,16.94,68.6,51.66,38.96,6,4
+ORD-00101,2025-02-07,CUS-0140,Consumer,South,Retail,Technology,Monitor,4,USD,249,10,996,99.6,896.4,155,620,0,276.4,276.4,30.83,0,5
+ORD-00102,2025-02-07,CUS-0235,Consumer,West,Retail,Accessories,Backpack,1,USD,59,0,59,0,59,25,25,0,34,34,57.63,0,5
+ORD-00103,2025-02-07,CUS-0219,Corporate,North,Retail,Accessories,Backpack,25,USD,59,0,1475,0,1475,25,625,0,850,850,57.63,0,5
+ORD-00104,2025-02-08,CUS-0046,Consumer,West,Direct Sales,Office Supplies,Paper Pack,2,USD,12,0,24,0,24,5,10,12.22,14,1.78,7.42,3,4
+ORD-00105,2025-02-09,CUS-0154,Consumer,South,Online,Technology,Keyboard,5,USD,65,0,325,0,325,28,140,14.02,185,170.98,52.61,6,4
+ORD-00106,2025-02-09,CUS-0047,Consumer,North,Online,Office Supplies,Notebook Set,2,USD,18,5,36,1.8,34.2,7,14,8.87,20.2,11.33,33.13,7,3
+ORD-00107,2025-02-09,CUS-0242,Corporate,South,Online,Furniture,Office Chair,20,USD,195,10,3900,390,3510,105,2100,32.79,1410,1377.21,39.24,1,5
+ORD-00108,2025-02-10,CUS-0145,Consumer,East,Direct Sales,Office Supplies,Paper Pack,4,USD,12,5,48,2.4,45.6,5,20,8.85,25.6,16.75,36.73,5,4
+ORD-00109,2025-02-10,CUS-0049,Small Business,West,Online,Office Supplies,Notebook Set,2,USD,18,15,36,5.4,30.6,7,14,12.09,16.6,4.51,14.74,5,4
+ORD-00110,2025-02-11,CUS-0012,Consumer,North,Online,Office Supplies,Printer Ink,1,USD,49,0,49,0,49,24,24,6.73,25,18.27,37.29,8,3
+ORD-00111,2025-02-11,CUS-0119,Small Business,South,Direct Sales,Office Supplies,Notebook Set,3,USD,18,20,54,10.8,43.2,7,21,14.23,22.2,7.97,18.45,5,4
+ORD-00112,2025-02-11,CUS-0223,Corporate,West,Retail,Accessories,Backpack,18,USD,59,15,1062,159.3,902.7,25,450,0,452.7,452.7,50.15,0,5
+ORD-00113,2025-02-12,CUS-0182,Small Business,South,Online,Accessories,Desk Lamp,2,USD,39,0,78,0,78,16,32,8.31,46,37.69,48.32,9,4
+ORD-00114,2025-02-12,CUS-0084,Corporate,East,Direct Sales,Office Supplies,Notebook Set,2,USD,18,0,36,0,36,7,14,10.29,22,11.71,32.53,1,4
+ORD-00115,2025-02-13,CUS-0112,Corporate,West,Online,Accessories,Desk Lamp,25,USD,39,15,975,146.25,828.75,16,400,41.51,428.75,387.24,46.73,7,3
+ORD-00116,2025-02-13,CUS-0190,Consumer,West,Direct Sales,Technology,Monitor,4,USD,249,0,996,0,996,155,620,13.1,376,362.9,36.44,5,5
+ORD-00117,2025-02-13,CUS-0116,Consumer,North,Online,Furniture,Desk,1,USD,350,10,350,35,315,210,210,13.38,105,91.62,29.09,8,3
+ORD-00118,2025-02-14,CUS-0181,Small Business,North,Direct Sales,Technology,Keyboard,2,USD,65,0,130,0,130,28,56,13.73,74,60.27,46.36,8,3
+ORD-00119,2025-02-14,CUS-0038,Small Business,North,Direct Sales,Accessories,Desk Lamp,11,USD,39,20,429,85.8,343.2,16,176,20.83,167.2,146.37,42.65,7,3
+ORD-00120,2025-02-15,CUS-0138,Small Business,North,Online,Technology,Monitor,1,USD,249,15,249,37.35,211.65,155,155,11.28,56.65,45.37,21.44,3,5
+ORD-00121,2025-02-15,CUS-0032,Corporate,East,Direct Sales,Technology,Monitor,25,USD,249,0,6225,0,6225,155,3875,39.1,2350,2310.9,37.12,3,5
+ORD-00122,2025-02-16,CUS-0094,Corporate,West,Direct Sales,Office Supplies,Paper Pack,16,USD,12,5,192,9.6,182.4,5,80,23.86,102.4,78.54,43.06,4,4
+ORD-00123,2025-02-16,CUS-0120,Small Business,West,Direct Sales,Accessories,Backpack,1,USD,59,5,59,2.95,56.05,25,25,12.01,31.05,19.04,33.97,2,5
+ORD-00124,2025-02-16,CUS-0214,Consumer,East,Online,Office Supplies,Notebook Set,2,USD,18,0,36,0,36,7,14,13.55,22,8.45,23.47,9,4
+ORD-00125,2025-02-16,CUS-0114,Small Business,East,Direct Sales,Accessories,Backpack,3,USD,59,0,177,0,177,25,75,8.55,102,93.45,52.8,7,4
+ORD-00126,2025-02-17,CUS-0207,Corporate,South,Online,Accessories,Desk Lamp,23,USD,39,0,897,0,897,16,368,38.22,529,490.78,54.71,2,5
+ORD-00127,2025-02-18,CUS-0024,Small Business,East,Retail,Office Supplies,Printer Ink,4,USD,49,10,196,19.6,176.4,24,96,0,80.4,80.4,45.58,0,5
+ORD-00128,2025-02-18,CUS-0160,Small Business,East,Retail,Office Supplies,Printer Ink,8,USD,49,20,392,78.4,313.6,24,192,0,121.6,121.6,38.78,0,5
+ORD-00129,2025-02-19,CUS-0176,Consumer,South,Direct Sales,Furniture,Desk,3,USD,350,20,1050,210,840,210,630,12.89,210,197.11,23.47,5,3
+ORD-00130,2025-02-19,CUS-0087,Consumer,North,Online,Technology,Laptop,5,USD,899,0,4495,0,4495,610,3050,12.11,1445,1432.89,31.88,2,4
+ORD-00131,2025-02-19,CUS-0235,Consumer,West,Retail,Technology,Keyboard,1,USD,65,20,65,13,52,28,28,0,24,24,46.15,0,5
+ORD-00132,2025-02-19,CUS-0185,Consumer,South,Direct Sales,Technology,Laptop,5,USD,899,0,4495,0,4495,610,3050,16.82,1445,1428.18,31.77,4,5
+ORD-00133,2025-02-20,CUS-0244,Consumer,North,Direct Sales,Accessories,Backpack,3,USD,59,0,177,0,177,25,75,15.4,102,86.6,48.93,9,2
+ORD-00134,2025-02-21,CUS-0212,Small Business,West,Retail,Accessories,Backpack,2,USD,59,0,118,0,118,25,50,0,68,68,57.63,0,4
+ORD-00135,2025-02-22,CUS-0234,Consumer,East,Direct Sales,Technology,Keyboard,2,USD,65,0,130,0,130,28,56,13.77,74,60.23,46.33,4,4
+ORD-00136,2025-02-22,CUS-0166,Consumer,North,Retail,Office Supplies,Printer Ink,1,USD,49,0,49,0,49,24,24,0,25,25,51.02,0,5
+ORD-00137,2025-02-23,CUS-0140,Consumer,South,Online,Technology,Laptop,1,USD,899,0,899,0,899,610,610,6.31,289,282.69,31.44,1,4
+ORD-00138,2025-02-23,CUS-0147,Consumer,West,Retail,Office Supplies,Printer Ink,4,USD,49,10,196,19.6,176.4,24,96,0,80.4,80.4,45.58,0,4
+ORD-00139,2025-02-24,CUS-0181,Small Business,North,Online,Furniture,Office Chair,5,USD,195,5,975,48.75,926.25,105,525,13.26,401.25,387.99,41.89,3,5
+ORD-00140,2025-02-25,CUS-0016,Small Business,North,Online,Accessories,Backpack,1,USD,59,20,59,11.8,47.2,25,25,13.67,22.2,8.53,18.07,8,4
+ORD-00141,2025-02-25,CUS-0233,Small Business,South,Retail,Furniture,Office Chair,5,USD,195,15,975,146.25,828.75,105,525,0,303.75,303.75,36.65,0,5
+ORD-00142,2025-02-25,CUS-0134,Small Business,South,Retail,Accessories,Desk Lamp,6,USD,39,10,234,23.4,210.6,16,96,0,114.6,114.6,54.42,0,5
+ORD-00143,2025-02-26,CUS-0175,Small Business,North,Retail,Office Supplies,Printer Ink,4,USD,49,5,196,9.8,186.2,24,96,0,90.2,90.2,48.44,0,4
+ORD-00144,2025-02-26,CUS-0036,Consumer,East,Direct Sales,Accessories,Backpack,4,USD,59,5,236,11.8,224.2,25,100,14.47,124.2,109.73,48.94,3,5
+ORD-00145,2025-02-26,CUS-0033,Corporate,West,Direct Sales,Technology,Keyboard,12,USD,65,0,780,0,780,28,336,23.6,444,420.4,53.9,8,4
+ORD-00146,2025-02-26,CUS-0193,Corporate,West,Direct Sales,Furniture,Desk,8,USD,350,5,2800,140,2660,210,1680,14.63,980,965.37,36.29,8,4
+ORD-00147,2025-02-26,CUS-0105,Consumer,East,Retail,Office Supplies,Paper Pack,3,USD,12,20,36,7.2,28.8,5,15,0,13.8,13.8,47.92,0,5
+ORD-00148,2025-02-27,CUS-0247,Small Business,East,Direct Sales,Office Supplies,Printer Ink,12,USD,49,0,588,0,588,24,288,25.25,300,274.75,46.73,2,5
+ORD-00149,2025-02-27,CUS-0119,Small Business,South,Direct Sales,Accessories,Desk Lamp,8,USD,39,15,312,46.8,265.2,16,128,15.22,137.2,121.98,46,3,5
+ORD-00150,2025-02-28,CUS-0214,Consumer,East,Online,Furniture,Desk,3,USD,350,15,1050,157.5,892.5,210,630,16.13,262.5,246.37,27.6,6,4
+ORD-00151,2025-02-28,CUS-0178,Corporate,East,Direct Sales,Office Supplies,Printer Ink,8,USD,49,20,392,78.4,313.6,24,192,17.04,121.6,104.56,33.34,8,4
+ORD-00152,2025-03-01,CUS-0026,Consumer,South,Retail,Accessories,Desk Lamp,3,USD,39,20,117,23.4,93.6,16,48,0,45.6,45.6,48.72,0,5
+ORD-00153,2025-03-01,CUS-0093,Corporate,East,Retail,Furniture,Desk,1,USD,350,15,350,52.5,297.5,210,210,0,87.5,87.5,29.41,0,4
+ORD-00154,2025-03-02,CUS-0120,Small Business,West,Online,Technology,Keyboard,5,USD,65,0,325,0,325,28,140,10.13,185,174.87,53.81,3,4
+ORD-00155,2025-03-02,CUS-0245,Small Business,North,Retail,Accessories,Desk Lamp,9,USD,39,10,351,35.1,315.9,16,144,0,171.9,171.9,54.42,0,5
+ORD-00156,2025-03-02,CUS-0231,Corporate,South,Direct Sales,Office Supplies,Notebook Set,2,USD,18,20,36,7.2,28.8,7,14,8.83,14.8,5.97,20.73,8,4
+ORD-00157,2025-03-02,CUS-0092,Consumer,North,Retail,Office Supplies,Paper Pack,1,USD,12,0,12,0,12,5,5,0,7,7,58.33,0,5
+ORD-00158,2025-03-03,CUS-0007,Small Business,South,Direct Sales,Office Supplies,Notebook Set,1,USD,18,5,18,0.9,17.1,7,7,11.76,10.1,-1.66,-9.71,2,5
+ORD-00159,2025-03-03,CUS-0234,Consumer,East,Retail,Office Supplies,Notebook Set,1,USD,18,20,18,3.6,14.4,7,7,0,7.4,7.4,51.39,0,5
+ORD-00160,2025-03-03,CUS-0119,Small Business,South,Online,Accessories,Desk Lamp,12,USD,39,20,468,93.6,374.4,16,192,25.64,182.4,156.76,41.87,8,3
+ORD-00161,2025-03-03,CUS-0041,Small Business,East,Retail,Technology,Keyboard,5,USD,65,5,325,16.25,308.75,28,140,0,168.75,168.75,54.66,0,5
+ORD-00162,2025-03-04,CUS-0198,Consumer,East,Direct Sales,Furniture,Desk,3,USD,350,20,1050,210,840,210,630,14.67,210,195.33,23.25,6,4
+ORD-00163,2025-03-04,CUS-0226,Corporate,West,Retail,Technology,Laptop,12,USD,899,20,10788,2157.6,8630.4,610,7320,0,1310.4,1310.4,15.18,0,5
+ORD-00164,2025-03-06,CUS-0179,Small Business,West,Retail,Technology,Laptop,9,USD,899,0,8091,0,8091,610,5490,0,2601,2601,32.15,0,5
+ORD-00165,2025-03-06,CUS-0004,Corporate,North,Retail,Office Supplies,Paper Pack,7,USD,12,5,84,4.2,79.8,5,35,0,44.8,44.8,56.14,0,5
+ORD-00166,2025-03-06,CUS-0125,Small Business,East,Direct Sales,Office Supplies,Paper Pack,7,USD,12,5,84,4.2,79.8,5,35,19.14,44.8,25.66,32.16,9,3
+ORD-00167,2025-03-07,CUS-0019,Corporate,North,Retail,Office Supplies,Notebook Set,9,USD,18,20,162,32.4,129.6,7,63,0,66.6,66.6,51.39,0,5
+ORD-00168,2025-03-07,CUS-0047,Consumer,North,Direct Sales,Office Supplies,Paper Pack,4,USD,12,10,48,4.8,43.2,5,20,15.28,23.2,7.92,18.33,7,3
+ORD-00169,2025-03-07,CUS-0126,Corporate,East,Retail,Office Supplies,Printer Ink,11,USD,49,15,539,80.85,458.15,24,264,0,194.15,194.15,42.38,0,5
+ORD-00170,2025-03-07,CUS-0022,Corporate,East,Direct Sales,Furniture,Office Chair,11,USD,195,20,2145,429,1716,105,1155,24.92,561,536.08,31.24,3,4
+ORD-00171,2025-03-07,CUS-0159,Corporate,East,Online,Technology,Laptop,25,USD,899,0,22475,0,22475,610,15250,36.31,7225,7188.69,31.99,1,5
+ORD-00172,2025-03-08,CUS-0132,Small Business,South,Retail,Accessories,Backpack,1,USD,59,15,59,8.85,50.15,25,25,0,25.15,25.15,50.15,0,5
+ORD-00173,2025-03-08,CUS-0016,Small Business,North,Retail,Office Supplies,Printer Ink,2,USD,49,0,98,0,98,24,48,0,50,50,51.02,0,4
+ORD-00174,2025-03-08,CUS-0168,Corporate,South,Online,Technology,Keyboard,20,USD,65,15,1300,195,1105,28,560,35.14,545,509.86,46.14,3,5
+ORD-00175,2025-03-09,CUS-0150,Corporate,South,Retail,Accessories,Desk Lamp,17,USD,39,5,663,33.15,629.85,16,272,0,357.85,357.85,56.82,0,5
+ORD-00176,2025-03-09,CUS-0196,Consumer,West,Direct Sales,Accessories,Desk Lamp,4,USD,39,0,156,0,156,16,64,16.17,92,75.83,48.61,3,5
+ORD-00177,2025-03-09,CUS-0106,Consumer,North,Online,Office Supplies,Printer Ink,1,USD,49,5,49,2.45,46.55,24,24,5.58,22.55,16.97,36.46,2,5
+ORD-00178,2025-03-10,CUS-0152,Corporate,North,Retail,Furniture,Desk,14,USD,350,0,4900,0,4900,210,2940,0,1960,1960,40,0,5
+ORD-00179,2025-03-10,CUS-0098,Consumer,North,Online,Furniture,Office Chair,3,USD,195,10,585,58.5,526.5,105,315,16.1,211.5,195.4,37.11,8,3
+ORD-00180,2025-03-10,CUS-0211,Corporate,East,Direct Sales,Office Supplies,Notebook Set,8,USD,18,10,144,14.4,129.6,7,56,18.87,73.6,54.73,42.23,4,4
+ORD-00181,2025-03-10,CUS-0222,Corporate,North,Online,Office Supplies,Paper Pack,10,USD,12,0,120,0,120,5,50,23.47,70,46.53,38.78,7,5
+ORD-00182,2025-03-10,CUS-0191,Small Business,North,Retail,Office Supplies,Notebook Set,7,USD,18,0,126,0,126,7,49,0,77,77,61.11,0,5
+ORD-00183,2025-03-11,CUS-0022,Corporate,East,Direct Sales,Furniture,Office Chair,12,USD,195,5,2340,117,2223,105,1260,20.84,963,942.16,42.38,6,4
+ORD-00184,2025-03-11,CUS-0151,Corporate,South,Online,Accessories,Backpack,25,USD,59,5,1475,73.75,1401.25,25,625,40.14,776.25,736.11,52.53,5,5
+ORD-00185,2025-03-11,CUS-0161,Small Business,South,Direct Sales,Technology,Keyboard,10,USD,65,0,650,0,650,28,280,18.97,370,351.03,54,3,4
+ORD-00186,2025-03-11,CUS-0132,Small Business,South,Online,Furniture,Office Chair,6,USD,195,20,1170,234,936,105,630,19.92,306,286.08,30.56,3,5
+ORD-00187,2025-03-11,CUS-0178,Corporate,East,Retail,Accessories,Backpack,9,USD,59,20,531,106.2,424.8,25,225,0,199.8,199.8,47.03,0,5
+ORD-00188,2025-03-12,CUS-0016,Small Business,North,Online,Office Supplies,Printer Ink,2,USD,49,20,98,19.6,78.4,24,48,11.09,30.4,19.31,24.63,3,5
+ORD-00189,2025-03-12,CUS-0188,Small Business,West,Retail,Office Supplies,Paper Pack,8,USD,12,0,96,0,96,5,40,0,56,56,58.33,0,5
+ORD-00190,2025-03-12,CUS-0085,Small Business,East,Direct Sales,Office Supplies,Notebook Set,6,USD,18,0,108,0,108,7,42,12.74,66,53.26,49.31,9,3
+ORD-00191,2025-03-13,CUS-0246,Small Business,North,Retail,Furniture,Office Chair,7,USD,195,5,1365,68.25,1296.75,105,735,0,561.75,561.75,43.32,0,5
+ORD-00192,2025-03-13,CUS-0214,Consumer,East,Retail,Accessories,Backpack,1,USD,59,5,59,2.95,56.05,25,25,0,31.05,31.05,55.4,0,5
+ORD-00193,2025-03-13,CUS-0135,Small Business,East,Online,Office Supplies,Notebook Set,4,USD,18,15,72,10.8,61.2,7,28,17.25,33.2,15.95,26.06,6,5
+ORD-00194,2025-03-13,CUS-0103,Consumer,North,Retail,Office Supplies,Printer Ink,5,USD,49,15,245,36.75,208.25,24,120,0,88.25,88.25,42.38,0,5
+ORD-00195,2025-03-14,CUS-0054,Small Business,West,Online,Furniture,Desk,11,USD,350,10,3850,385,3465,210,2310,22.51,1155,1132.49,32.68,4,4
+ORD-00196,2025-03-15,CUS-0191,Small Business,North,Online,Accessories,Backpack,6,USD,59,10,354,35.4,318.6,25,150,18.13,168.6,150.47,47.23,1,5
+ORD-00197,2025-03-16,CUS-0117,Small Business,North,Online,Technology,Monitor,8,USD,249,5,1992,99.6,1892.4,155,1240,15.08,652.4,637.32,33.68,7,3
+ORD-00198,2025-03-16,CUS-0162,Small Business,South,Retail,Furniture,Desk,6,USD,350,5,2100,105,1995,210,1260,0,735,735,36.84,0,4
+ORD-00199,2025-03-16,CUS-0050,Small Business,West,Online,Technology,Monitor,3,USD,249,0,747,0,747,155,465,15.58,282,266.42,35.67,8,4
+ORD-00200,2025-03-16,CUS-0130,Corporate,West,Online,Accessories,Desk Lamp,18,USD,39,15,702,105.3,596.7,16,288,34.09,308.7,274.61,46.02,3,4
+ORD-00201,2025-03-17,CUS-0032,Corporate,East,Retail,Furniture,Office Chair,14,USD,195,0,2730,0,2730,105,1470,0,1260,1260,46.15,0,4
+ORD-00202,2025-03-17,CUS-0212,Small Business,West,Online,Office Supplies,Notebook Set,8,USD,18,15,144,21.6,122.4,7,56,14.34,66.4,52.06,42.53,4,5
+ORD-00203,2025-03-17,CUS-0071,Consumer,South,Retail,Accessories,Desk Lamp,3,USD,39,0,117,0,117,16,48,0,69,69,58.97,0,5
+ORD-00204,2025-03-18,CUS-0244,Consumer,North,Direct Sales,Accessories,Backpack,1,USD,59,15,59,8.85,50.15,25,25,6.73,25.15,18.42,36.73,8,3
+ORD-00205,2025-03-19,CUS-0153,Consumer,West,Retail,Accessories,Backpack,1,USD,59,5,59,2.95,56.05,25,25,0,31.05,31.05,55.4,0,5
+ORD-00206,2025-03-19,CUS-0108,Consumer,South,Online,Technology,Keyboard,1,USD,65,0,65,0,65,28,28,11.96,37,25.04,38.52,6,4
+ORD-00207,2025-03-19,CUS-0249,Small Business,East,Retail,Technology,Monitor,1,USD,249,5,249,12.45,236.55,155,155,0,81.55,81.55,34.47,0,5
+ORD-00208,2025-03-19,CUS-0129,Corporate,East,Retail,Furniture,Desk,3,USD,350,0,1050,0,1050,210,630,0,420,420,40,0,5
+ORD-00209,2025-03-20,CUS-0022,Corporate,East,Online,Office Supplies,Printer Ink,12,USD,49,5,588,29.4,558.6,24,288,18.65,270.6,251.95,45.1,5,4
+ORD-00210,2025-03-20,CUS-0211,Corporate,East,Retail,Technology,Keyboard,16,USD,65,20,1040,208,832,28,448,0,384,384,46.15,0,5
+ORD-00211,2025-03-20,CUS-0066,Consumer,West,Retail,Technology,Laptop,4,USD,899,0,3596,0,3596,610,2440,0,1156,1156,32.15,0,5
+ORD-00212,2025-03-21,CUS-0135,Small Business,East,Direct Sales,Furniture,Office Chair,1,USD,195,10,195,19.5,175.5,105,105,8.65,70.5,61.85,35.24,1,4
+ORD-00213,2025-03-21,CUS-0122,Consumer,North,Direct Sales,Technology,Laptop,4,USD,899,0,3596,0,3596,610,2440,15.57,1156,1140.43,31.71,6,4
+ORD-00214,2025-03-21,CUS-0120,Small Business,West,Online,Accessories,Backpack,2,USD,59,20,118,23.6,94.4,25,50,8.96,44.4,35.44,37.54,9,3
+ORD-00215,2025-03-21,CUS-0247,Small Business,East,Retail,Accessories,Desk Lamp,11,USD,39,15,429,64.35,364.65,16,176,0,188.65,188.65,51.73,0,5
+ORD-00216,2025-03-21,CUS-0145,Consumer,East,Retail,Furniture,Office Chair,4,USD,195,10,780,78,702,105,420,0,282,282,40.17,0,5
+ORD-00217,2025-03-21,CUS-0014,Small Business,South,Direct Sales,Technology,Monitor,6,USD,249,0,1494,0,1494,155,930,12.34,564,551.66,36.93,8,4
+ORD-00218,2025-03-23,CUS-0016,Small Business,North,Retail,Accessories,Backpack,12,USD,59,10,708,70.8,637.2,25,300,0,337.2,337.2,52.92,0,5
+ORD-00219,2025-03-23,CUS-0054,Small Business,West,Retail,Office Supplies,Paper Pack,5,USD,12,10,60,6,54,5,25,0,29,29,53.7,0,5
+ORD-00220,2025-03-23,CUS-0222,Corporate,North,Direct Sales,Technology,Laptop,8,USD,899,0,7192,0,7192,610,4880,19.55,2312,2292.45,31.87,2,4
+ORD-00221,2025-03-24,CUS-0052,Consumer,South,Retail,Accessories,Backpack,3,USD,59,15,177,26.55,150.45,25,75,0,75.45,75.45,50.15,0,5
+ORD-00222,2025-03-24,CUS-0160,Small Business,East,Online,Technology,Monitor,6,USD,249,20,1494,298.8,1195.2,155,930,12.39,265.2,252.81,21.15,3,4
+ORD-00223,2025-03-24,CUS-0018,Corporate,North,Retail,Technology,Keyboard,13,USD,65,10,845,84.5,760.5,28,364,0,396.5,396.5,52.14,0,5
+ORD-00224,2025-03-24,CUS-0166,Consumer,North,Retail,Technology,Keyboard,5,USD,65,5,325,16.25,308.75,28,140,0,168.75,168.75,54.66,0,5
+ORD-00225,2025-03-25,CUS-0030,Small Business,West,Direct Sales,Office Supplies,Notebook Set,9,USD,18,15,162,24.3,137.7,7,63,21.73,74.7,52.97,38.47,2,4
+ORD-00226,2025-03-25,CUS-0158,Small Business,North,Direct Sales,Accessories,Desk Lamp,2,USD,39,15,78,11.7,66.3,16,32,10.56,34.3,23.74,35.81,5,4
+ORD-00227,2025-03-25,CUS-0120,Small Business,West,Direct Sales,Technology,Monitor,11,USD,249,0,2739,0,2739,155,1705,23.45,1034,1010.55,36.89,4,4
+ORD-00228,2025-03-25,CUS-0100,Small Business,West,Retail,Accessories,Desk Lamp,11,USD,39,0,429,0,429,16,176,0,253,253,58.97,0,5
+ORD-00229,2025-03-26,CUS-0247,Small Business,East,Direct Sales,Furniture,Desk,4,USD,350,0,1400,0,1400,210,840,9.5,560,550.5,39.32,1,5
+ORD-00230,2025-03-26,CUS-0178,Corporate,East,Direct Sales,Technology,Laptop,2,USD,899,0,1798,0,1798,610,1220,12.69,578,565.31,31.44,1,5
+ORD-00231,2025-03-27,CUS-0112,Corporate,West,Online,Accessories,Backpack,3,USD,59,5,177,8.85,168.15,25,75,15.92,93.15,77.23,45.93,3,4
+ORD-00232,2025-03-27,CUS-0107,Small Business,East,Retail,Technology,Keyboard,4,USD,65,10,260,26,234,28,112,0,122,122,52.14,0,4
+ORD-00233,2025-03-28,CUS-0015,Corporate,South,Retail,Accessories,Desk Lamp,8,USD,39,20,312,62.4,249.6,16,128,0,121.6,121.6,48.72,0,4
+ORD-00234,2025-03-29,CUS-0078,Small Business,South,Direct Sales,Accessories,Desk Lamp,7,USD,39,0,273,0,273,16,112,19.33,161,141.67,51.89,6,3
+ORD-00235,2025-03-29,CUS-0220,Consumer,West,Direct Sales,Accessories,Backpack,5,USD,59,0,295,0,295,25,125,12.42,170,157.58,53.42,6,4
+ORD-00236,2025-03-30,CUS-0014,Small Business,South,Retail,Technology,Keyboard,11,USD,65,20,715,143,572,28,308,0,264,264,46.15,0,5
+ORD-00237,2025-03-30,CUS-0093,Corporate,East,Direct Sales,Office Supplies,Paper Pack,9,USD,12,5,108,5.4,102.6,5,45,22.61,57.6,34.99,34.1,9,3
+ORD-00238,2025-03-30,CUS-0030,Small Business,West,Online,Office Supplies,Notebook Set,5,USD,18,10,90,9,81,7,35,13.56,46,32.44,40.05,4,4
+ORD-00239,2025-03-31,CUS-0185,Consumer,South,Online,Furniture,Desk,2,USD,350,0,700,0,700,210,420,14.36,280,265.64,37.95,2,5
+ORD-00240,2025-03-31,CUS-0208,Small Business,East,Online,Technology,Keyboard,7,USD,65,15,455,68.25,386.75,28,196,19.76,190.75,170.99,44.21,9,4
+ORD-00241,2025-03-31,CUS-0050,Small Business,West,Retail,Technology,Laptop,8,USD,899,10,7192,719.2,6472.8,610,4880,0,1592.8,1592.8,24.61,0,4
+ORD-00242,2025-03-31,CUS-0156,Corporate,North,Online,Accessories,Backpack,15,USD,59,15,885,132.75,752.25,25,375,25.17,377.25,352.08,46.8,2,4
+ORD-00243,2025-04-01,CUS-0193,Corporate,West,Retail,Office Supplies,Printer Ink,10,USD,49,10,490,49,441,24,240,0,201,201,45.58,0,4
+ORD-00244,2025-04-02,CUS-0221,Corporate,West,Retail,Technology,Keyboard,25,USD,65,5,1625,81.25,1543.75,28,700,0,843.75,843.75,54.66,0,4
+ORD-00245,2025-04-02,CUS-0144,Consumer,North,Direct Sales,Furniture,Office Chair,3,USD,195,20,585,117,468,105,315,11.51,153,141.49,30.23,3,4
+ORD-00246,2025-04-03,CUS-0015,Corporate,South,Direct Sales,Office Supplies,Paper Pack,8,USD,12,0,96,0,96,5,40,19.05,56,36.95,38.49,5,3
+ORD-00247,2025-04-03,CUS-0013,Consumer,South,Retail,Furniture,Office Chair,5,USD,195,0,975,0,975,105,525,0,450,450,46.15,0,4
+ORD-00248,2025-04-03,CUS-0203,Small Business,South,Direct Sales,Accessories,Desk Lamp,1,USD,39,0,39,0,39,16,16,9.78,23,13.22,33.9,7,3
+ORD-00249,2025-04-04,CUS-0226,Corporate,West,Direct Sales,Technology,Monitor,24,USD,249,0,5976,0,5976,155,3720,39.28,2256,2216.72,37.09,1,4
+ORD-00250,2025-04-04,CUS-0170,Corporate,East,Retail,Accessories,Desk Lamp,3,USD,39,15,117,17.55,99.45,16,48,0,51.45,51.45,51.73,0,5
+ORD-00251,2025-04-04,CUS-0093,Corporate,East,Online,Office Supplies,Paper Pack,18,USD,12,5,216,10.8,205.2,5,90,28.94,115.2,86.26,42.04,5,4
+ORD-00252,2025-04-05,CUS-0167,Corporate,North,Retail,Technology,Keyboard,23,USD,65,0,1495,0,1495,28,644,0,851,851,56.92,0,4
+ORD-00253,2025-04-05,CUS-0201,Small Business,South,Retail,Furniture,Desk,4,USD,350,10,1400,140,1260,210,840,0,420,420,33.33,0,5
+ORD-00254,2025-04-05,CUS-0131,Small Business,North,Retail,Office Supplies,Paper Pack,9,USD,12,5,108,5.4,102.6,5,45,0,57.6,57.6,56.14,0,4
+ORD-00255,2025-04-05,CUS-0061,Small Business,South,Online,Technology,Laptop,11,USD,899,0,9889,0,9889,610,6710,25.49,3179,3153.51,31.89,6,3
+ORD-00256,2025-04-05,CUS-0191,Small Business,North,Retail,Technology,Keyboard,4,USD,65,5,260,13,247,28,112,0,135,135,54.66,0,5
+ORD-00257,2025-04-06,CUS-0149,Corporate,North,Direct Sales,Technology,Monitor,19,USD,249,20,4731,946.2,3784.8,155,2945,35.05,839.8,804.75,21.26,6,4
+ORD-00258,2025-04-06,CUS-0107,Small Business,East,Direct Sales,Technology,Laptop,6,USD,899,0,5394,0,5394,610,3660,18.02,1734,1715.98,31.81,7,3
+ORD-00259,2025-04-06,CUS-0062,Consumer,East,Online,Office Supplies,Notebook Set,5,USD,18,10,90,9,81,7,35,18.06,46,27.94,34.49,4,5
+ORD-00260,2025-04-06,CUS-0217,Consumer,East,Online,Office Supplies,Notebook Set,2,USD,18,0,36,0,36,7,14,11.57,22,10.43,28.97,3,5
+ORD-00261,2025-04-06,CUS-0019,Corporate,North,Direct Sales,Accessories,Desk Lamp,1,USD,39,0,39,0,39,16,16,10.07,23,12.93,33.15,5,5
+ORD-00262,2025-04-07,CUS-0130,Corporate,West,Retail,Furniture,Desk,24,USD,350,0,8400,0,8400,210,5040,0,3360,3360,40,0,5
+ORD-00263,2025-04-07,CUS-0187,Small Business,North,Direct Sales,Technology,Keyboard,8,USD,65,15,520,78,442,28,224,15.19,218,202.81,45.88,2,5
+ORD-00264,2025-04-07,CUS-0149,Corporate,North,Retail,Accessories,Desk Lamp,9,USD,39,20,351,70.2,280.8,16,144,0,136.8,136.8,48.72,0,5
+ORD-00265,2025-04-07,CUS-0140,Consumer,South,Retail,Furniture,Desk,4,USD,350,5,1400,70,1330,210,840,0,490,490,36.84,0,4
+ORD-00266,2025-04-07,CUS-0040,Consumer,South,Direct Sales,Technology,Laptop,1,USD,899,5,899,44.95,854.05,610,610,7.69,244.05,236.36,27.68,6,5
+ORD-00267,2025-04-08,CUS-0184,Corporate,East,Retail,Technology,Keyboard,9,USD,65,15,585,87.75,497.25,28,252,0,245.25,245.25,49.32,0,4
+ORD-00268,2025-04-08,CUS-0137,Corporate,East,Retail,Office Supplies,Printer Ink,11,USD,49,15,539,80.85,458.15,24,264,0,194.15,194.15,42.38,0,5
+ORD-00269,2025-04-09,CUS-0219,Corporate,North,Online,Technology,Laptop,11,USD,899,0,9889,0,9889,610,6710,20.59,3179,3158.41,31.94,6,3
+ORD-00270,2025-04-10,CUS-0142,Consumer,North,Retail,Office Supplies,Printer Ink,1,USD,49,20,49,9.8,39.2,24,24,0,15.2,15.2,38.78,0,5
+ORD-00271,2025-04-10,CUS-0025,Corporate,West,Retail,Technology,Monitor,2,USD,249,0,498,0,498,155,310,0,188,188,37.75,0,5
+ORD-00272,2025-04-10,CUS-0071,Consumer,South,Online,Office Supplies,Notebook Set,5,USD,18,0,90,0,90,7,35,12.02,55,42.98,47.76,7,4
+ORD-00273,2025-04-10,CUS-0042,Small Business,East,Retail,Technology,Laptop,6,USD,899,15,5394,809.1,4584.9,610,3660,0,924.9,924.9,20.17,0,5
+ORD-00274,2025-04-10,CUS-0162,Small Business,South,Online,Furniture,Office Chair,2,USD,195,0,390,0,390,105,210,8.23,180,171.77,44.04,4,4
+ORD-00275,2025-04-10,CUS-0237,Corporate,West,Online,Technology,Keyboard,11,USD,65,15,715,107.25,607.75,28,308,20.51,299.75,279.24,45.95,7,3
+ORD-00276,2025-04-11,CUS-0001,Small Business,North,Online,Technology,Keyboard,5,USD,65,0,325,0,325,28,140,10.14,185,174.86,53.8,6,4
+ORD-00277,2025-04-11,CUS-0045,Consumer,North,Online,Furniture,Office Chair,3,USD,195,10,585,58.5,526.5,105,315,16.16,211.5,195.34,37.1,8,4
+ORD-00278,2025-04-11,CUS-0217,Consumer,East,Retail,Office Supplies,Printer Ink,1,USD,49,5,49,2.45,46.55,24,24,0,22.55,22.55,48.44,0,5
+ORD-00279,2025-04-11,CUS-0171,Consumer,North,Retail,Technology,Laptop,3,USD,899,20,2697,539.4,2157.6,610,1830,0,327.6,327.6,15.18,0,4
+ORD-00280,2025-04-12,CUS-0120,Small Business,West,Direct Sales,Furniture,Office Chair,8,USD,195,0,1560,0,1560,105,840,22.11,720,697.89,44.74,1,5
+ORD-00281,2025-04-12,CUS-0098,Consumer,North,Direct Sales,Office Supplies,Notebook Set,1,USD,18,20,18,3.6,14.4,7,7,7.73,7.4,-0.33,-2.29,5,4
+ORD-00282,2025-04-12,CUS-0150,Corporate,South,Direct Sales,Accessories,Backpack,7,USD,59,0,413,0,413,25,175,15.84,238,222.16,53.79,5,5
+ORD-00283,2025-04-12,CUS-0121,Small Business,North,Direct Sales,Technology,Monitor,1,USD,249,15,249,37.35,211.65,155,155,10.26,56.65,46.39,21.92,1,5
+ORD-00284,2025-04-12,CUS-0197,Small Business,North,Online,Office Supplies,Printer Ink,3,USD,49,0,147,0,147,24,72,16.47,75,58.53,39.82,9,3
+ORD-00285,2025-04-12,CUS-0053,Consumer,West,Online,Accessories,Desk Lamp,1,USD,39,20,39,7.8,31.2,16,16,11.67,15.2,3.53,11.31,6,4
+ORD-00286,2025-04-13,CUS-0126,Corporate,East,Direct Sales,Technology,Monitor,17,USD,249,0,4233,0,4233,155,2635,25.88,1598,1572.12,37.14,8,3
+ORD-00287,2025-04-13,CUS-0196,Consumer,West,Online,Accessories,Backpack,4,USD,59,0,236,0,236,25,100,10.97,136,125.03,52.98,5,4
+ORD-00288,2025-04-13,CUS-0199,Corporate,West,Direct Sales,Office Supplies,Notebook Set,15,USD,18,10,270,27,243,7,105,22.97,138,115.03,47.34,1,4
+ORD-00289,2025-04-13,CUS-0144,Consumer,North,Online,Accessories,Backpack,4,USD,59,0,236,0,236,25,100,9.03,136,126.97,53.8,3,4
+ORD-00290,2025-04-13,CUS-0018,Corporate,North,Online,Technology,Monitor,17,USD,249,10,4233,423.3,3809.7,155,2635,28.16,1174.7,1146.54,30.1,9,3
+ORD-00291,2025-04-14,CUS-0090,Small Business,West,Retail,Furniture,Desk,8,USD,350,15,2800,420,2380,210,1680,0,700,700,29.41,0,4
+ORD-00292,2025-04-14,CUS-0005,Consumer,East,Direct Sales,Office Supplies,Paper Pack,3,USD,12,10,36,3.6,32.4,5,15,12.41,17.4,4.99,15.4,5,4
+ORD-00293,2025-04-14,CUS-0011,Consumer,South,Retail,Technology,Monitor,3,USD,249,10,747,74.7,672.3,155,465,0,207.3,207.3,30.83,0,5
+ORD-00294,2025-04-15,CUS-0004,Corporate,North,Online,Furniture,Office Chair,11,USD,195,0,2145,0,2145,105,1155,25.05,990,964.95,44.99,4,5
+ORD-00295,2025-04-15,CUS-0041,Small Business,East,Direct Sales,Office Supplies,Paper Pack,5,USD,12,5,60,3,57,5,25,11.83,32,20.17,35.39,6,4
+ORD-00296,2025-04-15,CUS-0202,Small Business,East,Retail,Office Supplies,Printer Ink,11,USD,49,0,539,0,539,24,264,0,275,275,51.02,0,4
+ORD-00297,2025-04-15,CUS-0113,Consumer,East,Retail,Office Supplies,Paper Pack,2,USD,12,10,24,2.4,21.6,5,10,0,11.6,11.6,53.7,0,5
+ORD-00298,2025-04-16,CUS-0111,Corporate,North,Retail,Technology,Laptop,15,USD,899,0,13485,0,13485,610,9150,0,4335,4335,32.15,0,5
+ORD-00299,2025-04-16,CUS-0195,Corporate,South,Retail,Furniture,Office Chair,7,USD,195,20,1365,273,1092,105,735,0,357,357,32.69,0,5
+ORD-00300,2025-04-17,CUS-0159,Corporate,East,Retail,Technology,Keyboard,25,USD,65,15,1625,243.75,1381.25,28,700,0,681.25,681.25,49.32,0,5
+ORD-00301,2025-04-17,CUS-0109,Consumer,South,Direct Sales,Office Supplies,Notebook Set,1,USD,18,0,18,0,18,7,7,9.07,11,1.93,10.72,3,4
+ORD-00302,2025-04-17,CUS-0080,Consumer,West,Retail,Office Supplies,Printer Ink,4,USD,49,10,196,19.6,176.4,24,96,0,80.4,80.4,45.58,0,5
+ORD-00303,2025-04-17,CUS-0074,Corporate,North,Retail,Furniture,Desk,12,USD,350,20,4200,840,3360,210,2520,0,840,840,25,0,5
+ORD-00304,2025-04-17,CUS-0065,Consumer,East,Retail,Furniture,Office Chair,3,USD,195,0,585,0,585,105,315,0,270,270,46.15,0,5
+ORD-00305,2025-04-18,CUS-0183,Consumer,West,Retail,Accessories,Backpack,4,USD,59,5,236,11.8,224.2,25,100,0,124.2,124.2,55.4,0,4
+ORD-00306,2025-04-18,CUS-0071,Consumer,South,Direct Sales,Accessories,Backpack,5,USD,59,20,295,59,236,25,125,17.08,111,93.92,39.8,7,4
+ORD-00307,2025-04-18,CUS-0174,Corporate,East,Retail,Office Supplies,Notebook Set,3,USD,18,0,54,0,54,7,21,0,33,33,61.11,0,4
+ORD-00308,2025-04-18,CUS-0130,Corporate,West,Direct Sales,Accessories,Backpack,20,USD,59,15,1180,177,1003,25,500,30.63,503,472.37,47.1,1,5
+ORD-00309,2025-04-19,CUS-0159,Corporate,East,Retail,Furniture,Office Chair,23,USD,195,5,4485,224.25,4260.75,105,2415,0,1845.75,1845.75,43.32,0,5
+ORD-00310,2025-04-19,CUS-0237,Corporate,West,Online,Accessories,Desk Lamp,1,USD,39,15,39,5.85,33.15,16,16,7.59,17.15,9.56,28.84,5,3
+ORD-00311,2025-04-21,CUS-0231,Corporate,South,Direct Sales,Accessories,Backpack,22,USD,59,0,1298,0,1298,25,550,38.3,748,709.7,54.68,9,4
+ORD-00312,2025-04-21,CUS-0131,Small Business,North,Direct Sales,Office Supplies,Paper Pack,2,USD,12,10,24,2.4,21.6,5,10,9.04,11.6,2.56,11.85,3,4
+ORD-00313,2025-04-22,CUS-0240,Corporate,North,Online,Technology,Monitor,10,USD,249,15,2490,373.5,2116.5,155,1550,18.5,566.5,548,25.89,2,5
+ORD-00314,2025-04-22,CUS-0030,Small Business,West,Retail,Technology,Laptop,12,USD,899,0,10788,0,10788,610,7320,0,3468,3468,32.15,0,5
+ORD-00315,2025-04-22,CUS-0214,Consumer,East,Direct Sales,Technology,Monitor,4,USD,249,0,996,0,996,155,620,17.54,376,358.46,35.99,8,4
+ORD-00316,2025-04-22,CUS-0141,Corporate,North,Direct Sales,Office Supplies,Notebook Set,9,USD,18,15,162,24.3,137.7,7,63,19.63,74.7,55.07,39.99,9,4
+ORD-00317,2025-04-22,CUS-0159,Corporate,East,Direct Sales,Office Supplies,Notebook Set,25,USD,18,20,450,90,360,7,175,34.57,185,150.43,41.79,9,4
+ORD-00318,2025-04-22,CUS-0090,Small Business,West,Direct Sales,Accessories,Desk Lamp,5,USD,39,0,195,0,195,16,80,10.29,115,104.71,53.7,2,4
+ORD-00319,2025-04-23,CUS-0077,Consumer,South,Direct Sales,Office Supplies,Notebook Set,3,USD,18,0,54,0,54,7,21,10.56,33,22.44,41.56,7,4
+ORD-00320,2025-04-23,CUS-0226,Corporate,West,Retail,Technology,Keyboard,21,USD,65,15,1365,204.75,1160.25,28,588,0,572.25,572.25,49.32,0,5
+ORD-00321,2025-04-24,CUS-0038,Small Business,North,Online,Furniture,Office Chair,1,USD,195,0,195,0,195,105,105,11.76,90,78.24,40.12,9,3
+ORD-00322,2025-04-24,CUS-0067,Consumer,West,Retail,Accessories,Backpack,1,USD,59,10,59,5.9,53.1,25,25,0,28.1,28.1,52.92,0,5
+ORD-00323,2025-04-24,CUS-0190,Consumer,West,Retail,Accessories,Backpack,1,USD,59,10,59,5.9,53.1,25,25,0,28.1,28.1,52.92,0,5
+ORD-00324,2025-04-25,CUS-0195,Corporate,South,Retail,Furniture,Office Chair,22,USD,195,10,4290,429,3861,105,2310,0,1551,1551,40.17,0,5
+ORD-00325,2025-04-26,CUS-0119,Small Business,South,Online,Office Supplies,Notebook Set,5,USD,18,10,90,9,81,7,35,13.01,46,32.99,40.73,3,5
+ORD-00326,2025-04-26,CUS-0149,Corporate,North,Retail,Office Supplies,Printer Ink,19,USD,49,0,931,0,931,24,456,0,475,475,51.02,0,5
+ORD-00327,2025-04-27,CUS-0249,Small Business,East,Direct Sales,Office Supplies,Printer Ink,3,USD,49,20,147,29.4,117.6,24,72,10.21,45.6,35.39,30.09,8,4
+ORD-00328,2025-04-27,CUS-0193,Corporate,West,Direct Sales,Technology,Monitor,14,USD,249,15,3486,522.9,2963.1,155,2170,27.96,793.1,765.14,25.82,8,3
+ORD-00329,2025-04-27,CUS-0115,Corporate,North,Online,Office Supplies,Paper Pack,6,USD,12,5,72,3.6,68.4,5,30,15.73,38.4,22.67,33.14,2,5
+ORD-00330,2025-04-28,CUS-0096,Corporate,East,Retail,Accessories,Desk Lamp,13,USD,39,5,507,25.35,481.65,16,208,0,273.65,273.65,56.82,0,5
+ORD-00331,2025-04-28,CUS-0119,Small Business,South,Retail,Accessories,Desk Lamp,4,USD,39,15,156,23.4,132.6,16,64,0,68.6,68.6,51.73,0,5
+ORD-00332,2025-04-30,CUS-0134,Small Business,South,Direct Sales,Furniture,Office Chair,2,USD,195,0,390,0,390,105,210,10.16,180,169.84,43.55,3,4
+ORD-00333,2025-04-30,CUS-0163,Corporate,South,Online,Technology,Keyboard,12,USD,65,5,780,39,741,28,336,23.71,405,381.29,51.46,1,5
+ORD-00334,2025-05-01,CUS-0246,Small Business,North,Direct Sales,Accessories,Desk Lamp,6,USD,39,15,234,35.1,198.9,16,96,19.54,102.9,83.36,41.91,2,4
+ORD-00335,2025-05-02,CUS-0097,Small Business,East,Retail,Technology,Laptop,3,USD,899,0,2697,0,2697,610,1830,0,867,867,32.15,0,5
+ORD-00336,2025-05-02,CUS-0124,Corporate,West,Direct Sales,Office Supplies,Notebook Set,16,USD,18,20,288,57.6,230.4,7,112,26.66,118.4,91.74,39.82,9,4
+ORD-00337,2025-05-03,CUS-0108,Consumer,South,Direct Sales,Technology,Laptop,5,USD,899,5,4495,224.75,4270.25,610,3050,16.68,1220.25,1203.57,28.19,8,4
+ORD-00338,2025-05-04,CUS-0240,Corporate,North,Retail,Furniture,Office Chair,5,USD,195,5,975,48.75,926.25,105,525,0,401.25,401.25,43.32,0,4
+ORD-00339,2025-05-04,CUS-0038,Small Business,North,Direct Sales,Technology,Keyboard,6,USD,65,5,390,19.5,370.5,28,168,18.02,202.5,184.48,49.79,6,4
+ORD-00340,2025-05-04,CUS-0045,Consumer,North,Online,Technology,Keyboard,2,USD,65,20,130,26,104,28,56,7.84,48,40.16,38.62,8,4
+ORD-00341,2025-05-04,CUS-0155,Corporate,West,Retail,Technology,Monitor,4,USD,249,0,996,0,996,155,620,0,376,376,37.75,0,5
+ORD-00342,2025-05-04,CUS-0090,Small Business,West,Retail,Furniture,Office Chair,8,USD,195,15,1560,234,1326,105,840,0,486,486,36.65,0,5
+ORD-00343,2025-05-05,CUS-0025,Corporate,West,Direct Sales,Furniture,Desk,6,USD,350,15,2100,315,1785,210,1260,20.18,525,504.82,28.28,7,3
+ORD-00344,2025-05-05,CUS-0072,Small Business,South,Direct Sales,Technology,Laptop,8,USD,899,20,7192,1438.4,5753.6,610,4880,18.13,873.6,855.47,14.87,5,4
+ORD-00345,2025-05-05,CUS-0066,Consumer,West,Direct Sales,Furniture,Office Chair,4,USD,195,0,780,0,780,105,420,16.31,360,343.69,44.06,2,5
+ORD-00346,2025-05-05,CUS-0200,Corporate,North,Direct Sales,Office Supplies,Notebook Set,11,USD,18,20,198,39.6,158.4,7,77,24.68,81.4,56.72,35.81,1,4
+ORD-00347,2025-05-06,CUS-0190,Consumer,West,Online,Accessories,Desk Lamp,5,USD,39,5,195,9.75,185.25,16,80,14.35,105.25,90.9,49.07,3,5
+ORD-00348,2025-05-06,CUS-0041,Small Business,East,Online,Technology,Monitor,12,USD,249,0,2988,0,2988,155,1860,20.1,1128,1107.9,37.08,3,5
+ORD-00349,2025-05-06,CUS-0131,Small Business,North,Online,Technology,Laptop,11,USD,899,0,9889,0,9889,610,6710,18.76,3179,3160.24,31.96,3,4
+ORD-00350,2025-05-07,CUS-0215,Consumer,West,Retail,Office Supplies,Paper Pack,4,USD,12,0,48,0,48,5,20,0,28,28,58.33,0,5
+ORD-00351,2025-05-07,CUS-0135,Small Business,East,Retail,Office Supplies,Notebook Set,5,USD,18,0,90,0,90,7,35,0,55,55,61.11,0,5
+ORD-00352,2025-05-07,CUS-0223,Corporate,West,Direct Sales,Office Supplies,Paper Pack,6,USD,12,5,72,3.6,68.4,5,30,15.5,38.4,22.9,33.48,2,4
+ORD-00353,2025-05-07,CUS-0167,Corporate,North,Online,Technology,Monitor,24,USD,249,10,5976,597.6,5378.4,155,3720,33.46,1658.4,1624.94,30.21,1,4
+ORD-00354,2025-05-08,CUS-0013,Consumer,South,Direct Sales,Office Supplies,Paper Pack,3,USD,12,0,36,0,36,5,15,14.2,21,6.8,18.89,3,4
+ORD-00355,2025-05-08,CUS-0153,Consumer,West,Online,Office Supplies,Paper Pack,2,USD,12,15,24,3.6,20.4,5,10,10.97,10.4,-0.57,-2.79,8,5
+ORD-00356,2025-05-09,CUS-0027,Corporate,North,Retail,Furniture,Office Chair,22,USD,195,15,4290,643.5,3646.5,105,2310,0,1336.5,1336.5,36.65,0,5
+ORD-00357,2025-05-09,CUS-0236,Corporate,North,Online,Technology,Keyboard,3,USD,65,20,195,39,156,28,84,12.41,72,59.59,38.2,7,4
+ORD-00358,2025-05-09,CUS-0135,Small Business,East,Retail,Office Supplies,Paper Pack,1,USD,12,20,12,2.4,9.6,5,5,0,4.6,4.6,47.92,0,5
+ORD-00359,2025-05-09,CUS-0236,Corporate,North,Online,Accessories,Desk Lamp,22,USD,39,0,858,0,858,16,352,32.43,506,473.57,55.19,3,5
+ORD-00360,2025-05-10,CUS-0030,Small Business,West,Online,Technology,Laptop,12,USD,899,20,10788,2157.6,8630.4,610,7320,24.39,1310.4,1286.01,14.9,7,4
+ORD-00361,2025-05-10,CUS-0192,Corporate,West,Direct Sales,Office Supplies,Printer Ink,13,USD,49,0,637,0,637,24,312,20.51,325,304.49,47.8,3,5
+ORD-00362,2025-05-11,CUS-0078,Small Business,South,Direct Sales,Furniture,Desk,7,USD,350,5,2450,122.5,2327.5,210,1470,19.59,857.5,837.91,36,5,4
+ORD-00363,2025-05-12,CUS-0234,Consumer,East,Retail,Technology,Monitor,4,USD,249,0,996,0,996,155,620,0,376,376,37.75,0,5
+ORD-00364,2025-05-12,CUS-0109,Consumer,South,Retail,Accessories,Desk Lamp,2,USD,39,10,78,7.8,70.2,16,32,0,38.2,38.2,54.42,0,5
+ORD-00365,2025-05-12,CUS-0087,Consumer,North,Online,Office Supplies,Notebook Set,1,USD,18,5,18,0.9,17.1,7,7,13.02,10.1,-2.92,-17.08,5,5
+ORD-00366,2025-05-12,CUS-0107,Small Business,East,Direct Sales,Furniture,Desk,1,USD,350,20,350,70,280,210,210,7.71,70,62.29,22.25,6,4
+ORD-00367,2025-05-13,CUS-0139,Consumer,West,Direct Sales,Accessories,Desk Lamp,4,USD,39,10,156,15.6,140.4,16,64,15.28,76.4,61.12,43.53,6,5
+ORD-00368,2025-05-13,CUS-0233,Small Business,South,Direct Sales,Accessories,Desk Lamp,3,USD,39,20,117,23.4,93.6,16,48,14.58,45.6,31.02,33.14,8,3
+ORD-00369,2025-05-15,CUS-0191,Small Business,North,Retail,Office Supplies,Paper Pack,3,USD,12,20,36,7.2,28.8,5,15,0,13.8,13.8,47.92,0,5
+ORD-00370,2025-05-15,CUS-0002,Corporate,South,Retail,Technology,Monitor,5,USD,249,10,1245,124.5,1120.5,155,775,0,345.5,345.5,30.83,0,4
+ORD-00371,2025-05-15,CUS-0043,Small Business,South,Online,Office Supplies,Notebook Set,5,USD,18,5,90,4.5,85.5,7,35,18.85,50.5,31.65,37.02,7,4
+ORD-00372,2025-05-15,CUS-0236,Corporate,North,Online,Furniture,Office Chair,5,USD,195,15,975,146.25,828.75,105,525,11.89,303.75,291.86,35.22,3,4
+ORD-00373,2025-05-15,CUS-0240,Corporate,North,Retail,Accessories,Desk Lamp,22,USD,39,0,858,0,858,16,352,0,506,506,58.97,0,5
+ORD-00374,2025-05-15,CUS-0001,Small Business,North,Retail,Office Supplies,Printer Ink,7,USD,49,15,343,51.45,291.55,24,168,0,123.55,123.55,42.38,0,5
+ORD-00375,2025-05-16,CUS-0223,Corporate,West,Online,Office Supplies,Paper Pack,6,USD,12,0,72,0,72,5,30,19.48,42,22.52,31.28,1,4
+ORD-00376,2025-05-16,CUS-0184,Corporate,East,Retail,Furniture,Office Chair,9,USD,195,20,1755,351,1404,105,945,0,459,459,32.69,0,5
+ORD-00377,2025-05-17,CUS-0221,Corporate,West,Direct Sales,Accessories,Backpack,24,USD,59,5,1416,70.8,1345.2,25,600,39.14,745.2,706.06,52.49,5,5
+ORD-00378,2025-05-17,CUS-0243,Consumer,North,Online,Furniture,Desk,5,USD,350,0,1750,0,1750,210,1050,18.16,700,681.84,38.96,5,4
+ORD-00379,2025-05-17,CUS-0096,Corporate,East,Direct Sales,Office Supplies,Notebook Set,14,USD,18,10,252,25.2,226.8,7,98,24.1,128.8,104.7,46.16,6,3
+ORD-00380,2025-05-17,CUS-0207,Corporate,South,Online,Office Supplies,Paper Pack,10,USD,12,15,120,18,102,5,50,18.16,52,33.84,33.18,5,5
+ORD-00381,2025-05-17,CUS-0015,Corporate,South,Direct Sales,Accessories,Backpack,17,USD,59,15,1003,150.45,852.55,25,425,32.27,427.55,395.28,46.36,8,3
+ORD-00382,2025-05-18,CUS-0176,Consumer,South,Online,Accessories,Backpack,4,USD,59,15,236,35.4,200.6,25,100,10.99,100.6,89.61,44.67,1,5
+ORD-00383,2025-05-18,CUS-0084,Corporate,East,Retail,Office Supplies,Printer Ink,1,USD,49,10,49,4.9,44.1,24,24,0,20.1,20.1,45.58,0,5
+ORD-00384,2025-05-18,CUS-0230,Consumer,South,Retail,Accessories,Desk Lamp,5,USD,39,15,195,29.25,165.75,16,80,0,85.75,85.75,51.73,0,4
+ORD-00385,2025-05-18,CUS-0227,Corporate,West,Retail,Accessories,Backpack,24,USD,59,20,1416,283.2,1132.8,25,600,0,532.8,532.8,47.03,0,5
+ORD-00386,2025-05-18,CUS-0115,Corporate,North,Direct Sales,Technology,Keyboard,9,USD,65,20,585,117,468,28,252,17.84,216,198.16,42.34,1,4
+ORD-00387,2025-05-19,CUS-0117,Small Business,North,Retail,Accessories,Desk Lamp,9,USD,39,5,351,17.55,333.45,16,144,0,189.45,189.45,56.82,0,5
+ORD-00388,2025-05-19,CUS-0069,Small Business,West,Online,Furniture,Desk,2,USD,350,0,700,0,700,210,420,13.52,280,266.48,38.07,4,5
+ORD-00389,2025-05-19,CUS-0045,Consumer,North,Retail,Technology,Monitor,1,USD,249,0,249,0,249,155,155,0,94,94,37.75,0,5
+ORD-00390,2025-05-20,CUS-0236,Corporate,North,Direct Sales,Office Supplies,Notebook Set,7,USD,18,10,126,12.6,113.4,7,49,18.02,64.4,46.38,40.9,3,5
+ORD-00391,2025-05-20,CUS-0052,Consumer,South,Online,Office Supplies,Notebook Set,3,USD,18,15,54,8.1,45.9,7,21,16.32,24.9,8.58,18.69,7,4
+ORD-00392,2025-05-20,CUS-0019,Corporate,North,Online,Technology,Keyboard,21,USD,65,20,1365,273,1092,28,588,31.27,504,472.73,43.29,7,4
+ORD-00393,2025-05-21,CUS-0010,Consumer,East,Direct Sales,Technology,Laptop,2,USD,899,10,1798,179.8,1618.2,610,1220,7.31,398.2,390.89,24.16,1,5
+ORD-00394,2025-05-21,CUS-0186,Small Business,West,Online,Furniture,Desk,11,USD,350,15,3850,577.5,3272.5,210,2310,23.41,962.5,939.09,28.7,7,3
+ORD-00395,2025-05-22,CUS-0081,Corporate,South,Direct Sales,Furniture,Desk,5,USD,350,0,1750,0,1750,210,1050,16.36,700,683.64,39.07,8,3
+ORD-00396,2025-05-22,CUS-0149,Corporate,North,Direct Sales,Furniture,Office Chair,8,USD,195,5,1560,78,1482,105,840,20.18,642,621.82,41.96,9,3
+ORD-00397,2025-05-22,CUS-0193,Corporate,West,Retail,Accessories,Desk Lamp,25,USD,39,0,975,0,975,16,400,0,575,575,58.97,0,5
+ORD-00398,2025-05-22,CUS-0208,Small Business,East,Retail,Furniture,Desk,6,USD,350,0,2100,0,2100,210,1260,0,840,840,40,0,4
+ORD-00399,2025-05-23,CUS-0215,Consumer,West,Direct Sales,Accessories,Backpack,5,USD,59,20,295,59,236,25,125,12.65,111,98.35,41.67,9,3
+ORD-00400,2025-05-23,CUS-0046,Consumer,West,Retail,Technology,Keyboard,1,USD,65,15,65,9.75,55.25,28,28,0,27.25,27.25,49.32,0,5
+ORD-00401,2025-05-24,CUS-0022,Corporate,East,Direct Sales,Furniture,Office Chair,14,USD,195,20,2730,546,2184,105,1470,21.23,714,692.77,31.72,4,4
+ORD-00402,2025-05-24,CUS-0066,Consumer,West,Direct Sales,Technology,Laptop,3,USD,899,0,2697,0,2697,610,1830,11.56,867,855.44,31.72,3,4
+ORD-00403,2025-05-24,CUS-0226,Corporate,West,Retail,Office Supplies,Printer Ink,3,USD,49,15,147,22.05,124.95,24,72,0,52.95,52.95,42.38,0,5
+ORD-00404,2025-05-24,CUS-0200,Corporate,North,Retail,Technology,Monitor,14,USD,249,10,3486,348.6,3137.4,155,2170,0,967.4,967.4,30.83,0,5
+ORD-00405,2025-05-24,CUS-0178,Corporate,East,Retail,Technology,Laptop,5,USD,899,20,4495,899,3596,610,3050,0,546,546,15.18,0,5
+ORD-00406,2025-05-25,CUS-0114,Small Business,East,Direct Sales,Office Supplies,Paper Pack,1,USD,12,10,12,1.2,10.8,5,5,5.2,5.8,0.6,5.56,3,5
+ORD-00407,2025-05-27,CUS-0011,Consumer,South,Online,Furniture,Desk,4,USD,350,20,1400,280,1120,210,840,10.5,280,269.5,24.06,1,5
+ORD-00408,2025-05-27,CUS-0181,Small Business,North,Online,Technology,Monitor,7,USD,249,0,1743,0,1743,155,1085,17.65,658,640.35,36.74,1,5
+ORD-00409,2025-05-27,CUS-0243,Consumer,North,Online,Furniture,Desk,2,USD,350,5,700,35,665,210,420,9.65,245,235.35,35.39,2,4
+ORD-00410,2025-05-27,CUS-0250,Corporate,West,Online,Furniture,Office Chair,14,USD,195,20,2730,546,2184,105,1470,27.25,714,686.75,31.44,3,5
+ORD-00411,2025-05-27,CUS-0039,Corporate,East,Direct Sales,Technology,Keyboard,7,USD,65,20,455,91,364,28,196,17.45,168,150.55,41.36,3,4
+ORD-00412,2025-05-29,CUS-0061,Small Business,South,Direct Sales,Furniture,Office Chair,10,USD,195,20,1950,390,1560,105,1050,20.21,510,489.79,31.4,4,5
+ORD-00413,2025-05-29,CUS-0097,Small Business,East,Online,Office Supplies,Paper Pack,6,USD,12,15,72,10.8,61.2,5,30,16.19,31.2,15.01,24.53,7,3
+ORD-00414,2025-05-30,CUS-0027,Corporate,North,Retail,Office Supplies,Paper Pack,21,USD,12,15,252,37.8,214.2,5,105,0,109.2,109.2,50.98,0,4
+ORD-00415,2025-05-30,CUS-0015,Corporate,South,Online,Technology,Keyboard,18,USD,65,20,1170,234,936,28,504,30,432,402,42.95,3,5
+ORD-00416,2025-05-30,CUS-0191,Small Business,North,Online,Furniture,Desk,7,USD,350,0,2450,0,2450,210,1470,13.43,980,966.57,39.45,3,4
+ORD-00417,2025-05-30,CUS-0247,Small Business,East,Retail,Technology,Keyboard,10,USD,65,0,650,0,650,28,280,0,370,370,56.92,0,5
+ORD-00418,2025-06-01,CUS-0055,Corporate,East,Retail,Technology,Monitor,8,USD,249,5,1992,99.6,1892.4,155,1240,0,652.4,652.4,34.47,0,5
+ORD-00419,2025-06-01,CUS-0083,Consumer,North,Retail,Accessories,Desk Lamp,3,USD,39,0,117,0,117,16,48,0,69,69,58.97,0,4
+ORD-00420,2025-06-01,CUS-0073,Corporate,East,Retail,Office Supplies,Notebook Set,23,USD,18,0,414,0,414,7,161,0,253,253,61.11,0,5
+ORD-00421,2025-06-02,CUS-0089,Consumer,West,Retail,Office Supplies,Notebook Set,4,USD,18,5,72,3.6,68.4,7,28,0,40.4,40.4,59.06,0,4
+ORD-00422,2025-06-02,CUS-0208,Small Business,East,Online,Technology,Laptop,1,USD,899,0,899,0,899,610,610,5.99,289,283.01,31.48,1,5
+ORD-00423,2025-06-02,CUS-0028,Consumer,South,Online,Office Supplies,Printer Ink,1,USD,49,0,49,0,49,24,24,8.95,25,16.05,32.76,8,4
+ORD-00424,2025-06-02,CUS-0214,Consumer,East,Online,Technology,Keyboard,5,USD,65,0,325,0,325,28,140,18.03,185,166.97,51.38,4,3
+ORD-00425,2025-06-03,CUS-0030,Small Business,West,Retail,Office Supplies,Printer Ink,10,USD,49,5,490,24.5,465.5,24,240,0,225.5,225.5,48.44,0,5
+ORD-00426,2025-06-03,CUS-0108,Consumer,South,Retail,Technology,Monitor,1,USD,249,15,249,37.35,211.65,155,155,0,56.65,56.65,26.77,0,5
+ORD-00427,2025-06-03,CUS-0159,Corporate,East,Direct Sales,Technology,Keyboard,1,USD,65,10,65,6.5,58.5,28,28,8.92,30.5,21.58,36.89,4,5
+ORD-00428,2025-06-03,CUS-0137,Corporate,East,Online,Technology,Keyboard,9,USD,65,5,585,29.25,555.75,28,252,21.25,303.75,282.5,50.83,9,4
+ORD-00429,2025-06-03,CUS-0138,Small Business,North,Retail,Furniture,Desk,6,USD,350,10,2100,210,1890,210,1260,0,630,630,33.33,0,4
+ORD-00430,2025-06-04,CUS-0184,Corporate,East,Online,Accessories,Backpack,19,USD,59,5,1121,56.05,1064.95,25,475,29.96,589.95,559.99,52.58,6,3
+ORD-00431,2025-06-04,CUS-0150,Corporate,South,Online,Furniture,Office Chair,8,USD,195,15,1560,234,1326,105,840,20.42,486,465.58,35.11,5,5
+ORD-00432,2025-06-05,CUS-0235,Consumer,West,Direct Sales,Office Supplies,Notebook Set,1,USD,18,5,18,0.9,17.1,7,7,11.09,10.1,-0.99,-5.79,9,3
+ORD-00433,2025-06-06,CUS-0052,Consumer,South,Direct Sales,Office Supplies,Paper Pack,2,USD,12,20,24,4.8,19.2,5,10,10.71,9.2,-1.51,-7.86,4,4
+ORD-00434,2025-06-06,CUS-0223,Corporate,West,Retail,Furniture,Desk,8,USD,350,20,2800,560,2240,210,1680,0,560,560,25,0,5
+ORD-00435,2025-06-06,CUS-0112,Corporate,West,Retail,Accessories,Desk Lamp,23,USD,39,10,897,89.7,807.3,16,368,0,439.3,439.3,54.42,0,5
+ORD-00436,2025-06-06,CUS-0011,Consumer,South,Direct Sales,Accessories,Backpack,5,USD,59,20,295,59,236,25,125,18.12,111,92.88,39.36,9,3
+ORD-00437,2025-06-06,CUS-0231,Corporate,South,Online,Furniture,Desk,15,USD,350,0,5250,0,5250,210,3150,24.94,2100,2075.06,39.52,3,5
+ORD-00438,2025-06-07,CUS-0199,Corporate,West,Online,Technology,Keyboard,14,USD,65,20,910,182,728,28,392,21.29,336,314.71,43.23,8,4
+ORD-00439,2025-06-07,CUS-0125,Small Business,East,Direct Sales,Furniture,Desk,4,USD,350,5,1400,70,1330,210,840,17.5,490,472.5,35.53,2,4
+ORD-00440,2025-06-07,CUS-0240,Corporate,North,Retail,Technology,Laptop,12,USD,899,10,10788,1078.8,9709.2,610,7320,0,2389.2,2389.2,24.61,0,4
+ORD-00441,2025-06-07,CUS-0216,Small Business,North,Retail,Accessories,Desk Lamp,9,USD,39,10,351,35.1,315.9,16,144,0,171.9,171.9,54.42,0,5
+ORD-00442,2025-06-07,CUS-0074,Corporate,North,Direct Sales,Office Supplies,Notebook Set,2,USD,18,15,36,5.4,30.6,7,14,14.77,16.6,1.83,5.98,6,4
+ORD-00443,2025-06-08,CUS-0034,Consumer,East,Direct Sales,Accessories,Backpack,1,USD,59,0,59,0,59,25,25,11.6,34,22.4,37.97,5,5
+ORD-00444,2025-06-08,CUS-0080,Consumer,West,Online,Accessories,Backpack,1,USD,59,10,59,5.9,53.1,25,25,7.25,28.1,20.85,39.27,9,3
+ORD-00445,2025-06-08,CUS-0249,Small Business,East,Retail,Accessories,Desk Lamp,1,USD,39,10,39,3.9,35.1,16,16,0,19.1,19.1,54.42,0,4
+ORD-00446,2025-06-08,CUS-0133,Small Business,South,Direct Sales,Accessories,Desk Lamp,1,USD,39,10,39,3.9,35.1,16,16,8.31,19.1,10.79,30.74,1,4
+ORD-00447,2025-06-10,CUS-0212,Small Business,West,Direct Sales,Office Supplies,Notebook Set,8,USD,18,5,144,7.2,136.8,7,56,20.55,80.8,60.25,44.04,6,4
+ORD-00448,2025-06-10,CUS-0145,Consumer,East,Online,Technology,Laptop,2,USD,899,0,1798,0,1798,610,1220,12.14,578,565.86,31.47,9,3
+ORD-00449,2025-06-10,CUS-0107,Small Business,East,Direct Sales,Furniture,Office Chair,5,USD,195,20,975,195,780,105,525,13.63,255,241.37,30.94,6,5
+ORD-00450,2025-06-10,CUS-0064,Corporate,North,Direct Sales,Technology,Monitor,18,USD,249,20,4482,896.4,3585.6,155,2790,34.1,795.6,761.5,21.24,8,4
+ORD-00451,2025-06-10,CUS-0236,Corporate,North,Online,Accessories,Backpack,24,USD,59,5,1416,70.8,1345.2,25,600,37.63,745.2,707.57,52.6,1,5
+ORD-00452,2025-06-12,CUS-0237,Corporate,West,Retail,Furniture,Desk,14,USD,350,5,4900,245,4655,210,2940,0,1715,1715,36.84,0,5
+ORD-00453,2025-06-12,CUS-0011,Consumer,South,Retail,Accessories,Backpack,1,USD,59,10,59,5.9,53.1,25,25,0,28.1,28.1,52.92,0,5
+ORD-00454,2025-06-13,CUS-0129,Corporate,East,Online,Technology,Keyboard,3,USD,65,0,195,0,195,28,84,13.27,111,97.73,50.12,6,4
+ORD-00455,2025-06-13,CUS-0037,Consumer,South,Direct Sales,Accessories,Desk Lamp,3,USD,39,0,117,0,117,16,48,10.72,69,58.28,49.81,5,4
+ORD-00456,2025-06-14,CUS-0196,Consumer,West,Direct Sales,Technology,Monitor,3,USD,249,0,747,0,747,155,465,15.71,282,266.29,35.65,1,5
+ORD-00457,2025-06-14,CUS-0212,Small Business,West,Direct Sales,Furniture,Office Chair,1,USD,195,15,195,29.25,165.75,105,105,11.65,60.75,49.1,29.62,6,4
+ORD-00458,2025-06-15,CUS-0194,Small Business,South,Direct Sales,Office Supplies,Paper Pack,5,USD,12,15,60,9,51,5,25,11.25,26,14.75,28.92,7,4
+ORD-00459,2025-06-15,CUS-0043,Small Business,South,Online,Office Supplies,Printer Ink,1,USD,49,10,49,4.9,44.1,24,24,7.22,20.1,12.88,29.21,4,5
+ORD-00460,2025-06-15,CUS-0193,Corporate,West,Direct Sales,Accessories,Backpack,19,USD,59,0,1121,0,1121,25,475,27.02,646,618.98,55.22,9,4
+ORD-00461,2025-06-16,CUS-0241,Small Business,East,Retail,Technology,Keyboard,9,USD,65,0,585,0,585,28,252,0,333,333,56.92,0,4
+ORD-00462,2025-06-16,CUS-0154,Consumer,South,Retail,Office Supplies,Paper Pack,1,USD,12,0,12,0,12,5,5,0,7,7,58.33,0,5
+ORD-00463,2025-06-16,CUS-0016,Small Business,North,Retail,Office Supplies,Paper Pack,3,USD,12,0,36,0,36,5,15,0,21,21,58.33,0,5
+ORD-00464,2025-06-16,CUS-0218,Corporate,West,Online,Technology,Keyboard,4,USD,65,0,260,0,260,28,112,10,148,138,53.08,6,4
+ORD-00465,2025-06-16,CUS-0126,Corporate,East,Direct Sales,Technology,Monitor,21,USD,249,5,5229,261.45,4967.55,155,3255,35.62,1712.55,1676.93,33.76,3,4
+ORD-00466,2025-06-16,CUS-0077,Consumer,South,Retail,Technology,Laptop,1,USD,899,0,899,0,899,610,610,0,289,289,32.15,0,5
+ORD-00467,2025-06-17,CUS-0179,Small Business,West,Retail,Technology,Laptop,3,USD,899,5,2697,134.85,2562.15,610,1830,0,732.15,732.15,28.58,0,4
+ORD-00468,2025-06-17,CUS-0206,Small Business,West,Direct Sales,Office Supplies,Printer Ink,1,USD,49,5,49,2.45,46.55,24,24,6.29,22.55,16.26,34.93,9,4
+ORD-00469,2025-06-17,CUS-0074,Corporate,North,Online,Office Supplies,Notebook Set,17,USD,18,20,306,61.2,244.8,7,119,27.5,125.8,98.3,40.16,2,5
+ORD-00470,2025-06-18,CUS-0137,Corporate,East,Direct Sales,Technology,Laptop,25,USD,899,15,22475,3371.25,19103.75,610,15250,36.36,3853.75,3817.39,19.98,9,3
+ORD-00471,2025-06-18,CUS-0228,Small Business,West,Online,Technology,Monitor,12,USD,249,15,2988,448.2,2539.8,155,1860,20.39,679.8,659.41,25.96,9,4
+ORD-00472,2025-06-18,CUS-0207,Corporate,South,Direct Sales,Office Supplies,Printer Ink,16,USD,49,20,784,156.8,627.2,24,384,31.55,243.2,211.65,33.75,5,4
+ORD-00473,2025-06-19,CUS-0064,Corporate,North,Direct Sales,Technology,Monitor,9,USD,249,0,2241,0,2241,155,1395,23.67,846,822.33,36.69,2,5
+ORD-00474,2025-06-19,CUS-0250,Corporate,West,Direct Sales,Office Supplies,Paper Pack,8,USD,12,15,96,14.4,81.6,5,40,14.52,41.6,27.08,33.19,1,5
+ORD-00475,2025-06-19,CUS-0015,Corporate,South,Retail,Furniture,Desk,21,USD,350,10,7350,735,6615,210,4410,0,2205,2205,33.33,0,5
+ORD-00476,2025-06-19,CUS-0084,Corporate,East,Retail,Accessories,Backpack,24,USD,59,15,1416,212.4,1203.6,25,600,0,603.6,603.6,50.15,0,5
+ORD-00477,2025-06-20,CUS-0180,Corporate,South,Online,Office Supplies,Paper Pack,12,USD,12,5,144,7.2,136.8,5,60,23.8,76.8,53,38.74,1,5
+ORD-00478,2025-06-21,CUS-0109,Consumer,South,Direct Sales,Office Supplies,Printer Ink,5,USD,49,0,245,0,245,24,120,17.96,125,107.04,43.69,2,4
+ORD-00479,2025-06-22,CUS-0058,Small Business,South,Online,Technology,Keyboard,8,USD,65,0,520,0,520,28,224,15.51,296,280.49,53.94,4,4
+ORD-00480,2025-06-22,CUS-0164,Corporate,South,Online,Furniture,Desk,16,USD,350,5,5600,280,5320,210,3360,27.87,1960,1932.13,36.32,9,4
+ORD-00481,2025-06-22,CUS-0028,Consumer,South,Direct Sales,Accessories,Desk Lamp,5,USD,39,0,195,0,195,16,80,10.74,115,104.26,53.47,7,3
+ORD-00482,2025-06-22,CUS-0137,Corporate,East,Online,Technology,Monitor,21,USD,249,15,5229,784.35,4444.65,155,3255,33.47,1189.65,1156.18,26.01,3,5
+ORD-00483,2025-06-23,CUS-0240,Corporate,North,Direct Sales,Office Supplies,Notebook Set,20,USD,18,15,360,54,306,7,140,36.58,166,129.42,42.29,2,4
+ORD-00484,2025-06-23,CUS-0034,Consumer,East,Online,Office Supplies,Paper Pack,1,USD,12,0,12,0,12,5,5,7.95,7,-0.95,-7.92,2,5
+ORD-00485,2025-06-24,CUS-0177,Consumer,West,Retail,Office Supplies,Notebook Set,4,USD,18,15,72,10.8,61.2,7,28,0,33.2,33.2,54.25,0,5
+ORD-00486,2025-06-24,CUS-0127,Small Business,West,Online,Office Supplies,Paper Pack,7,USD,12,15,84,12.6,71.4,5,35,20.77,36.4,15.63,21.89,6,5
+ORD-00487,2025-06-25,CUS-0115,Corporate,North,Retail,Furniture,Desk,19,USD,350,0,6650,0,6650,210,3990,0,2660,2660,40,0,5
+ORD-00488,2025-06-26,CUS-0177,Consumer,West,Online,Office Supplies,Notebook Set,5,USD,18,5,90,4.5,85.5,7,35,12.32,50.5,38.18,44.65,3,4
+ORD-00489,2025-06-26,CUS-0041,Small Business,East,Online,Office Supplies,Printer Ink,5,USD,49,15,245,36.75,208.25,24,120,10.13,88.25,78.12,37.51,5,4
+ORD-00490,2025-06-26,CUS-0216,Small Business,North,Direct Sales,Furniture,Office Chair,3,USD,195,20,585,117,468,105,315,8.12,153,144.88,30.96,4,4
+ORD-00491,2025-06-26,CUS-0008,Corporate,South,Direct Sales,Office Supplies,Printer Ink,3,USD,49,10,147,14.7,132.3,24,72,10.33,60.3,49.97,37.77,5,4
+ORD-00492,2025-06-27,CUS-0123,Corporate,East,Direct Sales,Technology,Keyboard,8,USD,65,0,520,0,520,28,224,18.46,296,277.54,53.37,4,4
+ORD-00493,2025-06-27,CUS-0174,Corporate,East,Direct Sales,Office Supplies,Notebook Set,18,USD,18,5,324,16.2,307.8,7,126,28.8,181.8,153,49.71,1,5
+ORD-00494,2025-06-27,CUS-0067,Consumer,West,Online,Office Supplies,Paper Pack,2,USD,12,0,24,0,24,5,10,12.82,14,1.18,4.92,7,4
+ORD-00495,2025-06-27,CUS-0100,Small Business,West,Retail,Technology,Monitor,8,USD,249,0,1992,0,1992,155,1240,0,752,752,37.75,0,5
+ORD-00496,2025-06-27,CUS-0242,Corporate,South,Retail,Technology,Monitor,10,USD,249,20,2490,498,1992,155,1550,0,442,442,22.19,0,5
+ORD-00497,2025-06-27,CUS-0218,Corporate,West,Retail,Furniture,Desk,19,USD,350,5,6650,332.5,6317.5,210,3990,0,2327.5,2327.5,36.84,0,5
+ORD-00498,2025-06-27,CUS-0193,Corporate,West,Direct Sales,Furniture,Desk,22,USD,350,15,7700,1155,6545,210,4620,35.06,1925,1889.94,28.88,6,3
+ORD-00499,2025-06-28,CUS-0021,Small Business,North,Retail,Accessories,Desk Lamp,4,USD,39,15,156,23.4,132.6,16,64,0,68.6,68.6,51.73,0,5
+ORD-00500,2025-06-28,CUS-0047,Consumer,North,Retail,Technology,Keyboard,1,USD,65,15,65,9.75,55.25,28,28,0,27.25,27.25,49.32,0,5
+ORD-00501,2025-06-29,CUS-0043,Small Business,South,Direct Sales,Furniture,Desk,11,USD,350,10,3850,385,3465,210,2310,22.69,1155,1132.31,32.68,3,4
+ORD-00502,2025-06-30,CUS-0237,Corporate,West,Direct Sales,Technology,Keyboard,3,USD,65,0,195,0,195,28,84,15.74,111,95.26,48.85,4,4
+ORD-00503,2025-06-30,CUS-0066,Consumer,West,Direct Sales,Technology,Keyboard,5,USD,65,15,325,48.75,276.25,28,140,10.66,136.25,125.59,45.46,8,5
+ORD-00504,2025-07-01,CUS-0042,Small Business,East,Direct Sales,Furniture,Desk,2,USD,350,15,700,105,595,210,420,14.49,175,160.51,26.98,9,3
+ORD-00505,2025-07-01,CUS-0135,Small Business,East,Direct Sales,Accessories,Desk Lamp,8,USD,39,15,312,46.8,265.2,16,128,19.12,137.2,118.08,44.52,3,4
+ORD-00506,2025-07-02,CUS-0123,Corporate,East,Direct Sales,Furniture,Office Chair,5,USD,195,10,975,97.5,877.5,105,525,10.16,352.5,342.34,39.01,5,4
+ORD-00507,2025-07-02,CUS-0095,Consumer,East,Direct Sales,Technology,Keyboard,5,USD,65,15,325,48.75,276.25,28,140,13.75,136.25,122.5,44.34,8,3
+ORD-00508,2025-07-02,CUS-0066,Consumer,West,Retail,Accessories,Desk Lamp,1,USD,39,5,39,1.95,37.05,16,16,0,21.05,21.05,56.82,0,5
+ORD-00509,2025-07-02,CUS-0199,Corporate,West,Online,Technology,Keyboard,10,USD,65,0,650,0,650,28,280,16.42,370,353.58,54.4,1,4
+ORD-00510,2025-07-03,CUS-0196,Consumer,West,Online,Technology,Keyboard,3,USD,65,0,195,0,195,28,84,11.8,111,99.2,50.87,6,4
+ORD-00511,2025-07-03,CUS-0185,Consumer,South,Direct Sales,Accessories,Backpack,4,USD,59,0,236,0,236,25,100,10.35,136,125.65,53.24,7,3
+ORD-00512,2025-07-03,CUS-0185,Consumer,South,Direct Sales,Technology,Laptop,3,USD,899,0,2697,0,2697,610,1830,10.08,867,856.92,31.77,5,4
+ORD-00513,2025-07-05,CUS-0191,Small Business,North,Online,Office Supplies,Notebook Set,5,USD,18,20,90,18,72,7,35,18.01,37,18.99,26.38,3,5
+ORD-00514,2025-07-05,CUS-0232,Consumer,North,Retail,Furniture,Office Chair,1,USD,195,10,195,19.5,175.5,105,105,0,70.5,70.5,40.17,0,5
+ORD-00515,2025-07-05,CUS-0159,Corporate,East,Online,Accessories,Desk Lamp,18,USD,39,15,702,105.3,596.7,16,288,30.14,308.7,278.56,46.68,8,4
+ORD-00516,2025-07-06,CUS-0120,Small Business,West,Retail,Accessories,Desk Lamp,2,USD,39,20,78,15.6,62.4,16,32,0,30.4,30.4,48.72,0,5
+ORD-00517,2025-07-06,CUS-0130,Corporate,West,Retail,Furniture,Office Chair,10,USD,195,10,1950,195,1755,105,1050,0,705,705,40.17,0,5
+ORD-00518,2025-07-06,CUS-0130,Corporate,West,Online,Office Supplies,Paper Pack,19,USD,12,5,228,11.4,216.6,5,95,27.58,121.6,94.02,43.41,9,3
+ORD-00519,2025-07-07,CUS-0225,Consumer,South,Direct Sales,Technology,Laptop,4,USD,899,20,3596,719.2,2876.8,610,2440,11.05,436.8,425.75,14.8,9,3
+ORD-00520,2025-07-08,CUS-0165,Corporate,South,Retail,Accessories,Backpack,25,USD,59,15,1475,221.25,1253.75,25,625,0,628.75,628.75,50.15,0,4
+ORD-00521,2025-07-08,CUS-0050,Small Business,West,Online,Accessories,Desk Lamp,1,USD,39,0,39,0,39,16,16,6.96,23,16.04,41.13,8,3
+ORD-00522,2025-07-08,CUS-0109,Consumer,South,Retail,Furniture,Desk,3,USD,350,10,1050,105,945,210,630,0,315,315,33.33,0,5
+ORD-00523,2025-07-09,CUS-0194,Small Business,South,Direct Sales,Technology,Laptop,6,USD,899,5,5394,269.7,5124.3,610,3660,16.52,1464.3,1447.78,28.25,3,5
+ORD-00524,2025-07-09,CUS-0146,Consumer,North,Direct Sales,Furniture,Office Chair,5,USD,195,0,975,0,975,105,525,16.19,450,433.81,44.49,4,4
+ORD-00525,2025-07-09,CUS-0227,Corporate,West,Online,Furniture,Office Chair,3,USD,195,0,585,0,585,105,315,11.25,270,258.75,44.23,5,4
+ORD-00526,2025-07-09,CUS-0154,Consumer,South,Retail,Furniture,Desk,2,USD,350,0,700,0,700,210,420,0,280,280,40,0,5
+ORD-00527,2025-07-10,CUS-0079,Consumer,North,Retail,Furniture,Desk,1,USD,350,5,350,17.5,332.5,210,210,0,122.5,122.5,36.84,0,5
+ORD-00528,2025-07-10,CUS-0115,Corporate,North,Retail,Accessories,Desk Lamp,19,USD,39,20,741,148.2,592.8,16,304,0,288.8,288.8,48.72,0,4
+ORD-00529,2025-07-10,CUS-0226,Corporate,West,Retail,Furniture,Office Chair,9,USD,195,20,1755,351,1404,105,945,0,459,459,32.69,0,5
+ORD-00530,2025-07-11,CUS-0008,Corporate,South,Online,Accessories,Desk Lamp,2,USD,39,10,78,7.8,70.2,16,32,9.23,38.2,28.97,41.27,4,4
+ORD-00531,2025-07-11,CUS-0040,Consumer,South,Online,Office Supplies,Notebook Set,2,USD,18,0,36,0,36,7,14,6.41,22,15.59,43.31,1,4
+ORD-00532,2025-07-11,CUS-0231,Corporate,South,Retail,Furniture,Desk,5,USD,350,15,1750,262.5,1487.5,210,1050,0,437.5,437.5,29.41,0,5
+ORD-00533,2025-07-11,CUS-0211,Corporate,East,Online,Accessories,Backpack,17,USD,59,10,1003,100.3,902.7,25,425,29.58,477.7,448.12,49.64,2,5
+ORD-00534,2025-07-11,CUS-0229,Small Business,West,Direct Sales,Furniture,Desk,12,USD,350,5,4200,210,3990,210,2520,23,1470,1447,36.27,8,4
+ORD-00535,2025-07-11,CUS-0071,Consumer,South,Retail,Technology,Laptop,2,USD,899,10,1798,179.8,1618.2,610,1220,0,398.2,398.2,24.61,0,4
+ORD-00536,2025-07-12,CUS-0221,Corporate,West,Online,Office Supplies,Printer Ink,3,USD,49,0,147,0,147,24,72,16.36,75,58.64,39.89,3,5
+ORD-00537,2025-07-13,CUS-0113,Consumer,East,Retail,Furniture,Office Chair,2,USD,195,20,390,78,312,105,210,0,102,102,32.69,0,5
+ORD-00538,2025-07-13,CUS-0116,Consumer,North,Direct Sales,Technology,Keyboard,3,USD,65,0,195,0,195,28,84,7.67,111,103.33,52.99,4,4
+ORD-00539,2025-07-13,CUS-0116,Consumer,North,Online,Technology,Monitor,1,USD,249,0,249,0,249,155,155,6.84,94,87.16,35,5,4
+ORD-00540,2025-07-14,CUS-0005,Consumer,East,Retail,Furniture,Desk,4,USD,350,10,1400,140,1260,210,840,0,420,420,33.33,0,5
+ORD-00541,2025-07-14,CUS-0219,Corporate,North,Direct Sales,Technology,Laptop,20,USD,899,10,17980,1798,16182,610,12200,32.54,3982,3949.46,24.41,9,3
+ORD-00542,2025-07-14,CUS-0176,Consumer,South,Online,Office Supplies,Notebook Set,5,USD,18,0,90,0,90,7,35,18.83,55,36.17,40.19,8,3
+ORD-00543,2025-07-14,CUS-0198,Consumer,East,Retail,Accessories,Desk Lamp,1,USD,39,20,39,7.8,31.2,16,16,0,15.2,15.2,48.72,0,5
+ORD-00544,2025-07-16,CUS-0126,Corporate,East,Direct Sales,Technology,Monitor,12,USD,249,0,2988,0,2988,155,1860,20.61,1128,1107.39,37.06,6,4
+ORD-00545,2025-07-16,CUS-0046,Consumer,West,Retail,Office Supplies,Notebook Set,4,USD,18,10,72,7.2,64.8,7,28,0,36.8,36.8,56.79,0,4
+ORD-00546,2025-07-16,CUS-0205,Small Business,West,Retail,Technology,Laptop,11,USD,899,10,9889,988.9,8900.1,610,6710,0,2190.1,2190.1,24.61,0,4
+ORD-00547,2025-07-16,CUS-0166,Consumer,North,Direct Sales,Office Supplies,Printer Ink,1,USD,49,0,49,0,49,24,24,6.62,25,18.38,37.51,2,5
+ORD-00548,2025-07-17,CUS-0016,Small Business,North,Retail,Accessories,Backpack,1,USD,59,0,59,0,59,25,25,0,34,34,57.63,0,4
+ORD-00549,2025-07-18,CUS-0080,Consumer,West,Retail,Office Supplies,Notebook Set,5,USD,18,0,90,0,90,7,35,0,55,55,61.11,0,5
+ORD-00550,2025-07-18,CUS-0223,Corporate,West,Retail,Technology,Keyboard,11,USD,65,15,715,107.25,607.75,28,308,0,299.75,299.75,49.32,0,5
+ORD-00551,2025-07-18,CUS-0114,Small Business,East,Retail,Technology,Keyboard,1,USD,65,15,65,9.75,55.25,28,28,0,27.25,27.25,49.32,0,5
+ORD-00552,2025-07-18,CUS-0007,Small Business,South,Direct Sales,Technology,Keyboard,4,USD,65,0,260,0,260,28,112,10.52,148,137.48,52.88,7,5
+ORD-00553,2025-07-19,CUS-0110,Consumer,North,Retail,Technology,Monitor,5,USD,249,5,1245,62.25,1182.75,155,775,0,407.75,407.75,34.47,0,4
+ORD-00554,2025-07-19,CUS-0180,Corporate,South,Retail,Furniture,Office Chair,23,USD,195,0,4485,0,4485,105,2415,0,2070,2070,46.15,0,4
+ORD-00555,2025-07-19,CUS-0099,Small Business,North,Online,Office Supplies,Printer Ink,12,USD,49,15,588,88.2,499.8,24,288,19.74,211.8,192.06,38.43,5,3
+ORD-00556,2025-07-19,CUS-0106,Consumer,North,Direct Sales,Technology,Laptop,2,USD,899,20,1798,359.6,1438.4,610,1220,11.77,218.4,206.63,14.37,6,4
+ORD-00557,2025-07-20,CUS-0061,Small Business,South,Direct Sales,Furniture,Desk,10,USD,350,15,3500,525,2975,210,2100,16.92,875,858.08,28.84,2,4
+ORD-00558,2025-07-20,CUS-0051,Small Business,West,Online,Technology,Monitor,3,USD,249,10,747,74.7,672.3,155,465,8.25,207.3,199.05,29.61,1,4
+ORD-00559,2025-07-21,CUS-0083,Consumer,North,Retail,Office Supplies,Paper Pack,5,USD,12,20,60,12,48,5,25,0,23,23,47.92,0,5
+ORD-00560,2025-07-22,CUS-0208,Small Business,East,Online,Accessories,Desk Lamp,11,USD,39,0,429,0,429,16,176,24,253,229,53.38,2,5
+ORD-00561,2025-07-22,CUS-0006,Small Business,South,Retail,Technology,Monitor,7,USD,249,10,1743,174.3,1568.7,155,1085,0,483.7,483.7,30.83,0,4
+ORD-00562,2025-07-22,CUS-0178,Corporate,East,Direct Sales,Technology,Monitor,9,USD,249,20,2241,448.2,1792.8,155,1395,22.08,397.8,375.72,20.96,9,4
+ORD-00563,2025-07-22,CUS-0191,Small Business,North,Direct Sales,Office Supplies,Paper Pack,8,USD,12,10,96,9.6,86.4,5,40,17.41,46.4,28.99,33.55,4,4
+ORD-00564,2025-07-22,CUS-0173,Small Business,West,Retail,Furniture,Desk,12,USD,350,20,4200,840,3360,210,2520,0,840,840,25,0,5
+ORD-00565,2025-07-22,CUS-0027,Corporate,North,Retail,Furniture,Desk,6,USD,350,5,2100,105,1995,210,1260,0,735,735,36.84,0,4
+ORD-00566,2025-07-22,CUS-0180,Corporate,South,Direct Sales,Furniture,Office Chair,14,USD,195,20,2730,546,2184,105,1470,21.06,714,692.94,31.73,1,5
+ORD-00567,2025-07-22,CUS-0020,Corporate,West,Retail,Furniture,Office Chair,3,USD,195,5,585,29.25,555.75,105,315,0,240.75,240.75,43.32,0,5
+ORD-00568,2025-07-23,CUS-0046,Consumer,West,Online,Office Supplies,Paper Pack,1,USD,12,20,12,2.4,9.6,5,5,5.55,4.6,-0.95,-9.9,7,4
+ORD-00569,2025-07-23,CUS-0211,Corporate,East,Direct Sales,Technology,Monitor,13,USD,249,0,3237,0,3237,155,2015,28.12,1222,1193.88,36.88,2,4
+ORD-00570,2025-07-24,CUS-0208,Small Business,East,Online,Accessories,Desk Lamp,1,USD,39,20,39,7.8,31.2,16,16,5.59,15.2,9.61,30.8,5,5
+ORD-00571,2025-07-24,CUS-0123,Corporate,East,Retail,Technology,Laptop,12,USD,899,10,10788,1078.8,9709.2,610,7320,0,2389.2,2389.2,24.61,0,5
+ORD-00572,2025-07-24,CUS-0171,Consumer,North,Retail,Accessories,Backpack,5,USD,59,0,295,0,295,25,125,0,170,170,57.63,0,4
+ORD-00573,2025-07-24,CUS-0227,Corporate,West,Retail,Office Supplies,Paper Pack,13,USD,12,20,156,31.2,124.8,5,65,0,59.8,59.8,47.92,0,4
+ORD-00574,2025-07-24,CUS-0212,Small Business,West,Retail,Furniture,Desk,5,USD,350,0,1750,0,1750,210,1050,0,700,700,40,0,4
+ORD-00575,2025-07-25,CUS-0242,Corporate,South,Direct Sales,Technology,Monitor,23,USD,249,0,5727,0,5727,155,3565,35.06,2162,2126.94,37.14,1,4
+ORD-00576,2025-07-25,CUS-0123,Corporate,East,Retail,Office Supplies,Printer Ink,16,USD,49,0,784,0,784,24,384,0,400,400,51.02,0,4
+ORD-00577,2025-07-25,CUS-0021,Small Business,North,Retail,Furniture,Desk,1,USD,350,15,350,52.5,297.5,210,210,0,87.5,87.5,29.41,0,5
+ORD-00578,2025-07-26,CUS-0089,Consumer,West,Online,Accessories,Desk Lamp,1,USD,39,5,39,1.95,37.05,16,16,12.87,21.05,8.18,22.08,7,4
+ORD-00579,2025-07-26,CUS-0222,Corporate,North,Retail,Office Supplies,Printer Ink,8,USD,49,10,392,39.2,352.8,24,192,0,160.8,160.8,45.58,0,5
+ORD-00580,2025-07-28,CUS-0028,Consumer,South,Online,Technology,Monitor,4,USD,249,5,996,49.8,946.2,155,620,15.14,326.2,311.06,32.87,2,5
+ORD-00581,2025-07-28,CUS-0235,Consumer,West,Online,Accessories,Desk Lamp,2,USD,39,10,78,7.8,70.2,16,32,8.63,38.2,29.57,42.12,2,4
+ORD-00582,2025-07-28,CUS-0175,Small Business,North,Retail,Furniture,Desk,11,USD,350,15,3850,577.5,3272.5,210,2310,0,962.5,962.5,29.41,0,5
+ORD-00583,2025-07-28,CUS-0011,Consumer,South,Retail,Furniture,Office Chair,4,USD,195,0,780,0,780,105,420,0,360,360,46.15,0,4
+ORD-00584,2025-07-29,CUS-0086,Consumer,North,Retail,Accessories,Desk Lamp,3,USD,39,5,117,5.85,111.15,16,48,0,63.15,63.15,56.82,0,5
+ORD-00585,2025-07-29,CUS-0236,Corporate,North,Direct Sales,Technology,Keyboard,1,USD,65,15,65,9.75,55.25,28,28,13.21,27.25,14.04,25.41,1,4
+ORD-00586,2025-07-29,CUS-0225,Consumer,South,Direct Sales,Office Supplies,Notebook Set,5,USD,18,10,90,9,81,7,35,13.65,46,32.35,39.94,8,3
+ORD-00587,2025-07-30,CUS-0097,Small Business,East,Direct Sales,Accessories,Desk Lamp,11,USD,39,10,429,42.9,386.1,16,176,24.73,210.1,185.37,48.01,4,4
+ORD-00588,2025-07-30,CUS-0135,Small Business,East,Online,Technology,Laptop,8,USD,899,0,7192,0,7192,610,4880,13.84,2312,2298.16,31.95,3,4
+ORD-00589,2025-07-30,CUS-0102,Corporate,West,Retail,Office Supplies,Paper Pack,13,USD,12,20,156,31.2,124.8,5,65,0,59.8,59.8,47.92,0,5
+ORD-00590,2025-07-31,CUS-0233,Small Business,South,Retail,Technology,Keyboard,8,USD,65,0,520,0,520,28,224,0,296,296,56.92,0,4
+ORD-00591,2025-07-31,CUS-0124,Corporate,West,Retail,Furniture,Office Chair,5,USD,195,5,975,48.75,926.25,105,525,0,401.25,401.25,43.32,0,5
+ORD-00592,2025-08-01,CUS-0058,Small Business,South,Direct Sales,Furniture,Office Chair,6,USD,195,5,1170,58.5,1111.5,105,630,16.7,481.5,464.8,41.82,9,3
+ORD-00593,2025-08-01,CUS-0004,Corporate,North,Retail,Office Supplies,Notebook Set,3,USD,18,0,54,0,54,7,21,0,33,33,61.11,0,5
+ORD-00594,2025-08-01,CUS-0001,Small Business,North,Direct Sales,Furniture,Desk,6,USD,350,0,2100,0,2100,210,1260,12.29,840,827.71,39.41,5,5
+ORD-00595,2025-08-01,CUS-0051,Small Business,West,Retail,Technology,Keyboard,7,USD,65,0,455,0,455,28,196,0,259,259,56.92,0,4
+ORD-00596,2025-08-01,CUS-0204,Small Business,North,Online,Technology,Laptop,12,USD,899,20,10788,2157.6,8630.4,610,7320,18.53,1310.4,1291.87,14.97,7,4
+ORD-00597,2025-08-01,CUS-0130,Corporate,West,Retail,Office Supplies,Notebook Set,5,USD,18,20,90,18,72,7,35,0,37,37,51.39,0,4
+ORD-00598,2025-08-02,CUS-0219,Corporate,North,Online,Technology,Monitor,13,USD,249,20,3237,647.4,2589.6,155,2015,22.39,574.6,552.21,21.32,4,4
+ORD-00599,2025-08-02,CUS-0197,Small Business,North,Retail,Technology,Monitor,1,USD,249,20,249,49.8,199.2,155,155,0,44.2,44.2,22.19,0,4
+ORD-00600,2025-08-02,CUS-0166,Consumer,North,Online,Accessories,Desk Lamp,2,USD,39,0,78,0,78,16,32,7.55,46,38.45,49.29,6,4
+ORD-00601,2025-08-02,CUS-0198,Consumer,East,Retail,Office Supplies,Printer Ink,4,USD,49,10,196,19.6,176.4,24,96,0,80.4,80.4,45.58,0,5
+ORD-00602,2025-08-02,CUS-0188,Small Business,West,Direct Sales,Technology,Keyboard,2,USD,65,0,130,0,130,28,56,13.94,74,60.06,46.2,9,4
+ORD-00603,2025-08-02,CUS-0123,Corporate,East,Online,Technology,Keyboard,23,USD,65,15,1495,224.25,1270.75,28,644,36.43,626.75,590.32,46.45,9,4
+ORD-00604,2025-08-02,CUS-0082,Small Business,East,Direct Sales,Technology,Laptop,5,USD,899,5,4495,224.75,4270.25,610,3050,12.79,1220.25,1207.46,28.28,9,3
+ORD-00605,2025-08-02,CUS-0019,Corporate,North,Retail,Technology,Monitor,20,USD,249,5,4980,249,4731,155,3100,0,1631,1631,34.47,0,5
+ORD-00606,2025-08-02,CUS-0091,Consumer,South,Direct Sales,Accessories,Backpack,2,USD,59,0,118,0,118,25,50,7.11,68,60.89,51.6,3,5
+ORD-00607,2025-08-03,CUS-0031,Small Business,North,Retail,Technology,Keyboard,8,USD,65,0,520,0,520,28,224,0,296,296,56.92,0,5
+ORD-00608,2025-08-04,CUS-0043,Small Business,South,Retail,Technology,Keyboard,11,USD,65,15,715,107.25,607.75,28,308,0,299.75,299.75,49.32,0,5
+ORD-00609,2025-08-04,CUS-0218,Corporate,West,Retail,Technology,Monitor,11,USD,249,0,2739,0,2739,155,1705,0,1034,1034,37.75,0,5
+ORD-00610,2025-08-04,CUS-0055,Corporate,East,Retail,Furniture,Desk,1,USD,350,0,350,0,350,210,210,0,140,140,40,0,5
+ORD-00611,2025-08-04,CUS-0238,Consumer,East,Direct Sales,Furniture,Desk,3,USD,350,15,1050,157.5,892.5,210,630,9.88,262.5,252.62,28.3,2,4
+ORD-00612,2025-08-05,CUS-0084,Corporate,East,Retail,Accessories,Backpack,13,USD,59,10,767,76.7,690.3,25,325,0,365.3,365.3,52.92,0,5
+ORD-00613,2025-08-06,CUS-0130,Corporate,West,Direct Sales,Technology,Monitor,15,USD,249,10,3735,373.5,3361.5,155,2325,26.5,1036.5,1010,30.05,8,4
+ORD-00614,2025-08-06,CUS-0224,Consumer,West,Online,Office Supplies,Printer Ink,3,USD,49,15,147,22.05,124.95,24,72,13.16,52.95,39.79,31.84,4,3
+ORD-00615,2025-08-06,CUS-0120,Small Business,West,Retail,Accessories,Backpack,3,USD,59,0,177,0,177,25,75,0,102,102,57.63,0,5
+ORD-00616,2025-08-06,CUS-0140,Consumer,South,Direct Sales,Office Supplies,Notebook Set,4,USD,18,15,72,10.8,61.2,7,28,13.11,33.2,20.09,32.83,2,5
+ORD-00617,2025-08-07,CUS-0070,Small Business,West,Online,Furniture,Desk,9,USD,350,5,3150,157.5,2992.5,210,1890,18.31,1102.5,1084.19,36.23,6,4
+ORD-00618,2025-08-07,CUS-0090,Small Business,West,Direct Sales,Office Supplies,Paper Pack,11,USD,12,20,132,26.4,105.6,5,55,18.24,50.6,32.36,30.64,3,4
+ORD-00619,2025-08-07,CUS-0046,Consumer,West,Retail,Furniture,Desk,4,USD,350,20,1400,280,1120,210,840,0,280,280,25,0,5
+ORD-00620,2025-08-08,CUS-0171,Consumer,North,Retail,Office Supplies,Notebook Set,4,USD,18,15,72,10.8,61.2,7,28,0,33.2,33.2,54.25,0,4
+ORD-00621,2025-08-08,CUS-0175,Small Business,North,Retail,Accessories,Backpack,4,USD,59,10,236,23.6,212.4,25,100,0,112.4,112.4,52.92,0,5
+ORD-00622,2025-08-08,CUS-0238,Consumer,East,Retail,Furniture,Office Chair,1,USD,195,5,195,9.75,185.25,105,105,0,80.25,80.25,43.32,0,5
+ORD-00623,2025-08-09,CUS-0091,Consumer,South,Online,Office Supplies,Paper Pack,3,USD,12,15,36,5.4,30.6,5,15,9.84,15.6,5.76,18.82,8,4
+ORD-00624,2025-08-09,CUS-0220,Consumer,West,Retail,Furniture,Office Chair,5,USD,195,0,975,0,975,105,525,0,450,450,46.15,0,5
+ORD-00625,2025-08-09,CUS-0236,Corporate,North,Retail,Furniture,Office Chair,25,USD,195,15,4875,731.25,4143.75,105,2625,0,1518.75,1518.75,36.65,0,5
+ORD-00626,2025-08-10,CUS-0002,Corporate,South,Online,Furniture,Desk,21,USD,350,0,7350,0,7350,210,4410,30.16,2940,2909.84,39.59,4,4
+ORD-00627,2025-08-10,CUS-0089,Consumer,West,Retail,Office Supplies,Paper Pack,4,USD,12,0,48,0,48,5,20,0,28,28,58.33,0,5
+ORD-00628,2025-08-10,CUS-0059,Small Business,West,Retail,Furniture,Office Chair,5,USD,195,20,975,195,780,105,525,0,255,255,32.69,0,4
+ORD-00629,2025-08-11,CUS-0080,Consumer,West,Online,Furniture,Office Chair,3,USD,195,5,585,29.25,555.75,105,315,8.6,240.75,232.15,41.77,9,3
+ORD-00630,2025-08-12,CUS-0189,Small Business,North,Online,Accessories,Backpack,3,USD,59,0,177,0,177,25,75,9.76,102,92.24,52.11,1,4
+ORD-00631,2025-08-12,CUS-0142,Consumer,North,Online,Office Supplies,Paper Pack,3,USD,12,5,36,1.8,34.2,5,15,9.05,19.2,10.15,29.68,7,3
+ORD-00632,2025-08-12,CUS-0212,Small Business,West,Direct Sales,Office Supplies,Paper Pack,9,USD,12,5,108,5.4,102.6,5,45,18.76,57.6,38.84,37.86,9,3
+ORD-00633,2025-08-13,CUS-0174,Corporate,East,Online,Furniture,Office Chair,11,USD,195,0,2145,0,2145,105,1155,17.97,990,972.03,45.32,1,5
+ORD-00634,2025-08-13,CUS-0058,Small Business,South,Online,Accessories,Backpack,7,USD,59,0,413,0,413,25,175,20.74,238,217.26,52.61,8,4
+ORD-00635,2025-08-13,CUS-0157,Corporate,South,Online,Technology,Keyboard,13,USD,65,0,845,0,845,28,364,26.43,481,454.57,53.8,5,3
+ORD-00636,2025-08-13,CUS-0184,Corporate,East,Online,Office Supplies,Notebook Set,5,USD,18,0,90,0,90,7,35,10.04,55,44.96,49.96,4,5
+ORD-00637,2025-08-14,CUS-0042,Small Business,East,Online,Furniture,Office Chair,5,USD,195,0,975,0,975,105,525,15.31,450,434.69,44.58,4,4
+ORD-00638,2025-08-14,CUS-0210,Corporate,South,Retail,Office Supplies,Paper Pack,4,USD,12,5,48,2.4,45.6,5,20,0,25.6,25.6,56.14,0,5
+ORD-00639,2025-08-14,CUS-0037,Consumer,South,Retail,Technology,Monitor,3,USD,249,10,747,74.7,672.3,155,465,0,207.3,207.3,30.83,0,5
+ORD-00640,2025-08-14,CUS-0196,Consumer,West,Retail,Furniture,Office Chair,1,USD,195,5,195,9.75,185.25,105,105,0,80.25,80.25,43.32,0,5
+ORD-00641,2025-08-15,CUS-0083,Consumer,North,Retail,Technology,Monitor,5,USD,249,0,1245,0,1245,155,775,0,470,470,37.75,0,5
+ORD-00642,2025-08-15,CUS-0180,Corporate,South,Direct Sales,Technology,Keyboard,24,USD,65,10,1560,156,1404,28,672,38.53,732,693.47,49.39,9,4
+ORD-00643,2025-08-15,CUS-0156,Corporate,North,Retail,Technology,Laptop,17,USD,899,5,15283,764.15,14518.85,610,10370,0,4148.85,4148.85,28.58,0,5
+ORD-00644,2025-08-15,CUS-0181,Small Business,North,Direct Sales,Office Supplies,Printer Ink,10,USD,49,20,490,98,392,24,240,16.84,152,135.16,34.48,2,5
+ORD-00645,2025-08-16,CUS-0210,Corporate,South,Direct Sales,Office Supplies,Printer Ink,3,USD,49,10,147,14.7,132.3,24,72,12.81,60.3,47.49,35.9,2,4
+ORD-00646,2025-08-16,CUS-0131,Small Business,North,Retail,Technology,Laptop,6,USD,899,5,5394,269.7,5124.3,610,3660,0,1464.3,1464.3,28.58,0,5
+ORD-00647,2025-08-16,CUS-0179,Small Business,West,Direct Sales,Accessories,Desk Lamp,10,USD,39,20,390,78,312,16,160,24.95,152,127.05,40.72,9,3
+ORD-00648,2025-08-16,CUS-0122,Consumer,North,Retail,Technology,Monitor,5,USD,249,5,1245,62.25,1182.75,155,775,0,407.75,407.75,34.47,0,5
+ORD-00649,2025-08-17,CUS-0175,Small Business,North,Online,Office Supplies,Notebook Set,2,USD,18,0,36,0,36,7,14,14.87,22,7.13,19.81,2,4
+ORD-00650,2025-08-17,CUS-0004,Corporate,North,Retail,Technology,Laptop,9,USD,899,20,8091,1618.2,6472.8,610,5490,0,982.8,982.8,15.18,0,5
+ORD-00651,2025-08-18,CUS-0107,Small Business,East,Online,Office Supplies,Notebook Set,11,USD,18,10,198,19.8,178.2,7,77,18.75,101.2,82.45,46.27,9,3
+ORD-00652,2025-08-18,CUS-0135,Small Business,East,Direct Sales,Technology,Monitor,12,USD,249,0,2988,0,2988,155,1860,19.63,1128,1108.37,37.09,3,4
+ORD-00653,2025-08-18,CUS-0047,Consumer,North,Retail,Technology,Laptop,1,USD,899,20,899,179.8,719.2,610,610,0,109.2,109.2,15.18,0,5
+ORD-00654,2025-08-18,CUS-0108,Consumer,South,Online,Technology,Laptop,2,USD,899,10,1798,179.8,1618.2,610,1220,11.72,398.2,386.48,23.88,4,4
+ORD-00655,2025-08-18,CUS-0133,Small Business,South,Direct Sales,Accessories,Desk Lamp,3,USD,39,0,117,0,117,16,48,9.41,69,59.59,50.93,5,4
+ORD-00656,2025-08-18,CUS-0061,Small Business,South,Direct Sales,Technology,Monitor,11,USD,249,20,2739,547.8,2191.2,155,1705,23.32,486.2,462.88,21.12,1,5
+ORD-00657,2025-08-19,CUS-0073,Corporate,East,Direct Sales,Furniture,Desk,15,USD,350,0,5250,0,5250,210,3150,29.44,2100,2070.56,39.44,5,3
+ORD-00658,2025-08-20,CUS-0095,Consumer,East,Online,Accessories,Desk Lamp,1,USD,39,0,39,0,39,16,16,10.54,23,12.46,31.95,6,5
+ORD-00659,2025-08-21,CUS-0039,Corporate,East,Direct Sales,Office Supplies,Printer Ink,10,USD,49,0,490,0,490,24,240,16.09,250,233.91,47.74,8,4
+ORD-00660,2025-08-21,CUS-0056,Consumer,East,Direct Sales,Accessories,Desk Lamp,1,USD,39,20,39,7.8,31.2,16,16,10.56,15.2,4.64,14.87,1,4
+ORD-00661,2025-08-21,CUS-0202,Small Business,East,Direct Sales,Furniture,Desk,7,USD,350,5,2450,122.5,2327.5,210,1470,20.54,857.5,836.96,35.96,1,5
+ORD-00662,2025-08-21,CUS-0107,Small Business,East,Direct Sales,Office Supplies,Notebook Set,8,USD,18,0,144,0,144,7,56,16.1,88,71.9,49.93,3,4
+ORD-00663,2025-08-22,CUS-0048,Consumer,West,Direct Sales,Technology,Laptop,3,USD,899,0,2697,0,2697,610,1830,7.83,867,859.17,31.86,2,5
+ORD-00664,2025-08-22,CUS-0171,Consumer,North,Direct Sales,Office Supplies,Paper Pack,3,USD,12,20,36,7.2,28.8,5,15,8.53,13.8,5.27,18.3,1,5
+ORD-00665,2025-08-23,CUS-0247,Small Business,East,Online,Accessories,Desk Lamp,9,USD,39,0,351,0,351,16,144,21.58,207,185.42,52.83,1,5
+ORD-00666,2025-08-23,CUS-0034,Consumer,East,Direct Sales,Technology,Keyboard,2,USD,65,0,130,0,130,28,56,9.39,74,64.61,49.7,9,4
+ORD-00667,2025-08-24,CUS-0025,Corporate,West,Direct Sales,Furniture,Desk,12,USD,350,0,4200,0,4200,210,2520,22.94,1680,1657.06,39.45,1,4
+ORD-00668,2025-08-24,CUS-0104,Corporate,South,Direct Sales,Furniture,Office Chair,5,USD,195,0,975,0,975,105,525,13.45,450,436.55,44.77,1,5
+ORD-00669,2025-08-25,CUS-0207,Corporate,South,Retail,Accessories,Desk Lamp,12,USD,39,10,468,46.8,421.2,16,192,0,229.2,229.2,54.42,0,5
+ORD-00670,2025-08-26,CUS-0235,Consumer,West,Retail,Office Supplies,Notebook Set,1,USD,18,5,18,0.9,17.1,7,7,0,10.1,10.1,59.06,0,5
+ORD-00671,2025-08-26,CUS-0081,Corporate,South,Direct Sales,Accessories,Desk Lamp,25,USD,39,0,975,0,975,16,400,36.33,575,538.67,55.25,2,5
+ORD-00672,2025-08-26,CUS-0003,Small Business,South,Direct Sales,Office Supplies,Notebook Set,11,USD,18,5,198,9.9,188.1,7,77,25.46,111.1,85.64,45.53,1,5
+ORD-00673,2025-08-26,CUS-0152,Corporate,North,Online,Furniture,Desk,21,USD,350,15,7350,1102.5,6247.5,210,4410,33.78,1837.5,1803.72,28.87,6,4
+ORD-00674,2025-08-27,CUS-0212,Small Business,West,Direct Sales,Technology,Keyboard,9,USD,65,5,585,29.25,555.75,28,252,21.89,303.75,281.86,50.72,5,4
+ORD-00675,2025-08-27,CUS-0073,Corporate,East,Direct Sales,Technology,Laptop,18,USD,899,10,16182,1618.2,14563.8,610,10980,29.46,3583.8,3554.34,24.41,5,3
+ORD-00676,2025-08-27,CUS-0155,Corporate,West,Direct Sales,Technology,Monitor,16,USD,249,10,3984,398.4,3585.6,155,2480,31.03,1105.6,1074.57,29.97,3,4
+ORD-00677,2025-08-27,CUS-0075,Small Business,South,Online,Office Supplies,Printer Ink,5,USD,49,10,245,24.5,220.5,24,120,15.03,100.5,85.47,38.76,1,5
+ORD-00678,2025-08-27,CUS-0176,Consumer,South,Direct Sales,Furniture,Desk,2,USD,350,5,700,35,665,210,420,6.55,245,238.45,35.86,6,3
+ORD-00679,2025-08-27,CUS-0054,Small Business,West,Online,Technology,Monitor,8,USD,249,0,1992,0,1992,155,1240,21.68,752,730.32,36.66,7,4
+ORD-00680,2025-08-27,CUS-0120,Small Business,West,Online,Accessories,Desk Lamp,6,USD,39,10,234,23.4,210.6,16,96,16.03,114.6,98.57,46.8,6,5
+ORD-00681,2025-08-28,CUS-0195,Corporate,South,Retail,Office Supplies,Paper Pack,3,USD,12,20,36,7.2,28.8,5,15,0,13.8,13.8,47.92,0,5
+ORD-00682,2025-08-28,CUS-0137,Corporate,East,Retail,Technology,Laptop,22,USD,899,0,19778,0,19778,610,13420,0,6358,6358,32.15,0,5
+ORD-00683,2025-08-29,CUS-0021,Small Business,North,Online,Accessories,Backpack,6,USD,59,0,354,0,354,25,150,14.34,204,189.66,53.58,4,5
+ORD-00684,2025-08-29,CUS-0074,Corporate,North,Online,Technology,Laptop,20,USD,899,10,17980,1798,16182,610,12200,36.07,3982,3945.93,24.38,8,3
+ORD-00685,2025-08-30,CUS-0023,Corporate,West,Retail,Accessories,Backpack,3,USD,59,0,177,0,177,25,75,0,102,102,57.63,0,5
+ORD-00686,2025-08-30,CUS-0229,Small Business,West,Retail,Office Supplies,Paper Pack,10,USD,12,15,120,18,102,5,50,0,52,52,50.98,0,4
+ORD-00687,2025-08-31,CUS-0078,Small Business,South,Direct Sales,Office Supplies,Notebook Set,9,USD,18,20,162,32.4,129.6,7,63,20.3,66.6,46.3,35.73,8,5
+ORD-00688,2025-08-31,CUS-0111,Corporate,North,Retail,Technology,Laptop,14,USD,899,5,12586,629.3,11956.7,610,8540,0,3416.7,3416.7,28.58,0,4
+ORD-00689,2025-08-31,CUS-0017,Consumer,West,Direct Sales,Technology,Laptop,3,USD,899,20,2697,539.4,2157.6,610,1830,12.13,327.6,315.47,14.62,2,4
+ORD-00690,2025-09-02,CUS-0114,Small Business,East,Retail,Technology,Monitor,5,USD,249,5,1245,62.25,1182.75,155,775,0,407.75,407.75,34.47,0,4
+ORD-00691,2025-09-02,CUS-0118,Small Business,South,Online,Accessories,Desk Lamp,5,USD,39,5,195,9.75,185.25,16,80,14.93,105.25,90.32,48.76,6,3
+ORD-00692,2025-09-02,CUS-0161,Small Business,South,Online,Technology,Laptop,12,USD,899,0,10788,0,10788,610,7320,27.19,3468,3440.81,31.89,1,4
+ORD-00693,2025-09-02,CUS-0124,Corporate,West,Retail,Accessories,Desk Lamp,3,USD,39,0,117,0,117,16,48,0,69,69,58.97,0,4
+ORD-00694,2025-09-03,CUS-0142,Consumer,North,Direct Sales,Office Supplies,Notebook Set,5,USD,18,0,90,0,90,7,35,16.09,55,38.91,43.23,3,5
+ORD-00695,2025-09-04,CUS-0186,Small Business,West,Online,Office Supplies,Notebook Set,8,USD,18,10,144,14.4,129.6,7,56,21.89,73.6,51.71,39.9,4,4
+ORD-00696,2025-09-04,CUS-0059,Small Business,West,Retail,Technology,Laptop,12,USD,899,20,10788,2157.6,8630.4,610,7320,0,1310.4,1310.4,15.18,0,4
+ORD-00697,2025-09-04,CUS-0026,Consumer,South,Online,Technology,Monitor,3,USD,249,0,747,0,747,155,465,14.54,282,267.46,35.8,6,3
+ORD-00698,2025-09-05,CUS-0107,Small Business,East,Online,Accessories,Backpack,12,USD,59,10,708,70.8,637.2,25,300,25.22,337.2,311.98,48.96,3,4
+ORD-00699,2025-09-05,CUS-0149,Corporate,North,Direct Sales,Office Supplies,Notebook Set,11,USD,18,20,198,39.6,158.4,7,77,24.81,81.4,56.59,35.73,2,5
+ORD-00700,2025-09-06,CUS-0197,Small Business,North,Online,Technology,Laptop,3,USD,899,0,2697,0,2697,610,1830,12.45,867,854.55,31.69,7,4
+ORD-00701,2025-09-07,CUS-0031,Small Business,North,Direct Sales,Office Supplies,Notebook Set,12,USD,18,20,216,43.2,172.8,7,84,23.01,88.8,65.79,38.07,9,3
+ORD-00702,2025-09-08,CUS-0051,Small Business,West,Direct Sales,Accessories,Desk Lamp,2,USD,39,20,78,15.6,62.4,16,32,13.84,30.4,16.56,26.54,4,5
+ORD-00703,2025-09-09,CUS-0144,Consumer,North,Retail,Accessories,Desk Lamp,5,USD,39,5,195,9.75,185.25,16,80,0,105.25,105.25,56.82,0,5
+ORD-00704,2025-09-09,CUS-0117,Small Business,North,Online,Office Supplies,Notebook Set,12,USD,18,15,216,32.4,183.6,7,84,25.6,99.6,74,40.31,6,4
+ORD-00705,2025-09-09,CUS-0213,Consumer,North,Direct Sales,Furniture,Desk,3,USD,350,20,1050,210,840,210,630,8.17,210,201.83,24.03,5,5
+ORD-00706,2025-09-09,CUS-0055,Corporate,East,Retail,Office Supplies,Notebook Set,21,USD,18,15,378,56.7,321.3,7,147,0,174.3,174.3,54.25,0,5
+ORD-00707,2025-09-09,CUS-0195,Corporate,South,Retail,Technology,Laptop,10,USD,899,0,8990,0,8990,610,6100,0,2890,2890,32.15,0,5
+ORD-00708,2025-09-10,CUS-0019,Corporate,North,Retail,Technology,Keyboard,15,USD,65,10,975,97.5,877.5,28,420,0,457.5,457.5,52.14,0,5
+ORD-00709,2025-09-10,CUS-0021,Small Business,North,Online,Accessories,Backpack,2,USD,59,5,118,5.9,112.1,25,50,11.38,62.1,50.72,45.25,7,4
+ORD-00710,2025-09-10,CUS-0036,Consumer,East,Retail,Technology,Monitor,1,USD,249,0,249,0,249,155,155,0,94,94,37.75,0,4
+ORD-00711,2025-09-10,CUS-0186,Small Business,West,Retail,Technology,Laptop,12,USD,899,20,10788,2157.6,8630.4,610,7320,0,1310.4,1310.4,15.18,0,5
+ORD-00712,2025-09-10,CUS-0124,Corporate,West,Retail,Technology,Monitor,8,USD,249,15,1992,298.8,1693.2,155,1240,0,453.2,453.2,26.77,0,5
+ORD-00713,2025-09-10,CUS-0096,Corporate,East,Online,Technology,Keyboard,12,USD,65,5,780,39,741,28,336,23.55,405,381.45,51.48,2,5
+ORD-00714,2025-09-10,CUS-0189,Small Business,North,Retail,Technology,Laptop,1,USD,899,0,899,0,899,610,610,0,289,289,32.15,0,5
+ORD-00715,2025-09-11,CUS-0245,Small Business,North,Direct Sales,Technology,Keyboard,12,USD,65,5,780,39,741,28,336,27.21,405,377.79,50.98,3,5
+ORD-00716,2025-09-11,CUS-0122,Consumer,North,Retail,Technology,Laptop,2,USD,899,15,1798,269.7,1528.3,610,1220,0,308.3,308.3,20.17,0,5
+ORD-00717,2025-09-11,CUS-0137,Corporate,East,Direct Sales,Technology,Keyboard,13,USD,65,10,845,84.5,760.5,28,364,27.3,396.5,369.2,48.55,6,3
+ORD-00718,2025-09-11,CUS-0098,Consumer,North,Online,Office Supplies,Printer Ink,2,USD,49,20,98,19.6,78.4,24,48,12.27,30.4,18.13,23.13,1,5
+ORD-00719,2025-09-11,CUS-0228,Small Business,West,Direct Sales,Accessories,Desk Lamp,4,USD,39,20,156,31.2,124.8,16,64,12.2,60.8,48.6,38.94,7,3
+ORD-00720,2025-09-12,CUS-0069,Small Business,West,Retail,Furniture,Desk,5,USD,350,15,1750,262.5,1487.5,210,1050,0,437.5,437.5,29.41,0,4
+ORD-00721,2025-09-14,CUS-0157,Corporate,South,Online,Technology,Keyboard,7,USD,65,0,455,0,455,28,196,18.88,259,240.12,52.77,9,3
+ORD-00722,2025-09-14,CUS-0180,Corporate,South,Online,Office Supplies,Paper Pack,20,USD,12,0,240,0,240,5,100,30.74,140,109.26,45.53,2,5
+ORD-00723,2025-09-14,CUS-0210,Corporate,South,Online,Technology,Keyboard,21,USD,65,15,1365,204.75,1160.25,28,588,30.67,572.25,541.58,46.68,5,3
+ORD-00724,2025-09-15,CUS-0051,Small Business,West,Retail,Office Supplies,Paper Pack,5,USD,12,10,60,6,54,5,25,0,29,29,53.7,0,5
+ORD-00725,2025-09-15,CUS-0183,Consumer,West,Retail,Office Supplies,Notebook Set,1,USD,18,0,18,0,18,7,7,0,11,11,61.11,0,4
+ORD-00726,2025-09-16,CUS-0014,Small Business,South,Direct Sales,Office Supplies,Printer Ink,8,USD,49,0,392,0,392,24,192,20.29,200,179.71,45.84,1,5
+ORD-00727,2025-09-16,CUS-0181,Small Business,North,Direct Sales,Office Supplies,Printer Ink,9,USD,49,20,441,88.2,352.8,24,216,18.33,136.8,118.47,33.58,9,3
+ORD-00728,2025-09-16,CUS-0203,Small Business,South,Direct Sales,Furniture,Desk,12,USD,350,5,4200,210,3990,210,2520,22.79,1470,1447.21,36.27,7,5
+ORD-00729,2025-09-16,CUS-0075,Small Business,South,Direct Sales,Accessories,Backpack,6,USD,59,0,354,0,354,25,150,18.88,204,185.12,52.29,5,5
+ORD-00730,2025-09-17,CUS-0020,Corporate,West,Retail,Technology,Keyboard,6,USD,65,10,390,39,351,28,168,0,183,183,52.14,0,5
+ORD-00731,2025-09-17,CUS-0119,Small Business,South,Online,Accessories,Desk Lamp,1,USD,39,20,39,7.8,31.2,16,16,7.86,15.2,7.34,23.53,8,3
+ORD-00732,2025-09-18,CUS-0140,Consumer,South,Retail,Technology,Laptop,2,USD,899,10,1798,179.8,1618.2,610,1220,0,398.2,398.2,24.61,0,4
+ORD-00733,2025-09-18,CUS-0166,Consumer,North,Direct Sales,Furniture,Office Chair,4,USD,195,15,780,117,663,105,420,16.05,243,226.95,34.23,6,4
+ORD-00734,2025-09-20,CUS-0014,Small Business,South,Retail,Furniture,Desk,8,USD,350,5,2800,140,2660,210,1680,0,980,980,36.84,0,5
+ORD-00735,2025-09-22,CUS-0236,Corporate,North,Direct Sales,Technology,Monitor,9,USD,249,0,2241,0,2241,155,1395,23.45,846,822.55,36.7,7,4
+ORD-00736,2025-09-22,CUS-0150,Corporate,South,Online,Office Supplies,Notebook Set,11,USD,18,15,198,29.7,168.3,7,77,21,91.3,70.3,41.77,4,5
+ORD-00737,2025-09-23,CUS-0181,Small Business,North,Online,Accessories,Backpack,9,USD,59,0,531,0,531,25,225,18,306,288,54.24,9,4
+ORD-00738,2025-09-24,CUS-0241,Small Business,East,Retail,Accessories,Desk Lamp,3,USD,39,10,117,11.7,105.3,16,48,0,57.3,57.3,54.42,0,5
+ORD-00739,2025-09-25,CUS-0246,Small Business,North,Retail,Accessories,Backpack,10,USD,59,10,590,59,531,25,250,0,281,281,52.92,0,5
+ORD-00740,2025-09-25,CUS-0127,Small Business,West,Online,Furniture,Office Chair,11,USD,195,10,2145,214.5,1930.5,105,1155,20.06,775.5,755.44,39.13,6,4
+ORD-00741,2025-09-25,CUS-0037,Consumer,South,Online,Office Supplies,Notebook Set,4,USD,18,0,72,0,72,7,28,14.44,44,29.56,41.06,7,4
+ORD-00742,2025-09-25,CUS-0151,Corporate,South,Retail,Technology,Laptop,18,USD,899,20,16182,3236.4,12945.6,610,10980,0,1965.6,1965.6,15.18,0,5
+ORD-00743,2025-09-25,CUS-0200,Corporate,North,Direct Sales,Office Supplies,Notebook Set,19,USD,18,0,342,0,342,7,133,29.55,209,179.45,52.47,1,5
+ORD-00744,2025-09-25,CUS-0034,Consumer,East,Retail,Furniture,Office Chair,4,USD,195,20,780,156,624,105,420,0,204,204,32.69,0,5
+ORD-00745,2025-09-25,CUS-0173,Small Business,West,Online,Technology,Laptop,9,USD,899,10,8091,809.1,7281.9,610,5490,23.2,1791.9,1768.7,24.29,9,3
+ORD-00746,2025-09-27,CUS-0051,Small Business,West,Online,Accessories,Backpack,1,USD,59,10,59,5.9,53.1,25,25,14.01,28.1,14.09,26.53,5,4
+ORD-00747,2025-09-27,CUS-0092,Consumer,North,Retail,Technology,Monitor,1,USD,249,5,249,12.45,236.55,155,155,0,81.55,81.55,34.47,0,5
+ORD-00748,2025-09-28,CUS-0005,Consumer,East,Direct Sales,Office Supplies,Paper Pack,5,USD,12,0,60,0,60,5,25,13.81,35,21.19,35.32,6,5
+ORD-00749,2025-09-28,CUS-0057,Consumer,East,Direct Sales,Accessories,Backpack,1,USD,59,10,59,5.9,53.1,25,25,11.32,28.1,16.78,31.6,7,3
+ORD-00750,2025-09-28,CUS-0133,Small Business,South,Direct Sales,Office Supplies,Printer Ink,5,USD,49,20,245,49,196,24,120,13.68,76,62.32,31.8,8,3
+ORD-00751,2025-09-29,CUS-0062,Consumer,East,Retail,Office Supplies,Paper Pack,1,USD,12,10,12,1.2,10.8,5,5,0,5.8,5.8,53.7,0,5
+ORD-00752,2025-09-29,CUS-0127,Small Business,West,Retail,Furniture,Office Chair,7,USD,195,5,1365,68.25,1296.75,105,735,0,561.75,561.75,43.32,0,4
+ORD-00753,2025-10-01,CUS-0017,Consumer,West,Retail,Accessories,Desk Lamp,1,USD,39,15,39,5.85,33.15,16,16,0,17.15,17.15,51.73,0,5
+ORD-00754,2025-10-01,CUS-0001,Small Business,North,Direct Sales,Technology,Laptop,3,USD,899,5,2697,134.85,2562.15,610,1830,12.49,732.15,719.66,28.09,4,4
+ORD-00755,2025-10-01,CUS-0065,Consumer,East,Online,Technology,Keyboard,3,USD,65,10,195,19.5,175.5,28,84,14.61,91.5,76.89,43.81,1,4
+ORD-00756,2025-10-01,CUS-0192,Corporate,West,Direct Sales,Technology,Laptop,18,USD,899,10,16182,1618.2,14563.8,610,10980,29.52,3583.8,3554.28,24.4,3,5
+ORD-00757,2025-10-02,CUS-0236,Corporate,North,Direct Sales,Accessories,Desk Lamp,20,USD,39,0,780,0,780,16,320,36.71,460,423.29,54.27,8,3
+ORD-00758,2025-10-03,CUS-0072,Small Business,South,Online,Office Supplies,Printer Ink,8,USD,49,15,392,58.8,333.2,24,192,15.44,141.2,125.76,37.74,6,4
+ORD-00759,2025-10-03,CUS-0163,Corporate,South,Retail,Office Supplies,Notebook Set,18,USD,18,10,324,32.4,291.6,7,126,0,165.6,165.6,56.79,0,4
+ORD-00760,2025-10-03,CUS-0133,Small Business,South,Retail,Technology,Laptop,3,USD,899,5,2697,134.85,2562.15,610,1830,0,732.15,732.15,28.58,0,4
+ORD-00761,2025-10-03,CUS-0040,Consumer,South,Direct Sales,Accessories,Desk Lamp,4,USD,39,5,156,7.8,148.2,16,64,10.36,84.2,73.84,49.82,2,5
+ORD-00762,2025-10-04,CUS-0035,Consumer,East,Online,Office Supplies,Notebook Set,1,USD,18,10,18,1.8,16.2,7,7,12.38,9.2,-3.18,-19.63,6,3
+ORD-00763,2025-10-04,CUS-0170,Corporate,East,Direct Sales,Furniture,Office Chair,16,USD,195,5,3120,156,2964,105,1680,26.77,1284,1257.23,42.42,3,5
+ORD-00764,2025-10-04,CUS-0217,Consumer,East,Direct Sales,Furniture,Office Chair,4,USD,195,0,780,0,780,105,420,17.67,360,342.33,43.89,2,5
+ORD-00765,2025-10-05,CUS-0104,Corporate,South,Online,Accessories,Desk Lamp,9,USD,39,0,351,0,351,16,144,20.63,207,186.37,53.1,7,3
+ORD-00766,2025-10-05,CUS-0138,Small Business,North,Retail,Technology,Laptop,1,USD,899,5,899,44.95,854.05,610,610,0,244.05,244.05,28.58,0,5
+ORD-00767,2025-10-05,CUS-0081,Corporate,South,Retail,Office Supplies,Paper Pack,15,USD,12,15,180,27,153,5,75,0,78,78,50.98,0,4
+ORD-00768,2025-10-05,CUS-0173,Small Business,West,Online,Office Supplies,Paper Pack,6,USD,12,10,72,7.2,64.8,5,30,13.03,34.8,21.77,33.6,7,3
+ORD-00769,2025-10-06,CUS-0106,Consumer,North,Online,Accessories,Backpack,5,USD,59,5,295,14.75,280.25,25,125,11.45,155.25,143.8,51.31,3,5
+ORD-00770,2025-10-06,CUS-0035,Consumer,East,Direct Sales,Technology,Keyboard,3,USD,65,20,195,39,156,28,84,15.28,72,56.72,36.36,1,5
+ORD-00771,2025-10-07,CUS-0080,Consumer,West,Direct Sales,Accessories,Desk Lamp,3,USD,39,0,117,0,117,16,48,10.2,69,58.8,50.26,1,4
+ORD-00772,2025-10-07,CUS-0028,Consumer,South,Online,Technology,Monitor,2,USD,249,20,498,99.6,398.4,155,310,9.54,88.4,78.86,19.79,5,5
+ORD-00773,2025-10-08,CUS-0178,Corporate,East,Retail,Technology,Laptop,17,USD,899,5,15283,764.15,14518.85,610,10370,0,4148.85,4148.85,28.58,0,5
+ORD-00774,2025-10-08,CUS-0191,Small Business,North,Online,Furniture,Desk,5,USD,350,0,1750,0,1750,210,1050,12.89,700,687.11,39.26,3,4
+ORD-00775,2025-10-08,CUS-0042,Small Business,East,Retail,Technology,Keyboard,9,USD,65,0,585,0,585,28,252,0,333,333,56.92,0,5
+ORD-00776,2025-10-08,CUS-0215,Consumer,West,Direct Sales,Office Supplies,Paper Pack,2,USD,12,10,24,2.4,21.6,5,10,13.35,11.6,-1.75,-8.1,1,5
+ORD-00777,2025-10-08,CUS-0204,Small Business,North,Retail,Technology,Laptop,8,USD,899,10,7192,719.2,6472.8,610,4880,0,1592.8,1592.8,24.61,0,5
+ORD-00778,2025-10-08,CUS-0250,Corporate,West,Direct Sales,Technology,Keyboard,1,USD,65,0,65,0,65,28,28,10.58,37,26.42,40.65,5,4
+ORD-00779,2025-10-08,CUS-0116,Consumer,North,Retail,Office Supplies,Printer Ink,2,USD,49,0,98,0,98,24,48,0,50,50,51.02,0,5
+ORD-00780,2025-10-08,CUS-0183,Consumer,West,Retail,Accessories,Desk Lamp,3,USD,39,5,117,5.85,111.15,16,48,0,63.15,63.15,56.82,0,5
+ORD-00781,2025-10-08,CUS-0147,Consumer,West,Direct Sales,Accessories,Backpack,3,USD,59,10,177,17.7,159.3,25,75,14.64,84.3,69.66,43.73,3,5
+ORD-00782,2025-10-10,CUS-0006,Small Business,South,Retail,Furniture,Desk,9,USD,350,0,3150,0,3150,210,1890,0,1260,1260,40,0,5
+ORD-00783,2025-10-10,CUS-0071,Consumer,South,Retail,Technology,Keyboard,4,USD,65,10,260,26,234,28,112,0,122,122,52.14,0,5
+ORD-00784,2025-10-10,CUS-0070,Small Business,West,Direct Sales,Accessories,Backpack,7,USD,59,0,413,0,413,25,175,19.53,238,218.47,52.9,4,5
+ORD-00785,2025-10-10,CUS-0093,Corporate,East,Online,Office Supplies,Printer Ink,18,USD,49,10,882,88.2,793.8,24,432,34.02,361.8,327.78,41.29,8,4
+ORD-00786,2025-10-11,CUS-0246,Small Business,North,Retail,Office Supplies,Notebook Set,10,USD,18,15,180,27,153,7,70,0,83,83,54.25,0,5
+ORD-00787,2025-10-11,CUS-0196,Consumer,West,Online,Technology,Monitor,1,USD,249,0,249,0,249,155,155,5.51,94,88.49,35.54,1,4
+ORD-00788,2025-10-11,CUS-0038,Small Business,North,Retail,Furniture,Desk,5,USD,350,15,1750,262.5,1487.5,210,1050,0,437.5,437.5,29.41,0,5
+ORD-00789,2025-10-11,CUS-0171,Consumer,North,Retail,Accessories,Desk Lamp,4,USD,39,0,156,0,156,16,64,0,92,92,58.97,0,4
+ORD-00790,2025-10-12,CUS-0037,Consumer,South,Retail,Furniture,Desk,1,USD,350,15,350,52.5,297.5,210,210,0,87.5,87.5,29.41,0,5
+ORD-00791,2025-10-12,CUS-0006,Small Business,South,Direct Sales,Accessories,Desk Lamp,9,USD,39,5,351,17.55,333.45,16,144,18.73,189.45,170.72,51.2,5,5
+ORD-00792,2025-10-12,CUS-0001,Small Business,North,Direct Sales,Office Supplies,Paper Pack,1,USD,12,5,12,0.6,11.4,5,5,11.57,6.4,-5.17,-45.35,6,3
+ORD-00793,2025-10-13,CUS-0134,Small Business,South,Online,Furniture,Desk,7,USD,350,0,2450,0,2450,210,1470,15.47,980,964.53,39.37,3,4
+ORD-00794,2025-10-13,CUS-0239,Corporate,West,Direct Sales,Accessories,Desk Lamp,6,USD,39,20,234,46.8,187.2,16,96,16.16,91.2,75.04,40.09,6,4
+ORD-00795,2025-10-13,CUS-0207,Corporate,South,Retail,Accessories,Backpack,2,USD,59,0,118,0,118,25,50,0,68,68,57.63,0,5
+ORD-00796,2025-10-13,CUS-0065,Consumer,East,Online,Furniture,Desk,1,USD,350,15,350,52.5,297.5,210,210,10.54,87.5,76.96,25.87,7,5
+ORD-00797,2025-10-13,CUS-0096,Corporate,East,Online,Furniture,Office Chair,23,USD,195,20,4485,897,3588,105,2415,39.8,1173,1133.2,31.58,1,4
+ORD-00798,2025-10-14,CUS-0202,Small Business,East,Direct Sales,Furniture,Office Chair,5,USD,195,5,975,48.75,926.25,105,525,10.41,401.25,390.84,42.2,4,4
+ORD-00799,2025-10-15,CUS-0214,Consumer,East,Retail,Accessories,Desk Lamp,1,USD,39,0,39,0,39,16,16,0,23,23,58.97,0,4
+ORD-00800,2025-10-15,CUS-0139,Consumer,West,Direct Sales,Technology,Keyboard,2,USD,65,20,130,26,104,28,56,12.39,48,35.61,34.24,1,5
+ORD-00801,2025-10-15,CUS-0048,Consumer,West,Online,Accessories,Backpack,1,USD,59,20,59,11.8,47.2,25,25,11.28,22.2,10.92,23.14,3,4
+ORD-00802,2025-10-16,CUS-0095,Consumer,East,Direct Sales,Furniture,Office Chair,1,USD,195,15,195,29.25,165.75,105,105,8.83,60.75,51.92,31.32,6,5
+ORD-00803,2025-10-16,CUS-0076,Corporate,East,Direct Sales,Technology,Monitor,23,USD,249,15,5727,859.05,4867.95,155,3565,38.97,1302.95,1263.98,25.97,8,4
+ORD-00804,2025-10-16,CUS-0222,Corporate,North,Direct Sales,Office Supplies,Paper Pack,23,USD,12,0,276,0,276,5,115,39.1,161,121.9,44.17,9,3
+ORD-00805,2025-10-17,CUS-0054,Small Business,West,Retail,Office Supplies,Printer Ink,8,USD,49,15,392,58.8,333.2,24,192,0,141.2,141.2,42.38,0,5
+ORD-00806,2025-10-17,CUS-0249,Small Business,East,Direct Sales,Office Supplies,Notebook Set,5,USD,18,15,90,13.5,76.5,7,35,16.56,41.5,24.94,32.6,3,5
+ORD-00807,2025-10-18,CUS-0225,Consumer,South,Online,Technology,Keyboard,3,USD,65,0,195,0,195,28,84,15.18,111,95.82,49.14,3,5
+ORD-00808,2025-10-18,CUS-0078,Small Business,South,Retail,Furniture,Desk,12,USD,350,0,4200,0,4200,210,2520,0,1680,1680,40,0,5
+ORD-00809,2025-10-18,CUS-0224,Consumer,West,Direct Sales,Office Supplies,Paper Pack,2,USD,12,20,24,4.8,19.2,5,10,12.39,9.2,-3.19,-16.61,2,5
+ORD-00810,2025-10-18,CUS-0001,Small Business,North,Direct Sales,Office Supplies,Notebook Set,3,USD,18,20,54,10.8,43.2,7,21,14.44,22.2,7.76,17.96,9,4
+ORD-00811,2025-10-18,CUS-0216,Small Business,North,Retail,Technology,Monitor,2,USD,249,0,498,0,498,155,310,0,188,188,37.75,0,5
+ORD-00812,2025-10-19,CUS-0013,Consumer,South,Retail,Office Supplies,Printer Ink,2,USD,49,15,98,14.7,83.3,24,48,0,35.3,35.3,42.38,0,5
+ORD-00813,2025-10-19,CUS-0132,Small Business,South,Online,Accessories,Desk Lamp,3,USD,39,0,117,0,117,16,48,12.83,69,56.17,48.01,8,4
+ORD-00814,2025-10-19,CUS-0213,Consumer,North,Online,Office Supplies,Printer Ink,5,USD,49,20,245,49,196,24,120,18.9,76,57.1,29.13,6,4
+ORD-00815,2025-10-19,CUS-0202,Small Business,East,Retail,Furniture,Office Chair,7,USD,195,20,1365,273,1092,105,735,0,357,357,32.69,0,5
+ORD-00816,2025-10-20,CUS-0054,Small Business,West,Retail,Office Supplies,Notebook Set,2,USD,18,20,36,7.2,28.8,7,14,0,14.8,14.8,51.39,0,4
+ORD-00817,2025-10-20,CUS-0229,Small Business,West,Online,Technology,Keyboard,9,USD,65,15,585,87.75,497.25,28,252,15.06,245.25,230.19,46.29,6,5
+ORD-00818,2025-10-20,CUS-0103,Consumer,North,Retail,Technology,Keyboard,3,USD,65,20,195,39,156,28,84,0,72,72,46.15,0,5
+ORD-00819,2025-10-21,CUS-0205,Small Business,West,Retail,Furniture,Desk,8,USD,350,0,2800,0,2800,210,1680,0,1120,1120,40,0,4
+ORD-00820,2025-10-21,CUS-0104,Corporate,South,Online,Technology,Laptop,22,USD,899,5,19778,988.9,18789.1,610,13420,33.98,5369.1,5335.12,28.39,9,3
+ORD-00821,2025-10-22,CUS-0139,Consumer,West,Direct Sales,Office Supplies,Notebook Set,2,USD,18,20,36,7.2,28.8,7,14,13.96,14.8,0.84,2.92,3,5
+ORD-00822,2025-10-22,CUS-0161,Small Business,South,Online,Office Supplies,Notebook Set,2,USD,18,20,36,7.2,28.8,7,14,12.26,14.8,2.54,8.82,4,4
+ORD-00823,2025-10-22,CUS-0105,Consumer,East,Online,Office Supplies,Paper Pack,2,USD,12,15,24,3.6,20.4,5,10,13.25,10.4,-2.85,-13.97,2,4
+ORD-00824,2025-10-22,CUS-0241,Small Business,East,Retail,Accessories,Desk Lamp,10,USD,39,10,390,39,351,16,160,0,191,191,54.42,0,5
+ORD-00825,2025-10-23,CUS-0107,Small Business,East,Direct Sales,Office Supplies,Paper Pack,10,USD,12,15,120,18,102,5,50,18.9,52,33.1,32.45,3,5
+ORD-00826,2025-10-23,CUS-0175,Small Business,North,Retail,Technology,Monitor,11,USD,249,20,2739,547.8,2191.2,155,1705,0,486.2,486.2,22.19,0,4
+ORD-00827,2025-10-23,CUS-0157,Corporate,South,Retail,Furniture,Desk,12,USD,350,0,4200,0,4200,210,2520,0,1680,1680,40,0,5
+ORD-00828,2025-10-23,CUS-0203,Small Business,South,Online,Technology,Laptop,4,USD,899,5,3596,179.8,3416.2,610,2440,15.03,976.2,961.17,28.14,3,5
+ORD-00829,2025-10-23,CUS-0176,Consumer,South,Retail,Furniture,Office Chair,4,USD,195,15,780,117,663,105,420,0,243,243,36.65,0,5
+ORD-00830,2025-10-23,CUS-0048,Consumer,West,Retail,Office Supplies,Paper Pack,5,USD,12,15,60,9,51,5,25,0,26,26,50.98,0,5
+ORD-00831,2025-10-24,CUS-0152,Corporate,North,Online,Technology,Monitor,5,USD,249,0,1245,0,1245,155,775,17.09,470,452.91,36.38,8,3
+ORD-00832,2025-10-24,CUS-0099,Small Business,North,Direct Sales,Furniture,Desk,10,USD,350,5,3500,175,3325,210,2100,24.72,1225,1200.28,36.1,3,4
+ORD-00833,2025-10-24,CUS-0166,Consumer,North,Online,Technology,Keyboard,4,USD,65,0,260,0,260,28,112,16.17,148,131.83,50.7,4,4
+ORD-00834,2025-10-24,CUS-0218,Corporate,West,Retail,Technology,Laptop,8,USD,899,0,7192,0,7192,610,4880,0,2312,2312,32.15,0,5
+ORD-00835,2025-10-25,CUS-0064,Corporate,North,Retail,Furniture,Office Chair,10,USD,195,20,1950,390,1560,105,1050,0,510,510,32.69,0,4
+ORD-00836,2025-10-25,CUS-0195,Corporate,South,Online,Furniture,Office Chair,2,USD,195,20,390,78,312,105,210,12.69,102,89.31,28.63,4,4
+ORD-00837,2025-10-25,CUS-0188,Small Business,West,Online,Accessories,Desk Lamp,4,USD,39,15,156,23.4,132.6,16,64,11.56,68.6,57.04,43.02,4,5
+ORD-00838,2025-10-25,CUS-0026,Consumer,South,Online,Office Supplies,Notebook Set,5,USD,18,15,90,13.5,76.5,7,35,13.61,41.5,27.89,36.46,5,4
+ORD-00839,2025-10-25,CUS-0243,Consumer,North,Retail,Accessories,Backpack,1,USD,59,0,59,0,59,25,25,0,34,34,57.63,0,5
+ORD-00840,2025-10-25,CUS-0095,Consumer,East,Retail,Office Supplies,Printer Ink,3,USD,49,0,147,0,147,24,72,0,75,75,51.02,0,4
+ORD-00841,2025-10-26,CUS-0056,Consumer,East,Online,Office Supplies,Printer Ink,5,USD,49,0,245,0,245,24,120,11.37,125,113.63,46.38,2,4
+ORD-00842,2025-10-26,CUS-0098,Consumer,North,Online,Furniture,Office Chair,4,USD,195,0,780,0,780,105,420,13.75,360,346.25,44.39,2,4
+ORD-00843,2025-10-26,CUS-0037,Consumer,South,Retail,Office Supplies,Printer Ink,4,USD,49,20,196,39.2,156.8,24,96,0,60.8,60.8,38.78,0,5
+ORD-00844,2025-10-26,CUS-0239,Corporate,West,Retail,Office Supplies,Printer Ink,2,USD,49,20,98,19.6,78.4,24,48,0,30.4,30.4,38.78,0,5
+ORD-00845,2025-10-26,CUS-0171,Consumer,North,Retail,Technology,Laptop,1,USD,899,15,899,134.85,764.15,610,610,0,154.15,154.15,20.17,0,5
+ORD-00846,2025-10-27,CUS-0182,Small Business,South,Retail,Technology,Laptop,6,USD,899,0,5394,0,5394,610,3660,0,1734,1734,32.15,0,5
+ORD-00847,2025-10-27,CUS-0204,Small Business,North,Online,Office Supplies,Paper Pack,11,USD,12,5,132,6.6,125.4,5,55,22.38,70.4,48.02,38.29,7,4
+ORD-00848,2025-10-27,CUS-0176,Consumer,South,Retail,Office Supplies,Paper Pack,2,USD,12,15,24,3.6,20.4,5,10,0,10.4,10.4,50.98,0,5
+ORD-00849,2025-10-27,CUS-0048,Consumer,West,Online,Office Supplies,Notebook Set,2,USD,18,10,36,3.6,32.4,7,14,11.08,18.4,7.32,22.59,6,4
+ORD-00850,2025-10-28,CUS-0208,Small Business,East,Retail,Technology,Keyboard,9,USD,65,15,585,87.75,497.25,28,252,0,245.25,245.25,49.32,0,5
+ORD-00851,2025-10-29,CUS-0201,Small Business,South,Online,Office Supplies,Printer Ink,3,USD,49,0,147,0,147,24,72,9.79,75,65.21,44.36,5,4
+ORD-00852,2025-10-29,CUS-0219,Corporate,North,Direct Sales,Technology,Keyboard,20,USD,65,0,1300,0,1300,28,560,28.59,740,711.41,54.72,5,3
+ORD-00853,2025-10-29,CUS-0220,Consumer,West,Online,Accessories,Backpack,3,USD,59,10,177,17.7,159.3,25,75,12.87,84.3,71.43,44.84,3,4
+ORD-00854,2025-10-29,CUS-0101,Corporate,West,Retail,Office Supplies,Notebook Set,7,USD,18,20,126,25.2,100.8,7,49,0,51.8,51.8,51.39,0,5
+ORD-00855,2025-10-30,CUS-0112,Corporate,West,Online,Accessories,Backpack,21,USD,59,5,1239,61.95,1177.05,25,525,32.42,652.05,619.63,52.64,2,5
+ORD-00856,2025-10-30,CUS-0124,Corporate,West,Retail,Accessories,Desk Lamp,8,USD,39,0,312,0,312,16,128,0,184,184,58.97,0,5
+ORD-00857,2025-10-30,CUS-0017,Consumer,West,Retail,Office Supplies,Paper Pack,1,USD,12,5,12,0.6,11.4,5,5,0,6.4,6.4,56.14,0,4
+ORD-00858,2025-10-31,CUS-0163,Corporate,South,Online,Furniture,Office Chair,2,USD,195,20,390,78,312,105,210,13.2,102,88.8,28.46,4,5
+ORD-00859,2025-10-31,CUS-0197,Small Business,North,Direct Sales,Furniture,Desk,2,USD,350,10,700,70,630,210,420,13.04,210,196.96,31.26,6,4
+ORD-00860,2025-10-31,CUS-0200,Corporate,North,Retail,Technology,Monitor,3,USD,249,20,747,149.4,597.6,155,465,0,132.6,132.6,22.19,0,5
+ORD-00861,2025-10-31,CUS-0085,Small Business,East,Direct Sales,Office Supplies,Paper Pack,9,USD,12,0,108,0,108,5,45,16.21,63,46.79,43.32,8,4
+ORD-00862,2025-11-01,CUS-0170,Corporate,East,Retail,Technology,Keyboard,22,USD,65,0,1430,0,1430,28,616,0,814,814,56.92,0,4
+ORD-00863,2025-11-01,CUS-0231,Corporate,South,Retail,Office Supplies,Printer Ink,8,USD,49,5,392,19.6,372.4,24,192,0,180.4,180.4,48.44,0,5
+ORD-00864,2025-11-02,CUS-0245,Small Business,North,Retail,Furniture,Office Chair,8,USD,195,10,1560,156,1404,105,840,0,564,564,40.17,0,4
+ORD-00865,2025-11-02,CUS-0118,Small Business,South,Direct Sales,Accessories,Desk Lamp,9,USD,39,0,351,0,351,16,144,18.69,207,188.31,53.65,8,4
+ORD-00866,2025-11-02,CUS-0175,Small Business,North,Direct Sales,Accessories,Backpack,4,USD,59,10,236,23.6,212.4,25,100,17.66,112.4,94.74,44.6,2,4
+ORD-00867,2025-11-03,CUS-0238,Consumer,East,Direct Sales,Accessories,Backpack,1,USD,59,10,59,5.9,53.1,25,25,8.17,28.1,19.93,37.53,4,5
+ORD-00868,2025-11-04,CUS-0061,Small Business,South,Retail,Furniture,Desk,2,USD,350,10,700,70,630,210,420,0,210,210,33.33,0,5
+ORD-00869,2025-11-04,CUS-0219,Corporate,North,Direct Sales,Accessories,Backpack,2,USD,59,5,118,5.9,112.1,25,50,13.07,62.1,49.03,43.74,4,4
+ORD-00870,2025-11-04,CUS-0163,Corporate,South,Retail,Accessories,Desk Lamp,12,USD,39,15,468,70.2,397.8,16,192,0,205.8,205.8,51.73,0,5
+ORD-00871,2025-11-04,CUS-0243,Consumer,North,Online,Office Supplies,Notebook Set,1,USD,18,0,18,0,18,7,7,9.29,11,1.71,9.5,5,4
+ORD-00872,2025-11-05,CUS-0004,Corporate,North,Online,Office Supplies,Printer Ink,22,USD,49,0,1078,0,1078,24,528,39.16,550,510.84,47.39,7,5
+ORD-00873,2025-11-05,CUS-0098,Consumer,North,Retail,Office Supplies,Paper Pack,2,USD,12,15,24,3.6,20.4,5,10,0,10.4,10.4,50.98,0,4
+ORD-00874,2025-11-05,CUS-0170,Corporate,East,Direct Sales,Furniture,Office Chair,22,USD,195,0,4290,0,4290,105,2310,38.55,1980,1941.45,45.26,4,4
+ORD-00875,2025-11-06,CUS-0026,Consumer,South,Retail,Furniture,Desk,1,USD,350,15,350,52.5,297.5,210,210,0,87.5,87.5,29.41,0,4
+ORD-00876,2025-11-06,CUS-0163,Corporate,South,Retail,Accessories,Backpack,3,USD,59,15,177,26.55,150.45,25,75,0,75.45,75.45,50.15,0,5
+ORD-00877,2025-11-06,CUS-0111,Corporate,North,Online,Accessories,Backpack,3,USD,59,0,177,0,177,25,75,14.62,102,87.38,49.37,5,4
+ORD-00878,2025-11-07,CUS-0094,Corporate,West,Online,Technology,Keyboard,1,USD,65,5,65,3.25,61.75,28,28,6.7,33.75,27.05,43.81,4,5
+ORD-00879,2025-11-07,CUS-0006,Small Business,South,Direct Sales,Technology,Keyboard,1,USD,65,10,65,6.5,58.5,28,28,9.78,30.5,20.72,35.42,2,4
+ORD-00880,2025-11-08,CUS-0132,Small Business,South,Retail,Technology,Keyboard,1,USD,65,20,65,13,52,28,28,0,24,24,46.15,0,5
+ORD-00881,2025-11-09,CUS-0009,Small Business,East,Retail,Accessories,Backpack,2,USD,59,5,118,5.9,112.1,25,50,0,62.1,62.1,55.4,0,5
+ORD-00882,2025-11-09,CUS-0201,Small Business,South,Direct Sales,Technology,Monitor,3,USD,249,0,747,0,747,155,465,9.79,282,272.21,36.44,5,4
+ORD-00883,2025-11-10,CUS-0087,Consumer,North,Retail,Furniture,Desk,5,USD,350,5,1750,87.5,1662.5,210,1050,0,612.5,612.5,36.84,0,4
+ORD-00884,2025-11-10,CUS-0154,Consumer,South,Retail,Office Supplies,Paper Pack,1,USD,12,0,12,0,12,5,5,0,7,7,58.33,0,5
+ORD-00885,2025-11-14,CUS-0190,Consumer,West,Online,Technology,Monitor,4,USD,249,10,996,99.6,896.4,155,620,12.06,276.4,264.34,29.49,3,5
+ORD-00886,2025-11-14,CUS-0007,Small Business,South,Online,Accessories,Backpack,3,USD,59,0,177,0,177,25,75,10.58,102,91.42,51.65,6,3
+ORD-00887,2025-11-14,CUS-0080,Consumer,West,Retail,Furniture,Office Chair,1,USD,195,20,195,39,156,105,105,0,51,51,32.69,0,5
+ORD-00888,2025-11-14,CUS-0027,Corporate,North,Online,Office Supplies,Printer Ink,12,USD,49,5,588,29.4,558.6,24,288,23.89,270.6,246.71,44.17,7,3
+ORD-00889,2025-11-14,CUS-0061,Small Business,South,Retail,Technology,Keyboard,1,USD,65,10,65,6.5,58.5,28,28,0,30.5,30.5,52.14,0,5
+ORD-00890,2025-11-15,CUS-0107,Small Business,East,Direct Sales,Office Supplies,Notebook Set,1,USD,18,15,18,2.7,15.3,7,7,8.61,8.3,-0.31,-2.03,1,5
+ORD-00891,2025-11-16,CUS-0005,Consumer,East,Online,Office Supplies,Paper Pack,4,USD,12,0,48,0,48,5,20,10.01,28,17.99,37.48,5,5
+ORD-00892,2025-11-17,CUS-0220,Consumer,West,Retail,Technology,Laptop,3,USD,899,5,2697,134.85,2562.15,610,1830,0,732.15,732.15,28.58,0,5
+ORD-00893,2025-11-17,CUS-0124,Corporate,West,Retail,Accessories,Desk Lamp,18,USD,39,0,702,0,702,16,288,0,414,414,58.97,0,5
+ORD-00894,2025-11-18,CUS-0055,Corporate,East,Retail,Technology,Monitor,18,USD,249,10,4482,448.2,4033.8,155,2790,0,1243.8,1243.8,30.83,0,5
+ORD-00895,2025-11-18,CUS-0069,Small Business,West,Online,Accessories,Desk Lamp,2,USD,39,0,78,0,78,16,32,8.16,46,37.84,48.51,6,4
+ORD-00896,2025-11-19,CUS-0089,Consumer,West,Online,Technology,Monitor,2,USD,249,20,498,99.6,398.4,155,310,6.54,88.4,81.86,20.55,9,3
+ORD-00897,2025-11-20,CUS-0089,Consumer,West,Retail,Technology,Laptop,3,USD,899,0,2697,0,2697,610,1830,0,867,867,32.15,0,5
+ORD-00898,2025-11-20,CUS-0204,Small Business,North,Direct Sales,Office Supplies,Printer Ink,12,USD,49,0,588,0,588,24,288,25.99,300,274.01,46.6,8,4
+ORD-00899,2025-11-21,CUS-0224,Consumer,West,Online,Office Supplies,Paper Pack,3,USD,12,20,36,7.2,28.8,5,15,15.24,13.8,-1.44,-5,8,3
+ORD-00900,2025-11-21,CUS-0004,Corporate,North,Online,Furniture,Desk,14,USD,350,5,4900,245,4655,210,2940,23.7,1715,1691.3,36.33,7,3
+ORD-00901,2025-11-21,CUS-0077,Consumer,South,Direct Sales,Technology,Keyboard,3,USD,65,15,195,29.25,165.75,28,84,9.37,81.75,72.38,43.67,1,4
+ORD-00902,2025-11-21,CUS-0167,Corporate,North,Direct Sales,Furniture,Office Chair,6,USD,195,10,1170,117,1053,105,630,13.99,423,409.01,38.84,6,5
+ORD-00903,2025-11-22,CUS-0079,Consumer,North,Retail,Accessories,Backpack,1,USD,59,15,59,8.85,50.15,25,25,0,25.15,25.15,50.15,0,5
+ORD-00904,2025-11-24,CUS-0030,Small Business,West,Retail,Technology,Monitor,1,USD,249,20,249,49.8,199.2,155,155,0,44.2,44.2,22.19,0,4
+ORD-00905,2025-11-24,CUS-0055,Corporate,East,Online,Office Supplies,Printer Ink,12,USD,49,0,588,0,588,24,288,21.42,300,278.58,47.38,2,5
+ORD-00906,2025-11-24,CUS-0216,Small Business,North,Retail,Furniture,Desk,8,USD,350,20,2800,560,2240,210,1680,0,560,560,25,0,4
+ORD-00907,2025-11-24,CUS-0167,Corporate,North,Direct Sales,Office Supplies,Printer Ink,7,USD,49,0,343,0,343,24,168,16.27,175,158.73,46.28,4,4
+ORD-00908,2025-11-24,CUS-0062,Consumer,East,Direct Sales,Technology,Keyboard,4,USD,65,15,260,39,221,28,112,9.14,109,99.86,45.19,2,4
+ORD-00909,2025-11-25,CUS-0092,Consumer,North,Retail,Accessories,Backpack,1,USD,59,20,59,11.8,47.2,25,25,0,22.2,22.2,47.03,0,5
+ORD-00910,2025-11-25,CUS-0060,Small Business,South,Online,Accessories,Desk Lamp,7,USD,39,0,273,0,273,16,112,18.54,161,142.46,52.18,8,4
+ORD-00911,2025-11-25,CUS-0197,Small Business,North,Online,Technology,Keyboard,4,USD,65,15,260,39,221,28,112,17.26,109,91.74,41.51,2,5
+ORD-00912,2025-11-26,CUS-0068,Consumer,East,Direct Sales,Furniture,Office Chair,2,USD,195,0,390,0,390,105,210,14.2,180,165.8,42.51,7,4
+ORD-00913,2025-11-26,CUS-0078,Small Business,South,Retail,Accessories,Backpack,8,USD,59,10,472,47.2,424.8,25,200,0,224.8,224.8,52.92,0,5
+ORD-00914,2025-11-26,CUS-0204,Small Business,North,Retail,Office Supplies,Notebook Set,10,USD,18,20,180,36,144,7,70,0,74,74,51.39,0,4
+ORD-00915,2025-11-27,CUS-0214,Consumer,East,Direct Sales,Technology,Laptop,2,USD,899,0,1798,0,1798,610,1220,10.81,578,567.19,31.55,2,5
+ORD-00916,2025-11-27,CUS-0177,Consumer,West,Online,Office Supplies,Printer Ink,1,USD,49,0,49,0,49,24,24,9.44,25,15.56,31.76,5,4
+ORD-00917,2025-11-27,CUS-0244,Consumer,North,Online,Technology,Keyboard,3,USD,65,15,195,29.25,165.75,28,84,13.01,81.75,68.74,41.47,1,5
+ORD-00918,2025-11-28,CUS-0203,Small Business,South,Online,Office Supplies,Paper Pack,4,USD,12,10,48,4.8,43.2,5,20,13.49,23.2,9.71,22.48,2,4
+ORD-00919,2025-11-28,CUS-0088,Consumer,East,Online,Accessories,Desk Lamp,4,USD,39,10,156,15.6,140.4,16,64,15.46,76.4,60.94,43.4,3,5
+ORD-00920,2025-11-28,CUS-0212,Small Business,West,Direct Sales,Office Supplies,Printer Ink,12,USD,49,5,588,29.4,558.6,24,288,26.43,270.6,244.17,43.71,7,4
+ORD-00921,2025-11-28,CUS-0126,Corporate,East,Retail,Furniture,Office Chair,1,USD,195,15,195,29.25,165.75,105,105,0,60.75,60.75,36.65,0,5
+ORD-00922,2025-11-28,CUS-0098,Consumer,North,Retail,Furniture,Desk,2,USD,350,15,700,105,595,210,420,0,175,175,29.41,0,5
+ORD-00923,2025-11-29,CUS-0099,Small Business,North,Direct Sales,Technology,Monitor,11,USD,249,5,2739,136.95,2602.05,155,1705,20.26,897.05,876.79,33.7,2,5
+ORD-00924,2025-11-29,CUS-0041,Small Business,East,Direct Sales,Technology,Keyboard,11,USD,65,15,715,107.25,607.75,28,308,24.14,299.75,275.61,45.35,2,5
+ORD-00925,2025-11-29,CUS-0202,Small Business,East,Retail,Office Supplies,Paper Pack,10,USD,12,10,120,12,108,5,50,0,58,58,53.7,0,4
+ORD-00926,2025-11-30,CUS-0220,Consumer,West,Online,Furniture,Office Chair,3,USD,195,0,585,0,585,105,315,8.47,270,261.53,44.71,8,4
+ORD-00927,2025-11-30,CUS-0234,Consumer,East,Online,Furniture,Office Chair,1,USD,195,20,195,39,156,105,105,6.49,51,44.51,28.53,6,5
+ORD-00928,2025-11-30,CUS-0171,Consumer,North,Online,Technology,Keyboard,3,USD,65,20,195,39,156,28,84,16.42,72,55.58,35.63,1,5
+ORD-00929,2025-12-01,CUS-0209,Small Business,West,Retail,Technology,Laptop,11,USD,899,20,9889,1977.8,7911.2,610,6710,0,1201.2,1201.2,15.18,0,5
+ORD-00930,2025-12-01,CUS-0090,Small Business,West,Direct Sales,Furniture,Office Chair,2,USD,195,10,390,39,351,105,210,13.61,141,127.39,36.29,1,4
+ORD-00931,2025-12-02,CUS-0019,Corporate,North,Online,Technology,Monitor,20,USD,249,0,4980,0,4980,155,3100,30.38,1880,1849.62,37.14,2,5
+ORD-00932,2025-12-02,CUS-0132,Small Business,South,Direct Sales,Accessories,Desk Lamp,5,USD,39,20,195,39,156,16,80,11.71,76,64.29,41.21,8,4
+ORD-00933,2025-12-02,CUS-0075,Small Business,South,Direct Sales,Technology,Monitor,6,USD,249,0,1494,0,1494,155,930,15.41,564,548.59,36.72,2,4
+ORD-00934,2025-12-02,CUS-0184,Corporate,East,Retail,Technology,Keyboard,1,USD,65,15,65,9.75,55.25,28,28,0,27.25,27.25,49.32,0,4
+ORD-00935,2025-12-03,CUS-0184,Corporate,East,Online,Office Supplies,Paper Pack,7,USD,12,5,84,4.2,79.8,5,35,17.12,44.8,27.68,34.69,7,4
+ORD-00936,2025-12-03,CUS-0027,Corporate,North,Online,Office Supplies,Printer Ink,12,USD,49,0,588,0,588,24,288,23.42,300,276.58,47.04,3,4
+ORD-00937,2025-12-03,CUS-0235,Consumer,West,Online,Accessories,Backpack,1,USD,59,20,59,11.8,47.2,25,25,8.96,22.2,13.24,28.05,2,5
+ORD-00938,2025-12-03,CUS-0151,Corporate,South,Retail,Accessories,Desk Lamp,23,USD,39,0,897,0,897,16,368,0,529,529,58.97,0,4
+ORD-00939,2025-12-04,CUS-0119,Small Business,South,Direct Sales,Office Supplies,Paper Pack,12,USD,12,20,144,28.8,115.2,5,60,26.26,55.2,28.94,25.12,4,4
+ORD-00940,2025-12-04,CUS-0224,Consumer,West,Online,Accessories,Backpack,3,USD,59,0,177,0,177,25,75,14.04,102,87.96,49.69,5,4
+ORD-00941,2025-12-04,CUS-0087,Consumer,North,Direct Sales,Furniture,Desk,3,USD,350,5,1050,52.5,997.5,210,630,14.52,367.5,352.98,35.39,2,5
+ORD-00942,2025-12-06,CUS-0204,Small Business,North,Retail,Office Supplies,Paper Pack,11,USD,12,15,132,19.8,112.2,5,55,0,57.2,57.2,50.98,0,5
+ORD-00943,2025-12-06,CUS-0127,Small Business,West,Retail,Technology,Keyboard,11,USD,65,0,715,0,715,28,308,0,407,407,56.92,0,5
+ORD-00944,2025-12-06,CUS-0197,Small Business,North,Direct Sales,Furniture,Desk,2,USD,350,10,700,70,630,210,420,11.64,210,198.36,31.49,3,5
+ORD-00945,2025-12-06,CUS-0013,Consumer,South,Online,Furniture,Office Chair,5,USD,195,10,975,97.5,877.5,105,525,12.62,352.5,339.88,38.73,9,3
+ORD-00946,2025-12-07,CUS-0155,Corporate,West,Online,Office Supplies,Printer Ink,5,USD,49,10,245,24.5,220.5,24,120,12.1,100.5,88.4,40.09,9,4
+ORD-00947,2025-12-07,CUS-0071,Consumer,South,Retail,Furniture,Office Chair,4,USD,195,0,780,0,780,105,420,0,360,360,46.15,0,4
+ORD-00948,2025-12-08,CUS-0112,Corporate,West,Retail,Office Supplies,Notebook Set,10,USD,18,15,180,27,153,7,70,0,83,83,54.25,0,4
+ORD-00949,2025-12-09,CUS-0116,Consumer,North,Online,Office Supplies,Paper Pack,3,USD,12,15,36,5.4,30.6,5,15,8.14,15.6,7.46,24.38,8,4
+ORD-00950,2025-12-10,CUS-0087,Consumer,North,Direct Sales,Technology,Monitor,1,USD,249,15,249,37.35,211.65,155,155,12.61,56.65,44.04,20.81,6,3
+ORD-00951,2025-12-10,CUS-0019,Corporate,North,Direct Sales,Office Supplies,Paper Pack,2,USD,12,20,24,4.8,19.2,5,10,8.65,9.2,0.55,2.86,1,5
+ORD-00952,2025-12-11,CUS-0025,Corporate,West,Retail,Office Supplies,Paper Pack,11,USD,12,5,132,6.6,125.4,5,55,0,70.4,70.4,56.14,0,5
+ORD-00953,2025-12-11,CUS-0115,Corporate,North,Online,Accessories,Desk Lamp,17,USD,39,15,663,99.45,563.55,16,272,28.47,291.55,263.08,46.68,8,4
+ORD-00954,2025-12-12,CUS-0153,Consumer,West,Retail,Technology,Keyboard,3,USD,65,20,195,39,156,28,84,0,72,72,46.15,0,5
+ORD-00955,2025-12-12,CUS-0060,Small Business,South,Direct Sales,Office Supplies,Notebook Set,11,USD,18,5,198,9.9,188.1,7,77,21.17,111.1,89.93,47.81,9,3
+ORD-00956,2025-12-12,CUS-0026,Consumer,South,Retail,Technology,Laptop,4,USD,899,20,3596,719.2,2876.8,610,2440,0,436.8,436.8,15.18,0,5
+ORD-00957,2025-12-13,CUS-0070,Small Business,West,Retail,Accessories,Backpack,9,USD,59,10,531,53.1,477.9,25,225,0,252.9,252.9,52.92,0,5
+ORD-00958,2025-12-13,CUS-0127,Small Business,West,Retail,Technology,Laptop,8,USD,899,20,7192,1438.4,5753.6,610,4880,0,873.6,873.6,15.18,0,5
+ORD-00959,2025-12-14,CUS-0216,Small Business,North,Direct Sales,Technology,Laptop,10,USD,899,10,8990,899,8091,610,6100,23.26,1991,1967.74,24.32,4,5
+ORD-00960,2025-12-14,CUS-0106,Consumer,North,Online,Furniture,Office Chair,3,USD,195,20,585,117,468,105,315,15.15,153,137.85,29.46,3,4
+ORD-00961,2025-12-14,CUS-0231,Corporate,South,Retail,Furniture,Desk,4,USD,350,10,1400,140,1260,210,840,0,420,420,33.33,0,4
+ORD-00962,2025-12-14,CUS-0230,Consumer,South,Retail,Furniture,Office Chair,5,USD,195,0,975,0,975,105,525,0,450,450,46.15,0,5
+ORD-00963,2025-12-15,CUS-0192,Corporate,West,Retail,Accessories,Desk Lamp,3,USD,39,0,117,0,117,16,48,0,69,69,58.97,0,5
+ORD-00964,2025-12-16,CUS-0077,Consumer,South,Direct Sales,Office Supplies,Notebook Set,5,USD,18,0,90,0,90,7,35,10.55,55,44.45,49.39,9,3
+ORD-00965,2025-12-17,CUS-0205,Small Business,West,Online,Office Supplies,Printer Ink,8,USD,49,0,392,0,392,24,192,18.95,200,181.05,46.19,3,4
+ORD-00966,2025-12-17,CUS-0166,Consumer,North,Retail,Office Supplies,Printer Ink,4,USD,49,0,196,0,196,24,96,0,100,100,51.02,0,5
+ORD-00967,2025-12-18,CUS-0188,Small Business,West,Retail,Accessories,Desk Lamp,10,USD,39,20,390,78,312,16,160,0,152,152,48.72,0,5
+ORD-00968,2025-12-19,CUS-0208,Small Business,East,Direct Sales,Technology,Laptop,7,USD,899,20,6293,1258.6,5034.4,610,4270,19.2,764.4,745.2,14.8,1,5
+ORD-00969,2025-12-19,CUS-0216,Small Business,North,Online,Accessories,Backpack,7,USD,59,15,413,61.95,351.05,25,175,15.22,176.05,160.83,45.81,8,4
+ORD-00970,2025-12-19,CUS-0089,Consumer,West,Direct Sales,Accessories,Desk Lamp,5,USD,39,5,195,9.75,185.25,16,80,15.55,105.25,89.7,48.42,3,5
+ORD-00971,2025-12-19,CUS-0241,Small Business,East,Retail,Technology,Laptop,9,USD,899,15,8091,1213.65,6877.35,610,5490,0,1387.35,1387.35,20.17,0,4
+ORD-00972,2025-12-19,CUS-0092,Consumer,North,Retail,Technology,Keyboard,4,USD,65,20,260,52,208,28,112,0,96,96,46.15,0,5
+ORD-00973,2025-12-20,CUS-0055,Corporate,East,Direct Sales,Furniture,Office Chair,24,USD,195,15,4680,702,3978,105,2520,39.52,1458,1418.48,35.66,8,4
+ORD-00974,2025-12-20,CUS-0010,Consumer,East,Retail,Office Supplies,Printer Ink,1,USD,49,10,49,4.9,44.1,24,24,0,20.1,20.1,45.58,0,5
+ORD-00975,2025-12-20,CUS-0062,Consumer,East,Online,Office Supplies,Notebook Set,1,USD,18,0,18,0,18,7,7,5.42,11,5.58,31,6,5
+ORD-00976,2025-12-20,CUS-0154,Consumer,South,Online,Accessories,Backpack,4,USD,59,5,236,11.8,224.2,25,100,8.88,124.2,115.32,51.44,3,4
+ORD-00977,2025-12-21,CUS-0007,Small Business,South,Retail,Technology,Laptop,12,USD,899,5,10788,539.4,10248.6,610,7320,0,2928.6,2928.6,28.58,0,5
+ORD-00978,2025-12-21,CUS-0001,Small Business,North,Retail,Accessories,Desk Lamp,10,USD,39,10,390,39,351,16,160,0,191,191,54.42,0,5
+ORD-00979,2025-12-22,CUS-0103,Consumer,North,Direct Sales,Office Supplies,Printer Ink,2,USD,49,20,98,19.6,78.4,24,48,9.22,30.4,21.18,27.02,6,3
+ORD-00980,2025-12-22,CUS-0233,Small Business,South,Online,Technology,Laptop,12,USD,899,5,10788,539.4,10248.6,610,7320,26.1,2928.6,2902.5,28.32,3,5
+ORD-00981,2025-12-23,CUS-0095,Consumer,East,Retail,Technology,Laptop,5,USD,899,15,4495,674.25,3820.75,610,3050,0,770.75,770.75,20.17,0,5
+ORD-00982,2025-12-24,CUS-0147,Consumer,West,Retail,Office Supplies,Printer Ink,1,USD,49,0,49,0,49,24,24,0,25,25,51.02,0,5
+ORD-00983,2025-12-24,CUS-0137,Corporate,East,Direct Sales,Technology,Monitor,14,USD,249,0,3486,0,3486,155,2170,21,1316,1295,37.15,3,4
+ORD-00984,2025-12-25,CUS-0129,Corporate,East,Retail,Office Supplies,Notebook Set,8,USD,18,15,144,21.6,122.4,7,56,0,66.4,66.4,54.25,0,5
+ORD-00985,2025-12-25,CUS-0064,Corporate,North,Online,Office Supplies,Paper Pack,20,USD,12,5,240,12,228,5,100,29.01,128,98.99,43.42,1,5
+ORD-00986,2025-12-26,CUS-0009,Small Business,East,Retail,Technology,Monitor,7,USD,249,0,1743,0,1743,155,1085,0,658,658,37.75,0,5
+ORD-00987,2025-12-26,CUS-0198,Consumer,East,Retail,Office Supplies,Notebook Set,5,USD,18,5,90,4.5,85.5,7,35,0,50.5,50.5,59.06,0,4
+ORD-00988,2025-12-26,CUS-0230,Consumer,South,Retail,Office Supplies,Printer Ink,1,USD,49,5,49,2.45,46.55,24,24,0,22.55,22.55,48.44,0,5
+ORD-00989,2025-12-26,CUS-0070,Small Business,West,Online,Technology,Keyboard,4,USD,65,0,260,0,260,28,112,16.27,148,131.73,50.67,8,3
+ORD-00990,2025-12-27,CUS-0166,Consumer,North,Direct Sales,Furniture,Office Chair,3,USD,195,5,585,29.25,555.75,105,315,9.02,240.75,231.73,41.7,2,4
+ORD-00991,2025-12-27,CUS-0200,Corporate,North,Retail,Office Supplies,Printer Ink,6,USD,49,0,294,0,294,24,144,0,150,150,51.02,0,4
+ORD-00992,2025-12-27,CUS-0039,Corporate,East,Direct Sales,Accessories,Desk Lamp,23,USD,39,15,897,134.55,762.45,16,368,37.89,394.45,356.56,46.77,2,4
+ORD-00993,2025-12-28,CUS-0061,Small Business,South,Retail,Technology,Monitor,8,USD,249,5,1992,99.6,1892.4,155,1240,0,652.4,652.4,34.47,0,5
+ORD-00994,2025-12-28,CUS-0174,Corporate,East,Direct Sales,Accessories,Desk Lamp,23,USD,39,0,897,0,897,16,368,39.45,529,489.55,54.58,6,5
+ORD-00995,2025-12-30,CUS-0033,Corporate,West,Direct Sales,Technology,Keyboard,25,USD,65,0,1625,0,1625,28,700,40.88,925,884.12,54.41,7,3
+ORD-00996,2025-12-30,CUS-0203,Small Business,South,Direct Sales,Furniture,Desk,1,USD,350,15,350,52.5,297.5,210,210,8.19,87.5,79.31,26.66,5,3
+ORD-00997,2025-12-30,CUS-0142,Consumer,North,Direct Sales,Accessories,Backpack,3,USD,59,10,177,17.7,159.3,25,75,9.75,84.3,74.55,46.8,4,5
+ORD-00998,2025-12-30,CUS-0187,Small Business,North,Online,Technology,Laptop,9,USD,899,10,8091,809.1,7281.9,610,5490,19.7,1791.9,1772.2,24.34,9,4
+ORD-00999,2025-12-31,CUS-0176,Consumer,South,Retail,Accessories,Backpack,2,USD,59,10,118,11.8,106.2,25,50,0,56.2,56.2,52.92,0,5
+ORD-01000,2025-12-31,CUS-0231,Corporate,South,Direct Sales,Office Supplies,Paper Pack,16,USD,12,5,192,9.6,182.4,5,80,29.64,102.4,72.76,39.89,9,4
